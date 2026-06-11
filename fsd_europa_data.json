@@ -1,85 +1,507 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-10T14:00:00Z",
+  "lastUpdated": "2026-06-11T10:00:00Z",
   "countries": [
     {
       "id": "NL",
       "name": "Niederlande",
       "isoCode": "NL",
       "status": "available",
-      "center": { "latitude": 52.15, "longitude": 5.29 },
+      "center": {
+        "latitude": 52.15,
+        "longitude": 5.29
+      },
       "lastChanged": "2026-04-10",
-      "note": "FSD Supervised ist in den Niederlanden verfügbar. Fahreraufsicht bleibt erforderlich.",
-      "sourceTitle": "Tesla / RDW",
-      "sourceURL": "https://www.tesla.com/en_gb/fsd"
+      "note": "Erster europäischer Markt. RDW erteilte am 10. April 2026 die erste EU-Typgenehmigung nach UN R-171. Nur HW4 (AI4). 99€/Monat Abo.",
+      "sourceTitle": "RDW – Erklärung zur europäischen Typgenehmigung",
+      "sourceURL": "https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands"
     },
     {
       "id": "LT",
       "name": "Litauen",
       "isoCode": "LT",
       "status": "available",
-      "center": { "latitude": 55.17, "longitude": 23.88 },
+      "center": {
+        "latitude": 55.17,
+        "longitude": 23.88
+      },
       "lastChanged": "2026-05-20",
-      "note": "Litauen hat FSD Supervised nach Anerkennung der niederländischen Genehmigung freigeschaltet.",
-      "sourceTitle": "Reuters / Tesla",
-      "sourceURL": "https://www.reuters.com/world/europe/tesla-launches-full-self-driving-lithuania-2026-05-20/"
+      "note": "Zweiter EU-Markt. Litauen erkannte am 20. Mai 2026 die RDW-Genehmigung an. Rollout startete noch am selben Tag.",
+      "sourceTitle": "Electrek – Tesla FSD Litauen",
+      "sourceURL": "https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/"
     },
     {
       "id": "EE",
       "name": "Estland",
       "isoCode": "EE",
       "status": "available",
-      "center": { "latitude": 58.73, "longitude": 25.01 },
+      "center": {
+        "latitude": 58.73,
+        "longitude": 25.01
+      },
       "lastChanged": "2026-05-29",
-      "note": "Estland hat FSD Supervised für seine Strassen freigegeben. Fahrer bleiben verantwortlich.",
-      "sourceTitle": "Reuters",
-      "sourceURL": "https://www.reuters.com/business/estonia-clears-tesla-fsd-roads-company-says-rollout-begin-soon-2026-05-29/"
+      "note": "Dritter EU-Markt. Estlands Verkehrsbehörde gab FSD am 29. Mai 2026 nach Anerkennung der RDW-Genehmigung frei.",
+      "sourceTitle": "Tesla Oracle – Estland FSD",
+      "sourceURL": "https://www.teslaoracle.com/2026/05/30/tesla-fsd-gets-approved-in-the-third-european-country/"
     },
     {
       "id": "DK",
       "name": "Dänemark",
       "isoCode": "DK",
       "status": "available",
-      "center": { "latitude": 56.16, "longitude": 10.10 },
+      "center": {
+        "latitude": 56.16,
+        "longitude": 10.1
+      },
       "lastChanged": "2026-06-09",
-      "note": "Dänemark wurde als europäischer Markt für FSD Supervised gemeldet.",
-      "sourceTitle": "Tesla Europe / Medien",
-      "sourceURL": "https://www.tesla.com/en_gb/fsd"
+      "note": "Vierter EU-Markt. Færdselsstyrelsen erteilte am 9. Juni 2026 die Freigabe. Zeitgleich startete FSD v14.2.2.6.",
+      "sourceTitle": "Electrek – Tesla FSD Dänemark",
+      "sourceURL": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/"
+    },
+    {
+      "id": "BE",
+      "name": "Belgien",
+      "isoCode": "BE",
+      "status": "available",
+      "center": {
+        "latitude": 50.85,
+        "longitude": 4.35
+      },
+      "lastChanged": "2026-06-10",
+      "note": "Fünfter EU-Markt und 13. Land weltweit. Flämische Mobilitätsministerin De Ridder unterzeichnete am 10. Juni 2026 die Freigabe.",
+      "sourceTitle": "Not a Tesla App – Belgien FSD",
+      "sourceURL": "https://www.notateslaapp.com/news/4279/teslas-european-fsd-rollout-speeds-up-with-belgium-approval"
     }
   ],
   "updates": [
     {
-      "id": "2026-17-5-fsd-eu",
-      "version": "2026.17.5 / FSD 14.2.2.6",
-      "title": "FSD Supervised Europe Update",
-      "date": "2026-06-09",
-      "region": "Europa",
-      "summary": "FSD Supervised Europe Release Notes und Hinweise zur Fahreraufsicht.",
-      "tags": ["FSD", "Europa", "Changelog"],
-      "type": "fsd",
-      "changelog": [
-        "Unter Fahreraufsicht kann FSD ausgewählte Fahraufgaben entlang der Navigation unterstützen.",
-        "Das Fahrzeug wird dadurch nicht autonom.",
-        "Weitere Länder können über diese JSON-Datei ergänzt werden."
+      "id": "2026-06-10-be-approval",
+      "version": "Regulatorisch",
+      "title": "Belgien genehmigt FSD – 13. Land weltweit, 5. in Europa",
+      "date": "2026-06-10",
+      "region": "Belgien",
+      "summary": "Flämische Mobiliätsministerin Annick De Ridder unterzeichnete die Freigabe nur 24 Stunden nach Dänemark. Belgien ist das 5. europäische und 13. Land weltweit mit FSD-Zulassung.",
+      "tags": [
+        "BE",
+        "Belgien",
+        "Regulatorisch",
+        "Europa"
       ],
-      "sourceTitle": "Tesla FSD",
-      "sourceURL": "https://www.tesla.com/en_gb/fsd"
+      "type": "regulatory",
+      "changelog": [
+        "Fünfter EU-Markt nach NL, LT, EE, DK",
+        "Freigabe durch flämischen Mobiliät durch Ministerin De Ridder",
+        "Vollständige Ratifizierung vor OTA-Rollout noch ausstehend",
+        "FSD jetzt in 13 Ländern und Territorien weltweit",
+        "ETSC und weitere Sicherheitsbehörden beobachten den schnellen Rollout kritisch"
+      ],
+      "sourceTitle": "Not a Tesla App – Belgien FSD Genehmigung",
+      "sourceURL": "https://www.notateslaapp.com/news/4279/teslas-european-fsd-rollout-speeds-up-with-belgium-approval"
     },
     {
-      "id": "tesla-software-example",
-      "version": "2026.xx.x",
-      "title": "Tesla Software Update Beispiel",
-      "date": "2026-06-10",
+      "id": "2026-06-09-dk-approval",
+      "version": "Regulatorisch",
+      "title": "Dänemark: Vierter europäischer FSD-Markt genehmigt",
+      "date": "2026-06-09",
+      "region": "Dänemark",
+      "summary": "Færdselsstyrelsen erteilte nach eigenständiger Prüfung der RDW-Dokumentation die Freigabe. Zeitgleich startete das FSD v14.2.2.6 Update (2026.17.5) in den Niederlanden.",
+      "tags": [
+        "DK",
+        "Dänemark",
+        "Regulatorisch"
+      ],
+      "type": "regulatory",
+      "changelog": [
+        "Færdselsstyrelsen prüfte RDW-Dokumentation eigenständig",
+        "Offizielle Aussage: System trägt positiv zur Strassenverkehrssicherheit bei",
+        "Genehmigung erlöscht bei EU-Kommissions-Ablehnung nach 6 Monaten",
+        "Rollout mit FSD v14.2.2.6 (2026.17.5) zeitgleich"
+      ],
+      "sourceTitle": "Electrek – Dänemark vierter europäischer Markt",
+      "sourceURL": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/"
+    },
+    {
+      "id": "2026-06-06-fsd-14226",
+      "version": "2026.17.5 / FSD 14.2.2.6",
+      "title": "FSD 14.2.2.6 (2026.17.5) – Erster Branch-Merge für Europa",
+      "date": "2026-06-06",
       "region": "Europa",
-      "summary": "Hier trägst du normale Tesla Software Updates ein, unabhängig von FSD.",
-      "tags": ["Tesla", "Software", "Release Notes"],
+      "summary": "Zweites FSD-Software-Update in Europa. FSD- und Spring-Update-Branch werden erstmals zusammengeführt. EU-Fahrer erhalten damit alle Spring-Features. Rollout startet in den Niederlanden.",
+      "tags": [
+        "FSD",
+        "14.2.2.6",
+        "2026.17.5",
+        "Branch-Merge",
+        "Europa"
+      ],
+      "type": "fsd",
+      "changelog": [
+        "FSD v14.2.2.6 – Inkrementelles Update gegenüber 14.2.2.5",
+        "FSD- und Spring-Update-2026.14+-Branch erstmals zusammengeführt",
+        "EU-Fahrer erhalten jetzt Self-Driving App, Rücksitznavigation und 24h-Dashcam",
+        "Verbesserte Stadtnavigation und Kreisverkehrerkennung (NL-spezifisches Training)",
+        "Fahreraufmerksamkeits-Monitor (DMS) in 14.2.2.6 leicht angepasst"
+      ],
+      "sourceTitle": "Not a Tesla App – 2026.17.5 Release Notes",
+      "sourceURL": "https://www.notateslaapp.com/software-updates/version/2026.17.5/release-notes"
+    },
+    {
+      "id": "2026-06-06-software-2026175",
+      "version": "2026.17.5",
+      "title": "Tesla Software 2026.17.5 – Spring-Features jetzt für EU-FSD-Nutzer",
+      "date": "2026-06-06",
+      "region": "Europa",
+      "summary": "Mit 2026.17.5 erhalten FSD-Nutzer in Europa erstmals alle Spring-Update-Features: Self-Driving App, Rücksitznavigation, 24h-Dashcam und Nacht-Updates.",
+      "tags": [
+        "Software",
+        "2026.17.5",
+        "Europa"
+      ],
       "type": "teslaSoftware",
       "changelog": [
-        "Neue Komfort- oder Sicherheitsfunktionen hier eintragen.",
-        "Changelog-Zeilen können beliebig erweitert werden."
+        "Self-Driving App im App Launcher: FSD-Statistiken und Abo per Fingertipp",
+        "Rücksitz-Display: Beifahrer können live mitnavigieren",
+        "Dashcam-Aufnahmen jetzt bis zu 24 Stunden",
+        "Automatische Nacht-Updates wenn Fahrzeug parkt",
+        "Interventionsfreier Strecken-Rekordtracker in der Self-Driving App"
       ],
-      "sourceTitle": "Eigene Quelle",
-      "sourceURL": "https://www.tesla.com/support/software-updates"
+      "sourceTitle": "Basenor – 2026.17.5 EU Branch-Merge",
+      "sourceURL": "https://www.basenor.com/blogs/news/tesla-update-2026-17-5"
+    },
+    {
+      "id": "2026-05-29-ee-approval",
+      "version": "Regulatorisch",
+      "title": "Estland: Dritter europäischer FSD-Markt freigegeben",
+      "date": "2026-05-29",
+      "region": "Estland",
+      "summary": "Estlands Verkehrsbehörde gab FSD Supervised am 29. Mai 2026 frei. Gegenseitige Anerkennung der niederländischen RDW-Typgenehmigung. ETSC mahnt zur Vorsicht.",
+      "tags": [
+        "EE",
+        "Estland",
+        "Regulatorisch"
+      ],
+      "type": "regulatory",
+      "changelog": [
+        "Dritter EU-Markt durch gegenseitige Anerkennung",
+        "HW4 (AI4) weiterhin Pflicht",
+        "ETSC warnt vor zu schnellem nationalen Rollout ohne EU-weite Abstimmung",
+        "Fahreraufsicht jederzeit Pflicht"
+      ],
+      "sourceTitle": "Tesla Oracle – Estland FSD genehmigt",
+      "sourceURL": "https://www.teslaoracle.com/2026/05/30/tesla-fsd-gets-approved-in-the-third-european-country/"
+    },
+    {
+      "id": "2026-05-17-fsd-1433",
+      "version": "FSD 14.3.3 / 2026.14.6.6",
+      "title": "FSD 14.3.3 – Streak-Counter, MLIR-Compiler & 20% schnellere Reaktion",
+      "date": "2026-05-17",
+      "region": "Nordamerika (EU folgt mit Branch-Merge)",
+      "summary": "FSD 14.3.3 führt einen interventionsfreien Strecken-Rekordtracker ein und bringt grundlegendes KI-Upgrade mit neuem MLIR-Compiler. Features kommen mit nächstem EU-Branch-Merge.",
+      "tags": [
+        "FSD",
+        "14.3.3",
+        "MLIR",
+        "KI",
+        "Nordamerika"
+      ],
+      "type": "fsd",
+      "changelog": [
+        "Neuer interventionsfreier Strecken-Rekordtracker in der Self-Driving App",
+        "Kompletter MLIR-KI-Compiler-Umbau: 20% schnellere Reaktionszeit",
+        "Verstärktes Reinforcement-Learning-Training",
+        "Verbesserter neuronaler Netzwerk-Vision-Encoder für wechselnde Lichtsituationen",
+        "Verbessertes Augenverfolgungssystem (auch mit Sonnenbrille)"
+      ],
+      "sourceTitle": "Tesla Oracle – FSD 14.3.3 Release Notes",
+      "sourceURL": "https://www.teslaoracle.com/2026/05/17/tesla-fsd-v14-3-3-2026-14-6-6-adds-a-new-fsd-intervention-free-live-streak-counter-video-release-notes/"
+    },
+    {
+      "id": "2026-05-20-lt-approval",
+      "version": "Regulatorisch",
+      "title": "Litauen: Zweiter europäischer FSD-Markt",
+      "date": "2026-05-20",
+      "region": "Litauen",
+      "summary": "Litauen erkannte die niederländische RDW-Genehmigung an und wurde zweiter EU-Markt für FSD. Rollout startete noch am Genehmigungstag – teilweise bevor Tesla selbst informiert war.",
+      "tags": [
+        "LT",
+        "Litauen",
+        "Regulatorisch"
+      ],
+      "type": "regulatory",
+      "changelog": [
+        "Zweiter EU-Markt durch gegenseitige Anerkennung der RDW-Typgenehmigung",
+        "Litauen genehmigte vor Teslas eigener Software-Berücksichtigung",
+        "Rollout mit FSD v14.2.2.5 (Build 2026.3.6)",
+        "HW4 (AI4) Pflicht, Fahreraufsicht jederzeit erforderlich"
+      ],
+      "sourceTitle": "Electrek – Tesla FSD Litauen",
+      "sourceURL": "https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/"
+    },
+    {
+      "id": "2026-05-10-software-201414",
+      "version": "2026.14.2",
+      "title": "Tesla Software 2026.14.2 – Self-Driving App & Rücksitz-Navigation",
+      "date": "2026-05-10",
+      "region": "Global",
+      "summary": "Update 2026.14.2 bringt die neue Self-Driving App, Rücksitz-Kartenanzeige und verbesserte Komfortfunktionen. Für EU-FSD-Nutzer mit dem nächsten Branch-Merge verfügbar.",
+      "tags": [
+        "Software",
+        "2026.14.2",
+        "Self-Driving App"
+      ],
+      "type": "teslaSoftware",
+      "changelog": [
+        "Neue Self-Driving App: FSD-Abo, Statistiken & Aktivierung im App Launcher",
+        "Rücksitz-Display: Beifahrer können live mitnavigieren",
+        "Automatische Nacht-Updates wenn Fahrzeug parkt",
+        "Dashcam-Aufnahmen bis zu 24 Stunden",
+        "Blindspot-Warnung beim Parken via Lautsprecher"
+      ],
+      "sourceTitle": "Not a Tesla App – 2026.14.2 Release Notes",
+      "sourceURL": "https://www.notateslaapp.com/software-updates/version/2026.14.2/release-notes"
+    },
+    {
+      "id": "2026-04-27-fsd-1432",
+      "version": "FSD 14.3.2 / 2026.2.9.8",
+      "title": "FSD 14.3.2 – MLIR-Compiler & Anti-Tailgating",
+      "date": "2026-04-27",
+      "region": "Nordamerika (EU folgt)",
+      "summary": "FSD 14.3.2 bringt den neuen MLIR-Compiler mit 20% schnellerer Reaktionszeit, weniger aggressives Auffahren und verbesserte Hinderniserkennung für seltene Szenarien.",
+      "tags": [
+        "FSD",
+        "14.3.2",
+        "MLIR",
+        "Nordamerika"
+      ],
+      "type": "fsd",
+      "changelog": [
+        "MLIR-KI-Compiler: 20% schnellere Reaktionszeit gegenüber Vorgänger",
+        "Anti-Tailgating: Weniger aggressives Auffahren hinter Fahrzeugen",
+        "Verbessertes Reinforcement-Learning für realistische Szenarien",
+        "Verbesserte Erkennung: Notfahrzeuge, Schulbusse, kleine Tiere, Strassenhindernisse",
+        "Verbesserte Einparkentscheidungen"
+      ],
+      "sourceTitle": "Tesla Oracle – FSD 14.3.2 Release Notes",
+      "sourceURL": "https://www.teslaoracle.com/2026/04/27/tesla-rolls-out-fsd-v14-3-2-2026-2-9-8-first-impressions-release-notes-rollout-status/"
+    },
+    {
+      "id": "2026-04-11-fsd-eu-launch",
+      "version": "2026.3.6 / FSD 14.2.2.5",
+      "title": "FSD Supervised Europa-Launch – Niederlande (FSD 14.2.2.5)",
+      "date": "2026-04-11",
+      "region": "Niederlande",
+      "summary": "Erster europäischer FSD-Rollout. Build 2026.3.6 mit FSD v14.2.2.5 startet in den Niederlanden. Pflichtiges Tutorial und FSD-Quiz vor Aktivierung. Funktional vergleichbar mit FSD v14.3 in Nordamerika (Elon Musk).",
+      "tags": [
+        "FSD",
+        "14.2.2.5",
+        "2026.3.6",
+        "Europa-Launch",
+        "NL"
+      ],
+      "type": "fsd",
+      "changelog": [
+        "FSD Supervised erstmals in Europa verfügbar (Niederlande, HW4/AI4)",
+        "Pflichtiges Onboarding-Tutorial und FSD-Sicherheitsquiz vor Aktivierung",
+        "Unterstützt Spurwechsel, Kreuzungen, Kreisverkehre, Abbiegen, Parkhausausfahrten",
+        "Notfallfahrzeug-Erkennung und automatisches Ausweichen",
+        "FSD v14.2.2.5 entspricht laut Elon Musk funktional FSD v14.3 (Nordamerika)",
+        "HW4 (AI4) Pflicht; Shadow-Mode lief bereits seit 2026.8.6"
+      ],
+      "sourceTitle": "Tesla Oracle – FSD v14 Europa 2026.3.6 Release Notes",
+      "sourceURL": "https://www.teslaoracle.com/2026/04/14/tesla-fsd-conquers-amsterdam-streets-and-turbo-roundabouts-fsd-v14-europe-version-info-2026-3-6-release-notes/"
+    },
+    {
+      "id": "2026-04-10-nl-rdw-approval",
+      "version": "Regulatorisch",
+      "title": "RDW erteilt erste europäische FSD-Typgenehmigung",
+      "date": "2026-04-10",
+      "region": "Niederlande",
+      "summary": "Die niederländische Fahrzeugbehörde RDW erteilt die erste europäische Typgenehmigung für FSD (Supervised) nach UN R-171. Gilt für HW4 (AI4). Provisorisch für 6 Monate.",
+      "tags": [
+        "NL",
+        "RDW",
+        "UN R-171",
+        "Regulatorisch",
+        "Erstgenehmigung"
+      ],
+      "type": "regulatory",
+      "changelog": [
+        "Erste europäische Typgenehmigung nach UN R-171 (DCAS – Level 2)",
+        "18+ Monate Tests: 1,6 Mio. km EU-Strassen, 13.000+ Fahrgast-Mitfahrten",
+        "Fahrerhände-frei erlaubt, jedoch jederzeit übernahmebereit",
+        "Pflichtiger DMS (Driver Monitoring System): Aufmerksamkeitskontrolle",
+        "Provisorisch: EU-Kommission kann Genehmigung innerhalb 6 Monate aufheben",
+        "Gilt ausschliesslich für Modelle 3 und Y mit HW4 (AI4)"
+      ],
+      "sourceTitle": "RDW – Erklärung zur Typgenehmigung",
+      "sourceURL": "https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands"
+    },
+    {
+      "id": "2026-04-03-software-2026-8-6",
+      "version": "2026.8.6",
+      "title": "Tesla Software 2026.8.6 – Autopilot-Umbenennung & FSD-Vorbereitung Europa",
+      "date": "2026-04-03",
+      "region": "Europa / Global",
+      "summary": "Update 2026.8.6 bringt die offizielle Autopilot-Umbenennung gemäss EU-Vorschriften und enthielt im Hintergrund bereits FSD v14.2.2.5 im Shadow-Mode als Vorbereitung für den EU-Launch.",
+      "tags": [
+        "Software",
+        "2026.8.6",
+        "Autopilot",
+        "Europa"
+      ],
+      "type": "teslaSoftware",
+      "changelog": [
+        "Autopilot wird in Europa offiziell umbenannt gemäss EU-Vorschriften",
+        "FSD v14.2.2.5 läuft im Hintergrund im Shadow-Mode auf EU-Fahrzeugen",
+        "Fahrerprofil-Anzeige in der Tesla App (wer fährt aktuell)",
+        "Vorbereitung der europäischen FSD-Infrastruktur (Tutorial, Quiz, DMS)"
+      ],
+      "sourceTitle": "Tesla Oracle – 2026.8.6 Europa FSD-Vorbereitung",
+      "sourceURL": "https://www.teslaoracle.com/2026/04/03/tesla-rolls-out-the-2026-8-6-update-which-hints-at-fsd-v14-launch-in-europe-release-notes/"
+    },
+    {
+      "id": "2026-06-01-tesla-app-update",
+      "version": "Tesla App 4.57.5",
+      "title": "Tesla App 4.57.5 – Self-Driving Stats & EU-FSD-Integration",
+      "date": "2026-06-01",
+      "region": "Global (iOS / Android)",
+      "summary": "Aktuelle Tesla App-Version mit Self-Driving Statistiken, EU-FSD-Integration und verbesserter Fahrzeugstatus-Anzeige.",
+      "tags": [
+        "App",
+        "iOS",
+        "Self-Driving",
+        "EU"
+      ],
+      "type": "app",
+      "changelog": [
+        "Self-Driving Statistiken: interventionsfreie Km direkt in der App",
+        "EU-FSD-Marktanzeige: aktive Länder sichtbar",
+        "Fehlerbehebungen für die App-Verbindung in EU-Fahrzeugen",
+        "Verbesserte Update-Benachrichtigungen für neue FSD-Versionen"
+      ],
+      "sourceTitle": "Not a Tesla App – Tesla App 4.57.5",
+      "sourceURL": "https://www.notateslaapp.com/tesla-app-updates/version/4.57.5/release-notes"
+    },
+    {
+      "id": "2026-05-01-tesla-app-selfdrive",
+      "version": "Tesla App 4.41+",
+      "title": "Tesla App Update – Self-Driving Widget & Fahrerprofil-Anzeige",
+      "date": "2026-05-01",
+      "region": "Global (iOS / Android)",
+      "summary": "Tesla iOS/Android App erhält neues Self-Driving Widget und zeigt aktives Fahrerprofil in Echtzeit. FSD-Abo und Stats per Fingertipp.",
+      "tags": [
+        "App",
+        "iOS",
+        "Self-Driving",
+        "Fahrerprofil"
+      ],
+      "type": "app",
+      "changelog": [
+        "Aktives Fahrerprofil im Fahrzeug über die App sichtbar",
+        "Neues Self-Driving Widget auf dem Startbildschirm",
+        "FSD-Abonnement direkt aus der App abschliessbar",
+        "FSD-Quiz und Tutorial-Zugang über die App",
+        "Pushbenachrichtigung bei neuem FSD-Software-Update"
+      ],
+      "sourceTitle": "Not a Tesla App – Tesla App Updates",
+      "sourceURL": "https://www.notateslaapp.com/tesla-app-updates/"
+    },
+    {
+      "id": "2026-06-xx-software-202620",
+      "version": "2026.20",
+      "title": "Tesla Software 2026.20 – Grok KI, Dashcam-Verschlüsselung & Kindersicherung",
+      "date": "2026-06-10",
+      "region": "Global",
+      "summary": "Grok KI-Assistent von xAI direkt im Fahrzeug, Dashcam-Clips werden verschlüsselt, neue Kindersicherung für Browser und Entertainment. Rollout läuft.",
+      "tags": [
+        "Software",
+        "2026.20",
+        "Grok",
+        "KI",
+        "Sicherheit"
+      ],
+      "type": "teslaSoftware",
+      "changelog": [
+        "Grok KI-Assistent: über App Launcher, Lenkrad-Sprachknopf oder ’Hey Grok‘",
+        "Dashcam-Clips werden auf USB-Stick verschlüsselt (Entschlüsselung via dashcam.tesla.com)",
+        "Kindersicherung für Browser, Theater und Arcade",
+        "Neues Reinigungspanel für Frontkameras mit Live-Kamerabild",
+        "Elterliche Kontrollmöglichkeiten über Einstellungen > Sicherheit"
+      ],
+      "sourceTitle": "Not a Tesla App – 2026.20 Release Notes",
+      "sourceURL": "https://www.notateslaapp.com/software-updates/version/2026.20/release-notes"
+    }
+  ],
+  "news": [
+    {
+      "id": "2026-06-10-be-fsd",
+      "title": "Belgien genehmigt FSD – fünftes europäisches Land innerhalb von 48h nach Dänemark",
+      "date": "2026-06-10",
+      "source": "Not a Tesla App / Basenor",
+      "summary": "Flämische Ministerin De Ridder unterzeichnete die Freigabe. FSD ist jetzt in 13 Ländern weltweit verfügbar. Belgien beansprucht als fünften EU-Markt Platz 13 global.",
+      "url": "https://www.notateslaapp.com/news/4279/teslas-european-fsd-rollout-speeds-up-with-belgium-approval",
+      "countryISO": "BE",
+      "sourceKind": "news"
+    },
+    {
+      "id": "2026-06-09-dk-fsd",
+      "title": "Dänemark gibt FSD frei – zeitgleich startet FSD v14.2.2.6",
+      "date": "2026-06-09",
+      "source": "Electrek",
+      "summary": "Færdselsstyrelsen erteilte nach eigenständiger Prüfung grünes Licht. Zeitgleich rollte Tesla FSD v14.2.2.6 (2026.17.5) in den Niederlanden aus.",
+      "url": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/",
+      "countryISO": "DK",
+      "sourceKind": "news"
+    },
+    {
+      "id": "2026-06-09-branch-merge",
+      "title": "FSD 14.2.2.6 / 2026.17.5: Erster Branch-Merge für Europa – Spring-Features inklusive",
+      "date": "2026-06-06",
+      "source": "Tesla Oracle / Not a Tesla App",
+      "summary": "Tesla führt erstmals den FSD-Branch mit dem Spring-Update-Branch in Europa zusammen. EU-Fahrer erhalten Self-Driving App, Rücksitznavigation und 24h-Dashcam.",
+      "url": "https://www.teslaoracle.com/2026/06/09/tesla-fsd-gets-approved-in-denmark-europe-gets-fsd-v142-2-6-2026-17-5/",
+      "countryISO": null,
+      "sourceKind": "official"
+    },
+    {
+      "id": "2026-05-29-etsc-warning",
+      "title": "ETSC warnt: Nationale FSD-Freigaben ohne EU-weite Abstimmung riskant",
+      "date": "2026-05-29",
+      "source": "ETSC (Europäischer Verkehrssicherheitsrat)",
+      "summary": "Der europäische Verkehrssicherheitsrat mahnt zur Vorsicht und warnt vor Risiken durch Übervertrauen in überwachte Fahrassistenz-Systeme ohne harmonisierte EU-Regelung.",
+      "url": "https://etsc.eu/lithuania-and-estonia-authorise-tesla-fsd-with-belgium-and-greece-fast-tracking/",
+      "countryISO": null,
+      "sourceKind": "safety"
+    },
+    {
+      "id": "2026-05-29-ee-fsd",
+      "title": "Estland gibt FSD Supervised frei – dritter EU-Markt",
+      "date": "2026-05-29",
+      "source": "Reuters / Tesla Oracle",
+      "summary": "Estlands Verkehrsbehörde hat FSD nach Anerkennung der niederländischen Typgenehmigung freigegeben. Fahrer müssen jederzeit aufmerksam bleiben.",
+      "url": "https://www.teslaoracle.com/2026/05/30/tesla-fsd-gets-approved-in-the-third-european-country/",
+      "countryISO": "EE",
+      "sourceKind": "news"
+    },
+    {
+      "id": "2026-05-20-lt-fsd",
+      "title": "Litauen: Zweiter EU-Markt für FSD Supervised",
+      "date": "2026-05-20",
+      "source": "Electrek",
+      "summary": "Litauen erkannte die niederländische RDW-Zertifizierung an. Rollout startete noch am Genehmigungstag – teilweise bevor Tesla selbst davon wusste.",
+      "url": "https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/",
+      "countryISO": "LT",
+      "sourceKind": "news"
+    },
+    {
+      "id": "2026-04-10-nl-rdw-news",
+      "title": "RDW erteilt erste europäische FSD-Genehmigung nach UN R-171",
+      "date": "2026-04-10",
+      "source": "RDW / Electrek",
+      "summary": "18+ Monate Tests auf EU-Strassen. RDW bestätigt: System verbessert Verkehrssicherheit. Provisorisch – EU-Kommission hat 6 Monate Einspruchsfrist.",
+      "url": "https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands",
+      "countryISO": "NL",
+      "sourceKind": "official"
     }
   ],
   "videos": [
@@ -88,42 +510,40 @@
       "title": "FSD Supervised aktivieren und deaktivieren",
       "duration": "ca. 2 Min.",
       "source": "Tesla / YouTube",
-      "description": "Offizielles Tesla-Video. Wird direkt in der App per Webplayer geöffnet.",
+      "description": "Offizielles Tesla-Video zur FSD-Aktivierung. Wird per In-App-Webplayer geöffnet, nicht lokal gespeichert.",
       "url": "https://www.youtube.com/watch?v=1mFz3PYTwx8",
       "systemImage": "play.rectangle.fill",
       "provider": "youtube"
     },
     {
-      "id": "example-direct-mp4",
-      "title": "Eigenes Kurzvideo Beispiel",
-      "duration": "0:30",
-      "source": "Eigener Server",
-      "description": "Wenn du eine eigene MP4/HLS-Datei hostest, setze provider auf directVideo.",
-      "url": "https://example.com/video.mp4",
-      "systemImage": "video.fill",
-      "provider": "directVideo"
-    }
-  ],
-  "news": [
-    {
-      "id": "teslaeurope-x-dk",
-      "title": "Tesla Europe X-Link: Dänemark",
-      "date": "2026-06-09",
-      "source": "Tesla Europe auf X",
-      "summary": "Offizielle X-Links kannst du hier als News/Statusmeldung hinterlegen.",
-      "url": "https://x.com/teslaeurope",
-      "countryISO": "DK",
-      "sourceKind": "official"
+      "id": "tesla-fsd-scenarios",
+      "title": "FSD in typischen Fahrsituationen",
+      "duration": "Kurzvideo",
+      "source": "Tesla / YouTube",
+      "description": "Offizielles Tesla-Video zu FSD-Szenarien. Fahreraufsicht bleibt immer erforderlich.",
+      "url": "https://www.youtube.com/watch?v=TUDiG7PcLBs",
+      "systemImage": "car.front.waves.up.fill",
+      "provider": "youtube"
     },
     {
-      "id": "news-example-blog",
-      "title": "Blog-/News-Beispiel",
-      "date": "2026-06-10",
-      "source": "Eigener Blog oder Nachrichtenseite",
-      "summary": "Hier können Blogartikel, Nachrichtensender oder grosse Influencer-Posts stehen.",
-      "url": "https://example.com/news",
-      "countryISO": null,
-      "sourceKind": "blog"
+      "id": "tesla-oracle-nl-fsd-launch",
+      "title": "FSD in Amsterdam – Kreisverkehre & Stadtfahrt (Europa-Launch)",
+      "duration": "Video",
+      "source": "Tesla Oracle / YouTube",
+      "description": "Tesla FSD meistert Amsterdamer Strassen und Turbokrei-sverkehre beim Europa-Launch im April 2026.",
+      "url": "https://www.teslaoracle.com/2026/04/14/tesla-fsd-conquers-amsterdam-streets-and-turbo-roundabouts-fsd-v14-europe-version-info-2026-3-6-release-notes/",
+      "systemImage": "map.fill",
+      "provider": "web"
+    },
+    {
+      "id": "tesla-autopilot-support",
+      "title": "Tesla Support: Autopilot & FSD Capability",
+      "duration": "Support",
+      "source": "Tesla Support",
+      "description": "Offizielle Tesla-Supportseite mit Nutzungshinweisen, Sicherheitsinformationen und Voraussetzungen.",
+      "url": "https://www.tesla.com/en_gb/support/autopilot",
+      "systemImage": "doc.text.magnifyingglass",
+      "provider": "web"
     }
   ],
   "influencers": [
@@ -146,12 +566,39 @@
       "isOfficial": true
     },
     {
+      "id": "notateslaapp",
+      "name": "Not a Tesla App",
+      "platform": "Web / X",
+      "handle": "@NotATeslaApp",
+      "description": "Grösste unabhängige Tesla-Software-Update-Datenbank. Beste Quelle für Release Notes.",
+      "url": "https://www.notateslaapp.com/",
+      "isOfficial": false
+    },
+    {
+      "id": "teslaoracle",
+      "name": "Tesla Oracle",
+      "platform": "Web",
+      "handle": "teslaoracle.com",
+      "description": "Detaillierte FSD- und Software-Update-Berichte für Europa.",
+      "url": "https://www.teslaoracle.com/",
+      "isOfficial": false
+    },
+    {
       "id": "wholemarsblog",
       "name": "Whole Mars Catalog",
       "platform": "X",
       "handle": "@WholeMarsBlog",
       "description": "Bekannter Tesla/FSD-Account. Kein offizieller Tesla-Kanal.",
       "url": "https://x.com/WholeMarsBlog",
+      "isOfficial": false
+    },
+    {
+      "id": "sawyermerritt",
+      "name": "Sawyer Merritt",
+      "platform": "X",
+      "handle": "@SawyerMerritt",
+      "description": "Bekannter Tesla-/EV-News-Account. Kein offizieller Tesla-Kanal.",
+      "url": "https://x.com/SawyerMerritt",
       "isOfficial": false
     }
   ]
