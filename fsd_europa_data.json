@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-11T15:15:00Z",
+  "lastUpdated": "2026-06-11T12:11:48Z",
   "countries": [
     {
       "id": "AL",
@@ -1134,6 +1134,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260610-8778466913",
+      "title": "Tesla stuns with another FSD approval in Europe, its second in two days",
+      "date": "2026-06-10",
+      "source": "Teslarati",
+      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "url": "https://www.teslarati.com/tesla-stuns-another-fsd-approval-in-europe-belgium/",
+      "countryISO": "NL",
+      "sourceKind": "news"
+    },
+    {
       "id": "2026-06-10-be-fsd",
       "title": "Belgien genehmigt FSD – fünftes europäisches Land innerhalb von 48h nach Dänemark",
       "date": "2026-06-10",
@@ -1144,6 +1154,36 @@
       "sourceKind": "news"
     },
     {
+      "id": "auto-20260609-6405903520",
+      "title": "Tesla Shares FSD Safety Data From the Netherlands",
+      "date": "2026-06-09",
+      "source": "Not a Tesla App",
+      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "url": "https://www.notateslaapp.com/news/4274/tesla-shares-fsd-safety-data-from-the-netherlands",
+      "countryISO": "NL",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260609-6385637898",
+      "title": "Tesla FSD (Supervised) Officially Approved in Denmark",
+      "date": "2026-06-09",
+      "source": "Not a Tesla App",
+      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "url": "https://www.notateslaapp.com/news/4273/tesla-fsd-supervised-officially-approved-in-denmark",
+      "countryISO": "DK",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260609-1547988963",
+      "title": "Tesla Full Self-Driving is taking over Europe: fourth country gets FSD approval",
+      "date": "2026-06-09",
+      "source": "Teslarati",
+      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-taking-over-europe-fourth-country-gets-fsd-approval/",
+      "countryISO": "NL",
+      "sourceKind": "news"
+    },
+    {
       "id": "2026-06-09-dk-fsd",
       "title": "Dänemark gibt FSD frei – zeitgleich startet FSD v14.2.2.6",
       "date": "2026-06-09",
@@ -1151,6 +1191,16 @@
       "summary": "Færdselsstyrelsen erteilte nach eigenständiger Prüfung grünes Licht. Zeitgleich rollte Tesla FSD v14.2.2.6 (2026.17.5) in den Niederlanden aus.",
       "url": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/",
       "countryISO": "DK",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260608-9208445507",
+      "title": "Tesla FSD v14.2.2.6 in Europe (Update 2026.17.5)",
+      "date": "2026-06-08",
+      "source": "Not a Tesla App",
+      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.17.5/release-notes",
+      "countryISO": null,
       "sourceKind": "news"
     },
     {
@@ -1514,6 +1564,24 @@
       "handle": "@SawyerMerritt",
       "description": "Bekannter Tesla-/EV-News-Account. Kein offizieller Tesla-Kanal.",
       "url": "https://x.com/SawyerMerritt",
+      "isOfficial": false
+    },
+    {
+      "id": "efieber-x",
+      "name": "EFIEBER",
+      "platform": "X",
+      "handle": "@EFIEBER_ANDRE",
+      "description": "Deutscher Tesla- und Elektromobilitäts-Creator mit aktuellen Einschätzungen zu FSD und Tesla.",
+      "url": "https://x.com/EFIEBER_ANDRE",
+      "isOfficial": false
+    },
+    {
+      "id": "efieber-youtube",
+      "name": "EFIEBER",
+      "platform": "YouTube",
+      "handle": "@EFIEBER",
+      "description": "Deutschsprachige Videos zu Tesla, FSD, Giga Berlin und Elektromobilität.",
+      "url": "https://www.youtube.com/@EFIEBER",
       "isOfficial": false
     }
   ]

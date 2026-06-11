@@ -1,0 +1,30 @@
+name: FSD Europa News aktualisieren
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: RSS-Quellen prüfen
+        run: python3 scripts/update_news.py
+
+      - name: Änderungen veröffentlichen
+        run: |
+          if git diff --quiet; then
+            echo "Keine neuen Meldungen."
+            exit 0
+          fi
+          git config user.name "FSD Europa Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add fsd_europa_data.json
+          git commit -m "News automatisch aktualisieren"
+          git push
