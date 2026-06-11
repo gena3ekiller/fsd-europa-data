@@ -1,62 +1,81 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-11T13:30:00Z",
+  "lastUpdated": "2026-06-11T14:15:00Z",
   "countries": [
     {
-      "id": "NL",
-      "name": "Niederlande",
-      "isoCode": "NL",
-      "status": "available",
+      "id": "AL",
+      "name": "Albanien",
+      "isoCode": "AL",
+      "status": "unavailable",
       "center": {
-        "latitude": 52.15,
-        "longitude": 5.29
+        "latitude": 41.150732500000004,
+        "longitude": 20.1558595
       },
-      "lastChanged": "2026-04-10",
-      "note": "Erster europäischer Markt. RDW erteilte am 10. April 2026 die erste EU-Typgenehmigung nach UN R-171. Nur HW4 (AI4). 99€/Monat Abo.",
-      "sourceTitle": "RDW – Erklärung zur europäischen Typgenehmigung",
-      "sourceURL": "https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands"
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
     },
     {
-      "id": "LT",
-      "name": "Litauen",
-      "isoCode": "LT",
-      "status": "available",
+      "id": "AD",
+      "name": "Andorra",
+      "isoCode": "AD",
+      "status": "unavailable",
       "center": {
-        "latitude": 55.17,
-        "longitude": 23.88
+        "latitude": 42.538599,
+        "longitude": 1.577539
       },
-      "lastChanged": "2026-05-20",
-      "note": "Zweiter EU-Markt. Litauen erkannte am 20. Mai 2026 die RDW-Genehmigung an. Rollout startete noch am selben Tag.",
-      "sourceTitle": "Electrek – Tesla FSD Litauen",
-      "sourceURL": "https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/"
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
     },
     {
-      "id": "EE",
-      "name": "Estland",
-      "isoCode": "EE",
-      "status": "available",
+      "id": "AM",
+      "name": "Armenien",
+      "isoCode": "AM",
+      "status": "unavailable",
       "center": {
-        "latitude": 58.73,
-        "longitude": 25.01
+        "latitude": 40.080005,
+        "longitude": 45.0121095
       },
-      "lastChanged": "2026-05-29",
-      "note": "Dritter EU-Markt. Estlands Verkehrsbehörde gab FSD am 29. Mai 2026 nach Anerkennung der RDW-Genehmigung frei.",
-      "sourceTitle": "Tesla Oracle – Estland FSD",
-      "sourceURL": "https://www.teslaoracle.com/2026/05/30/tesla-fsd-gets-approved-in-the-third-european-country/"
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
     },
     {
-      "id": "DK",
-      "name": "Dänemark",
-      "isoCode": "DK",
-      "status": "available",
+      "id": "AZ",
+      "name": "Aserbaidschan",
+      "isoCode": "AZ",
+      "status": "unavailable",
       "center": {
-        "latitude": 56.16,
-        "longitude": 10.1
+        "latitude": 40.1448485,
+        "longitude": 47.56709
       },
-      "lastChanged": "2026-06-09",
-      "note": "Vierter EU-Markt. Færdselsstyrelsen erteilte am 9. Juni 2026 die Freigabe. Zeitgleich startete FSD v14.2.2.6.",
-      "sourceTitle": "Electrek – Tesla FSD Dänemark",
-      "sourceURL": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/"
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "BY",
+      "name": "Belarus",
+      "isoCode": "BY",
+      "status": "unavailable",
+      "center": {
+        "latitude": 53.705420000000004,
+        "longitude": 27.942676
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
     },
     {
       "id": "BE",
@@ -64,13 +83,674 @@
       "isoCode": "BE",
       "status": "available",
       "center": {
-        "latitude": 50.85,
-        "longitude": 4.35
+        "latitude": 50.501001,
+        "longitude": 4.4446775
       },
       "lastChanged": "2026-06-10",
       "note": "Fünfter EU-Markt und 13. Land weltweit. Flämische Mobilitätsministerin De Ridder unterzeichnete am 10. Juni 2026 die Freigabe.",
       "sourceTitle": "Not a Tesla App – Belgien FSD",
-      "sourceURL": "https://www.notateslaapp.com/news/4279/teslas-european-fsd-rollout-speeds-up-with-belgium-approval"
+      "sourceURL": "https://www.notateslaapp.com/news/4279/teslas-european-fsd-rollout-speeds-up-with-belgium-approval",
+      "polygons": []
+    },
+    {
+      "id": "BA",
+      "name": "Bosnien und Herzegowina",
+      "isoCode": "BA",
+      "status": "unavailable",
+      "center": {
+        "latitude": 43.918139499999995,
+        "longitude": 17.660204999999998
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "BG",
+      "name": "Bulgarien",
+      "isoCode": "BG",
+      "status": "unavailable",
+      "center": {
+        "latitude": 42.740674,
+        "longitude": 25.4646975
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "DK",
+      "name": "Dänemark",
+      "isoCode": "DK",
+      "status": "available",
+      "center": {
+        "latitude": 56.1828855,
+        "longitude": 11.6292965
+      },
+      "lastChanged": "2026-06-09",
+      "note": "Vierter EU-Markt. Færdselsstyrelsen erteilte am 9. Juni 2026 die Freigabe. Zeitgleich startete FSD v14.2.2.6.",
+      "sourceTitle": "Electrek – Tesla FSD Dänemark",
+      "sourceURL": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/",
+      "polygons": []
+    },
+    {
+      "id": "DE",
+      "name": "Deutschland",
+      "isoCode": "DE",
+      "status": "unavailable",
+      "center": {
+        "latitude": 51.1687745,
+        "longitude": 10.437061
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "EE",
+      "name": "Estland",
+      "isoCode": "EE",
+      "status": "available",
+      "center": {
+        "latitude": 58.582251,
+        "longitude": 25.002783
+      },
+      "lastChanged": "2026-05-29",
+      "note": "Dritter EU-Markt. Estlands Verkehrsbehörde gab FSD am 29. Mai 2026 nach Anerkennung der RDW-Genehmigung frei.",
+      "sourceTitle": "Tesla Oracle – Estland FSD",
+      "sourceURL": "https://www.teslaoracle.com/2026/05/30/tesla-fsd-gets-approved-in-the-third-european-country/",
+      "polygons": []
+    },
+    {
+      "id": "FI",
+      "name": "Finnland",
+      "isoCode": "FI",
+      "status": "unavailable",
+      "center": {
+        "latitude": 64.94042999999999,
+        "longitude": 26.0793455
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "FR",
+      "name": "Frankreich",
+      "isoCode": "FR",
+      "status": "unavailable",
+      "center": {
+        "latitude": 14.864037999999999,
+        "longitude": -2.977514499999998
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "GE",
+      "name": "Georgien",
+      "isoCode": "GE",
+      "status": "unavailable",
+      "center": {
+        "latitude": 42.319995,
+        "longitude": 43.3254395
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "GR",
+      "name": "Griechenland",
+      "isoCode": "GR",
+      "status": "unavailable",
+      "center": {
+        "latitude": 38.339135999999996,
+        "longitude": 23.93916
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "IE",
+      "name": "Irland",
+      "isoCode": "IE",
+      "status": "unavailable",
+      "center": {
+        "latitude": 53.419775,
+        "longitude": -8.2088135
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "IS",
+      "name": "Island",
+      "isoCode": "IS",
+      "status": "unavailable",
+      "center": {
+        "latitude": 64.9663815,
+        "longitude": -19.015894
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "IT",
+      "name": "Italien",
+      "isoCode": "IT",
+      "status": "unavailable",
+      "center": {
+        "latitude": 41.8849855,
+        "longitude": 12.556787
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "XK",
+      "name": "Kosovo",
+      "isoCode": "XK",
+      "status": "unavailable",
+      "center": {
+        "latitude": 42.5574465,
+        "longitude": 20.891211
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "HR",
+      "name": "Kroatien",
+      "isoCode": "HR",
+      "status": "unavailable",
+      "center": {
+        "latitude": 44.4837645,
+        "longitude": 16.4590825
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "LV",
+      "name": "Lettland",
+      "isoCode": "LV",
+      "status": "unavailable",
+      "center": {
+        "latitude": 56.8654785,
+        "longitude": 24.608496000000002
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "LI",
+      "name": "Liechtenstein",
+      "isoCode": "LI",
+      "status": "unavailable",
+      "center": {
+        "latitude": 47.1640625,
+        "longitude": 9.5450195
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "LT",
+      "name": "Litauen",
+      "isoCode": "LT",
+      "status": "available",
+      "center": {
+        "latitude": 55.152075499999995,
+        "longitude": 23.8377445
+      },
+      "lastChanged": "2026-05-20",
+      "note": "Zweiter EU-Markt. Litauen erkannte am 20. Mai 2026 die RDW-Genehmigung an. Rollout startete noch am selben Tag.",
+      "sourceTitle": "Electrek – Tesla FSD Litauen",
+      "sourceURL": "https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/",
+      "polygons": []
+    },
+    {
+      "id": "LU",
+      "name": "Luxemburg",
+      "isoCode": "LU",
+      "status": "unavailable",
+      "center": {
+        "latitude": 49.806323,
+        "longitude": 6.109375
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "MT",
+      "name": "Malta",
+      "isoCode": "MT",
+      "status": "unavailable",
+      "center": {
+        "latitude": 35.947998,
+        "longitude": 14.373290999999998
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "MD",
+      "name": "Moldau",
+      "isoCode": "MD",
+      "status": "unavailable",
+      "center": {
+        "latitude": 46.9640865,
+        "longitude": 28.375
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "MC",
+      "name": "Monaco",
+      "isoCode": "MC",
+      "status": "unavailable",
+      "center": {
+        "latitude": 43.751318,
+        "longitude": 7.408203
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "ME",
+      "name": "Montenegro",
+      "isoCode": "ME",
+      "status": "unavailable",
+      "center": {
+        "latitude": 42.705713,
+        "longitude": 19.391992000000002
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "NL",
+      "name": "Niederlande",
+      "isoCode": "NL",
+      "status": "available",
+      "center": {
+        "latitude": 32.828784,
+        "longitude": -30.586914
+      },
+      "lastChanged": "2026-04-10",
+      "note": "Erster europäischer Markt. RDW erteilte am 10. April 2026 die erste EU-Typgenehmigung nach UN R-171. Nur HW4 (AI4). 99€/Monat Abo.",
+      "sourceTitle": "RDW – Erklärung zur europäischen Typgenehmigung",
+      "sourceURL": "https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands",
+      "polygons": []
+    },
+    {
+      "id": "MK",
+      "name": "Nordmazedonien",
+      "isoCode": "MK",
+      "status": "unavailable",
+      "center": {
+        "latitude": 41.604028,
+        "longitude": 21.7271485
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "NO",
+      "name": "Norwegen",
+      "isoCode": "NO",
+      "status": "unavailable",
+      "center": {
+        "latitude": 69.2493895,
+        "longitude": 12.26521
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "AT",
+      "name": "Österreich",
+      "isoCode": "AT",
+      "status": "unavailable",
+      "center": {
+        "latitude": 47.700415,
+        "longitude": 13.335693
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "PL",
+      "name": "Polen",
+      "isoCode": "PL",
+      "status": "unavailable",
+      "center": {
+        "latitude": 51.929468,
+        "longitude": 19.1171875
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "PT",
+      "name": "Portugal",
+      "isoCode": "PT",
+      "status": "unavailable",
+      "center": {
+        "latitude": 37.392846500000005,
+        "longitude": -18.747729500000002
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "RO",
+      "name": "Rumänien",
+      "isoCode": "RO",
+      "status": "unavailable",
+      "center": {
+        "latitude": 45.967139,
+        "longitude": 24.973827999999997
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "RU",
+      "name": "Russland",
+      "isoCode": "RU",
+      "status": "unavailable",
+      "center": {
+        "latitude": 61.52673349999999,
+        "longitude": 0
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "SM",
+      "name": "San Marino",
+      "isoCode": "SM",
+      "status": "unavailable",
+      "center": {
+        "latitude": 43.941919,
+        "longitude": 12.4557615
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "SE",
+      "name": "Schweden",
+      "isoCode": "SE",
+      "status": "unavailable",
+      "center": {
+        "latitude": 62.191626,
+        "longitude": 17.651318500000002
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "CH",
+      "name": "Schweiz",
+      "isoCode": "CH",
+      "status": "unavailable",
+      "center": {
+        "latitude": 46.802832,
+        "longitude": 8.212305
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "RS",
+      "name": "Serbien",
+      "isoCode": "RS",
+      "status": "unavailable",
+      "center": {
+        "latitude": 44.205664,
+        "longitude": 20.907958999999998
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "SK",
+      "name": "Slowakei",
+      "isoCode": "SK",
+      "status": "unavailable",
+      "center": {
+        "latitude": 48.6805665,
+        "longitude": 19.700683499999997
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "SI",
+      "name": "Slowenien",
+      "isoCode": "SI",
+      "status": "unavailable",
+      "center": {
+        "latitude": 46.145825,
+        "longitude": 14.947216999999998
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "ES",
+      "name": "Spanien",
+      "isoCode": "ES",
+      "status": "unavailable",
+      "center": {
+        "latitude": 35.705469,
+        "longitude": -6.9192385000000005
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "CZ",
+      "name": "Tschechien",
+      "isoCode": "CZ",
+      "status": "unavailable",
+      "center": {
+        "latitude": 49.807007,
+        "longitude": 15.4609865
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "TR",
+      "name": "Türkei",
+      "isoCode": "TR",
+      "status": "unavailable",
+      "center": {
+        "latitude": 38.962353500000006,
+        "longitude": 35.2430665
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "UA",
+      "name": "Ukraine",
+      "isoCode": "UA",
+      "status": "unavailable",
+      "center": {
+        "latitude": 48.7938475,
+        "longitude": 31.130078
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "HU",
+      "name": "Ungarn",
+      "isoCode": "HU",
+      "status": "unavailable",
+      "center": {
+        "latitude": 47.153247,
+        "longitude": 19.484863
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "VA",
+      "name": "Vatikanstadt",
+      "isoCode": "VA",
+      "status": "unavailable",
+      "center": {
+        "latitude": 41.901880000000006,
+        "longitude": 12.433349499999998
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "GB",
+      "name": "Vereinigtes Königreich",
+      "isoCode": "GB",
+      "status": "unavailable",
+      "center": {
+        "latitude": 55.426636,
+        "longitude": -3.199121
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
+    },
+    {
+      "id": "CY",
+      "name": "Zypern",
+      "isoCode": "CY",
+      "status": "unavailable",
+      "center": {
+        "latitude": 34.876123,
+        "longitude": 33.175586
+      },
+      "lastChanged": "2026-06-11",
+      "note": "Für dieses Land liegt bisher keine bestätigte Zulassung für Tesla FSD (Supervised) vor. Das System ist dort derzeit nicht für die öffentliche Nutzung freigegeben.",
+      "sourceTitle": "Tesla – FSD (Supervised)",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd",
+      "polygons": []
     }
   ],
   "updates": [
