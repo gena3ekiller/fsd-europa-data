@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 2,
+  "lastUpdated": "2026-06-10T14:00:00Z",
+  "countries": [
+    {
+      "id": "NL",
+      "name": "Niederlande",
+      "isoCode": "NL",
+      "status": "available",
+      "center": { "latitude": 52.15, "longitude": 5.29 },
+      "lastChanged": "2026-04-10",
+      "note": "FSD Supervised ist in den Niederlanden verfügbar. Fahreraufsicht bleibt erforderlich.",
+      "sourceTitle": "Tesla / RDW",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd"
+    },
+    {
+      "id": "LT",
+      "name": "Litauen",
+      "isoCode": "LT",
+      "status": "available",
+      "center": { "latitude": 55.17, "longitude": 23.88 },
+      "lastChanged": "2026-05-20",
+      "note": "Litauen hat FSD Supervised nach Anerkennung der niederländischen Genehmigung freigeschaltet.",
+      "sourceTitle": "Reuters / Tesla",
+      "sourceURL": "https://www.reuters.com/world/europe/tesla-launches-full-self-driving-lithuania-2026-05-20/"
+    },
+    {
+      "id": "EE",
+      "name": "Estland",
+      "isoCode": "EE",
+      "status": "available",
+      "center": { "latitude": 58.73, "longitude": 25.01 },
+      "lastChanged": "2026-05-29",
+      "note": "Estland hat FSD Supervised für seine Strassen freigegeben. Fahrer bleiben verantwortlich.",
+      "sourceTitle": "Reuters",
+      "sourceURL": "https://www.reuters.com/business/estonia-clears-tesla-fsd-roads-company-says-rollout-begin-soon-2026-05-29/"
+    },
+    {
+      "id": "DK",
+      "name": "Dänemark",
+      "isoCode": "DK",
+      "status": "available",
+      "center": { "latitude": 56.16, "longitude": 10.10 },
+      "lastChanged": "2026-06-09",
+      "note": "Dänemark wurde als europäischer Markt für FSD Supervised gemeldet.",
+      "sourceTitle": "Tesla Europe / Medien",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd"
+    }
+  ],
+  "updates": [
+    {
+      "id": "2026-17-5-fsd-eu",
+      "version": "2026.17.5 / FSD 14.2.2.6",
+      "title": "FSD Supervised Europe Update",
+      "date": "2026-06-09",
+      "region": "Europa",
+      "summary": "FSD Supervised Europe Release Notes und Hinweise zur Fahreraufsicht.",
+      "tags": ["FSD", "Europa", "Changelog"],
+      "type": "fsd",
+      "changelog": [
+        "Unter Fahreraufsicht kann FSD ausgewählte Fahraufgaben entlang der Navigation unterstützen.",
+        "Das Fahrzeug wird dadurch nicht autonom.",
+        "Weitere Länder können über diese JSON-Datei ergänzt werden."
+      ],
+      "sourceTitle": "Tesla FSD",
+      "sourceURL": "https://www.tesla.com/en_gb/fsd"
+    },
+    {
+      "id": "tesla-software-example",
+      "version": "2026.xx.x",
+      "title": "Tesla Software Update Beispiel",
+      "date": "2026-06-10",
+      "region": "Europa",
+      "summary": "Hier trägst du normale Tesla Software Updates ein, unabhängig von FSD.",
+      "tags": ["Tesla", "Software", "Release Notes"],
+      "type": "teslaSoftware",
+      "changelog": [
+        "Neue Komfort- oder Sicherheitsfunktionen hier eintragen.",
+        "Changelog-Zeilen können beliebig erweitert werden."
+      ],
+      "sourceTitle": "Eigene Quelle",
+      "sourceURL": "https://www.tesla.com/support/software-updates"
+    }
+  ],
+  "videos": [
+    {
+      "id": "tesla-fsd-howto",
+      "title": "FSD Supervised aktivieren und deaktivieren",
+      "duration": "ca. 2 Min.",
+      "source": "Tesla / YouTube",
+      "description": "Offizielles Tesla-Video. Wird direkt in der App per Webplayer geöffnet.",
+      "url": "https://www.youtube.com/watch?v=1mFz3PYTwx8",
+      "systemImage": "play.rectangle.fill",
+      "provider": "youtube"
+    },
+    {
+      "id": "example-direct-mp4",
+      "title": "Eigenes Kurzvideo Beispiel",
+      "duration": "0:30",
+      "source": "Eigener Server",
+      "description": "Wenn du eine eigene MP4/HLS-Datei hostest, setze provider auf directVideo.",
+      "url": "https://example.com/video.mp4",
+      "systemImage": "video.fill",
+      "provider": "directVideo"
+    }
+  ],
+  "news": [
+    {
+      "id": "teslaeurope-x-dk",
+      "title": "Tesla Europe X-Link: Dänemark",
+      "date": "2026-06-09",
+      "source": "Tesla Europe auf X",
+      "summary": "Offizielle X-Links kannst du hier als News/Statusmeldung hinterlegen.",
+      "url": "https://x.com/teslaeurope",
+      "countryISO": "DK",
+      "sourceKind": "official"
+    },
+    {
+      "id": "news-example-blog",
+      "title": "Blog-/News-Beispiel",
+      "date": "2026-06-10",
+      "source": "Eigener Blog oder Nachrichtenseite",
+      "summary": "Hier können Blogartikel, Nachrichtensender oder grosse Influencer-Posts stehen.",
+      "url": "https://example.com/news",
+      "countryISO": null,
+      "sourceKind": "blog"
+    }
+  ],
+  "influencers": [
+    {
+      "id": "teslaeurope",
+      "name": "Tesla Europe & Middle East",
+      "platform": "X",
+      "handle": "@teslaeurope",
+      "description": "Offizieller Tesla-Kanal für Europa, Middle East & Africa.",
+      "url": "https://x.com/teslaeurope",
+      "isOfficial": true
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "platform": "X",
+      "handle": "@Tesla",
+      "description": "Offizieller globaler Tesla-Kanal.",
+      "url": "https://x.com/Tesla",
+      "isOfficial": true
+    },
+    {
+      "id": "wholemarsblog",
+      "name": "Whole Mars Catalog",
+      "platform": "X",
+      "handle": "@WholeMarsBlog",
+      "description": "Bekannter Tesla/FSD-Account. Kein offizieller Tesla-Kanal.",
+      "url": "https://x.com/WholeMarsBlog",
+      "isOfficial": false
+    }
+  ]
+}
