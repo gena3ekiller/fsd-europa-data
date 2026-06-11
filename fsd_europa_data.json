@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-11T12:11:48Z",
+  "lastUpdated": "2026-06-11T20:36:18Z",
   "countries": [
     {
       "id": "AL",
@@ -1133,6 +1133,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260611-2187359922",
+      "title": "Tesla promotes FSD misuse in its own videos — undermining its legal defense",
+      "date": "2026-06-11",
+      "source": "Electrek",
+      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "url": "https://electrek.co/2026/06/11/tesla-promotes-fsd-misuse-official-videos-lawsuits/",
+      "countryISO": "DK",
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260610-8778466913",
       "title": "Tesla stuns with another FSD approval in Europe, its second in two days",
