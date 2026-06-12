@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-12T05:04:35Z",
+  "lastUpdated": "2026-06-12T15:40:15Z",
   "countries": [
     {
       "id": "AL",
@@ -1133,6 +1133,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260612-7712235844",
+      "title": "How Many People Have Access to Tesla FSD?",
+      "date": "2026-06-12",
+      "source": "Not a Tesla App",
+      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "url": "https://www.notateslaapp.com/news/4286/how-many-people-have-access-to-tesla-fsd",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260611-5382873472",
       "title": "Tesla Update FSD V14.3.4 (2026.14.6.10) Release Notes",
