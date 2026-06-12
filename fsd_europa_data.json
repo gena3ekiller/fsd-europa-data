@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-11T20:36:18Z",
+  "lastUpdated": "2026-06-12T05:04:35Z",
   "countries": [
     {
       "id": "AL",
@@ -1133,6 +1133,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260611-5382873472",
+      "title": "Tesla Update FSD V14.3.4 (2026.14.6.10) Release Notes",
+      "date": "2026-06-11",
+      "source": "Not a Tesla App",
+      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.14.6.10/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260611-2187359922",
       "title": "Tesla promotes FSD misuse in its own videos — undermining its legal defense",
