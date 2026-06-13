@@ -1561,6 +1561,24 @@
       "isOfficial": true
     },
     {
+      "id": "efieber-x",
+      "name": "EFIEBER",
+      "platform": "X",
+      "handle": "@EFIEBER_ANDRE",
+      "description": "Deutscher Tesla- und Elektromobilitäts-Creator mit aktuellen Einschätzungen zu FSD und Tesla.",
+      "url": "https://x.com/EFIEBER_ANDRE",
+      "isOfficial": false
+    },
+    {
+      "id": "efieber-youtube",
+      "name": "EFIEBER",
+      "platform": "YouTube",
+      "handle": "@EFIEBER",
+      "description": "Deutschsprachige Videos zu Tesla, FSD, Giga Berlin und Elektromobilität.",
+      "url": "https://www.youtube.com/@EFIEBER",
+      "isOfficial": false
+    },
+    {
       "id": "notateslaapp",
       "name": "Not a Tesla App",
       "platform": "Web / X",
@@ -1594,24 +1612,6 @@
       "handle": "@SawyerMerritt",
       "description": "Bekannter Tesla-/EV-News-Account. Kein offizieller Tesla-Kanal.",
       "url": "https://x.com/SawyerMerritt",
-      "isOfficial": false
-    },
-    {
-      "id": "efieber-x",
-      "name": "EFIEBER",
-      "platform": "X",
-      "handle": "@EFIEBER_ANDRE",
-      "description": "Deutscher Tesla- und Elektromobilitäts-Creator mit aktuellen Einschätzungen zu FSD und Tesla.",
-      "url": "https://x.com/EFIEBER_ANDRE",
-      "isOfficial": false
-    },
-    {
-      "id": "efieber-youtube",
-      "name": "EFIEBER",
-      "platform": "YouTube",
-      "handle": "@EFIEBER",
-      "description": "Deutschsprachige Videos zu Tesla, FSD, Giga Berlin und Elektromobilität.",
-      "url": "https://www.youtube.com/@EFIEBER",
       "isOfficial": false
     }
   ]
