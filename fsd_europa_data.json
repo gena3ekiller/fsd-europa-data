@@ -1539,6 +1539,31 @@
       "thumbnailURL": "https://pbs.twimg.com/amplify_video_thumb/2064350405556043776/img/7loMoIB8kwmsUjMZ.jpg",
       "category": "rollout",
       "mediaURL": "https://video.twimg.com/amplify_video/2064350405556043776/vid/avc1/1280x720/-shxXVO-FibLX8U5.mp4?tag=27"
+    },
+    {
+      "id": "tesla-europe-estonia-rollout",
+      "title": "FSD Supervised für Estland freigegeben",
+      "duration": "X-Beitrag",
+      "source": "Tesla Europe / X",
+      "description": "Offizieller Tesla-Europe-Beitrag zur Freigabe von FSD Supervised in Estland am 29. Mai 2026. Der Beitrag enthält ein Ankündigungsbild statt eines Videos.",
+      "url": "https://x.com/teslaeurope/status/2060326804691288278",
+      "systemImage": "flag.fill",
+      "provider": "web",
+      "thumbnailURL": "https://pbs.twimg.com/media/HJe9n8fXAAUC_Rq.jpg:large",
+      "category": "rollout"
+    },
+    {
+      "id": "tesla-europe-belgium-rollout",
+      "title": "FSD Supervised für Belgien freigegeben",
+      "duration": "0:38",
+      "source": "Tesla Europe / X",
+      "description": "Offizielles Tesla-Europe-Video zur Freigabe von FSD Supervised in Belgien am 11. Juni 2026. Fünfter europäischer Markt nach Niederlande, Litauen, Estland und Dänemark.",
+      "url": "https://x.com/teslaeurope/status/2065093518276911603",
+      "systemImage": "flag.fill",
+      "provider": "directVideo",
+      "thumbnailURL": "https://pbs.twimg.com/amplify_video_thumb/2065092088971296768/img/5etO_JJ19LsGHp_O.jpg",
+      "category": "rollout",
+      "mediaURL": "https://video.twimg.com/amplify_video/2065092088971296768/vid/avc1/1280x720/5IFRZuUXumZmPH3l.mp4?tag=27"
     }
   ],
   "influencers": [
