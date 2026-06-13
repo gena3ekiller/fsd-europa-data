@@ -107,6 +107,16 @@ def country_for(value):
     return None
 
 
+def article_summary(value):
+    summary = re.sub(r"\s*(Read More|View Release Notes)\s*$", "", clean(value), flags=re.IGNORECASE)
+    summary = re.sub(r"\s*The post .+ appeared first on .+\.\s*$", "", summary, flags=re.IGNORECASE)
+    if len(summary) <= 420:
+        return summary
+
+    shortened = summary[:420].rsplit(" ", 1)[0].rstrip(" ,;:-")
+    return f"{shortened}…"
+
+
 def relevant(value):
     lowered = f" {value.lower()} "
     return any(term in lowered for term in TESLA_TERMS) and any(term in lowered for term in EUROPE_TERMS)
@@ -134,10 +144,7 @@ def fetch_feed(source, url, cutoff):
                 "title": title,
                 "date": published.strftime("%Y-%m-%d"),
                 "source": source,
-                "summary": (
-                    "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. "
-                    "Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen."
-                ),
+                "summary": article_summary(description),
                 "url": link,
                 "countryISO": country_for(searchable),
                 "sourceKind": "news",
@@ -152,29 +159,38 @@ def main():
     args = parser.parse_args()
 
     payload = json.loads(DATA_PATH.read_text())
-    existing_urls = {
-        normalized_url(item["url"])
+    existing_by_url = {
+        normalized_url(item["url"]): item
         for item in payload.get("news", [])
         if item.get("url")
     }
     cutoff = datetime.now(timezone.utc) - timedelta(days=3)
     additions = []
+    refreshed = []
 
     for source, url in FEEDS:
         for item in fetch_feed(source, url, cutoff):
             key = normalized_url(item["url"])
-            if key not in existing_urls:
+            existing = existing_by_url.get(key)
+            if existing is None:
                 additions.append(item)
-                existing_urls.add(key)
+                existing_by_url[key] = item
+            elif existing.get("summary", "").startswith("Automatisch gefundene Meldung"):
+                existing["summary"] = item["summary"]
+                refreshed.append(existing)
 
-    if not additions:
+    if not additions and not refreshed:
         print("Keine neuen passenden Meldungen.")
         return
 
-    additions.sort(key=lambda item: item["date"], reverse=True)
-    print(f"{len(additions)} neue Meldung(en):")
-    for item in additions:
-        print(f"- {item['date']} {item['source']}: {item['title']}")
+    if additions:
+        additions.sort(key=lambda item: item["date"], reverse=True)
+        print(f"{len(additions)} neue Meldung(en):")
+        for item in additions:
+            print(f"- {item['date']} {item['source']}: {item['title']}")
+
+    if refreshed:
+        print(f"{len(refreshed)} Platzhalter-Zusammenfassung(en) ersetzt.")
 
     if args.dry_run:
         return

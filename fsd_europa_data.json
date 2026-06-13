@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-12T15:40:15Z",
+  "lastUpdated": "2026-06-13T16:29:53Z",
   "countries": [
     {
       "id": "AL",
@@ -1135,42 +1135,42 @@
   "news": [
     {
       "id": "auto-20260612-7712235844",
-      "title": "How Many People Have Access to Tesla FSD?",
+      "title": "Wie viele Menschen haben Zugang zu Tesla FSD?",
       "date": "2026-06-12",
       "source": "Not a Tesla App",
-      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "summary": "Durch die jüngsten europäischen Freigaben ist FSD (Supervised) laut der Auswertung inzwischen technisch für fast ein Viertel der Weltbevölkerung erreichbar. Die tatsächliche Nutzung hängt weiterhin von Land, Fahrzeug, Hardware und Freischaltung ab.",
       "url": "https://www.notateslaapp.com/news/4286/how-many-people-have-access-to-tesla-fsd",
       "countryISO": null,
       "sourceKind": "news"
     },
     {
       "id": "auto-20260611-5382873472",
-      "title": "Tesla Update FSD V14.3.4 (2026.14.6.10) Release Notes",
+      "title": "FSD 14.3.4 mit Software 2026.14.6.10",
       "date": "2026-06-11",
       "source": "Not a Tesla App",
-      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "summary": "Die Tesla-Software 2026.14.6.10 enthält FSD (Supervised) 14.3.4 und Actually Smart Summon. Die regionale Verfügbarkeit einzelner Funktionen kann abweichen.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.14.6.10/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     },
     {
       "id": "auto-20260611-2187359922",
-      "title": "Tesla promotes FSD misuse in its own videos — undermining its legal defense",
+      "title": "Kritik an Teslas Darstellung der Fahreraufsicht in FSD-Videos",
       "date": "2026-06-11",
       "source": "Electrek",
-      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "summary": "Electrek kritisiert offizielle Tesla-Videos, in denen Fahrer während der Nutzung von FSD abgelenkt wirken oder Verkehrsverstösse zu sehen sind. Das steht im Spannungsverhältnis zur vorgeschriebenen dauerhaften Fahreraufsicht.",
       "url": "https://electrek.co/2026/06/11/tesla-promotes-fsd-misuse-official-videos-lawsuits/",
       "countryISO": "DK",
       "sourceKind": "news"
     },
     {
       "id": "auto-20260610-8778466913",
-      "title": "Tesla stuns with another FSD approval in Europe, its second in two days",
+      "title": "Belgien wird fünfter europäischer Markt für FSD",
       "date": "2026-06-10",
       "source": "Teslarati",
-      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "summary": "Belgien hat FSD (Supervised) nach Dänemark als fünfter europäischer Markt freigegeben. Zuvor hatten bereits die Niederlande, Litauen und Estland die Nutzung ermöglicht.",
       "url": "https://www.teslarati.com/tesla-stuns-another-fsd-approval-in-europe-belgium/",
-      "countryISO": "NL",
+      "countryISO": "BE",
       "sourceKind": "news"
     },
     {
@@ -1185,32 +1185,32 @@
     },
     {
       "id": "auto-20260609-6405903520",
-      "title": "Tesla Shares FSD Safety Data From the Netherlands",
+      "title": "Tesla veröffentlicht erste FSD-Sicherheitsdaten aus den Niederlanden",
       "date": "2026-06-09",
       "source": "Not a Tesla App",
-      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "summary": "Tesla hat eine erste regionale Auswertung zur Nutzung von FSD (Supervised) auf niederländischen Strassen veröffentlicht. Die Daten sollen zeigen, wie das System mit lokalen Verkehrsregeln und Strassenbedingungen umgeht.",
       "url": "https://www.notateslaapp.com/news/4274/tesla-shares-fsd-safety-data-from-the-netherlands",
       "countryISO": "NL",
       "sourceKind": "news"
     },
     {
       "id": "auto-20260609-6385637898",
-      "title": "Tesla FSD (Supervised) Officially Approved in Denmark",
+      "title": "Dänemark genehmigt FSD (Supervised)",
       "date": "2026-06-09",
       "source": "Not a Tesla App",
-      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "summary": "Die dänische Verkehrsbehörde hat FSD (Supervised) nach Prüfung der Unterlagen vorläufig freigegeben. Dänemark wurde damit der vierte europäische Markt; die Fahreraufsicht bleibt jederzeit verpflichtend.",
       "url": "https://www.notateslaapp.com/news/4273/tesla-fsd-supervised-officially-approved-in-denmark",
       "countryISO": "DK",
       "sourceKind": "news"
     },
     {
       "id": "auto-20260609-1547988963",
-      "title": "Tesla Full Self-Driving is taking over Europe: fourth country gets FSD approval",
+      "title": "Dänemark wird vierter europäischer Markt für FSD",
       "date": "2026-06-09",
       "source": "Teslarati",
-      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "summary": "Mit der dänischen Freigabe ist FSD (Supervised) nach den Niederlanden, Litauen und Estland nun in einem vierten europäischen Land zugelassen. Der Rollout erfolgt weiterhin nur für unterstützte Fahrzeuge.",
       "url": "https://www.teslarati.com/tesla-full-self-driving-taking-over-europe-fourth-country-gets-fsd-approval/",
-      "countryISO": "NL",
+      "countryISO": "DK",
       "sourceKind": "news"
     },
     {
@@ -1225,10 +1225,10 @@
     },
     {
       "id": "auto-20260608-9208445507",
-      "title": "Tesla FSD v14.2.2.6 in Europe (Update 2026.17.5)",
+      "title": "FSD 14.2.2.6 erreicht Europa mit Update 2026.17.5",
       "date": "2026-06-08",
       "source": "Not a Tesla App",
-      "summary": "Automatisch gefundene Meldung aus einer etablierten Tesla-Quelle. Bitte die verlinkte Originalquelle für vollständigen Kontext und regionale Verfügbarkeit öffnen.",
+      "summary": "Tesla verteilt FSD (Supervised) 14.2.2.6 mit Fahrzeugsoftware 2026.17.5 an unterstützte europäische Fahrzeuge. Für diese FSD-Unterversion wurden keine eigenen Funktionsänderungen veröffentlicht.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.17.5/release-notes",
       "countryISO": null,
       "sourceKind": "news"
