@@ -1,55 +1,111 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-15T15:10:00Z",
+  "lastUpdated": "2026-06-15T21:22:28Z",
   "countries": [
     {
-      "id": "US", "name": "USA", "isoCode": "US", "status": "available",
-      "center": {"latitude": 39.8283, "longitude": -98.5795},
+      "id": "US",
+      "name": "USA",
+      "isoCode": "US",
+      "status": "available",
+      "center": {
+        "latitude": 39.8283,
+        "longitude": -98.5795
+      },
       "lastChanged": "2026-06-13",
       "note": "FSD (Supervised) ist in den USA öffentlich verfügbar. Funktionsumfang und Verfügbarkeit hängen von Fahrzeug, Hardware, Softwarestand und Region ab.",
-      "sourceTitle": "Tesla – FSD Safety", "sourceURL": "https://www.tesla.com/fsd/safety", "polygons": []
+      "sourceTitle": "Tesla – FSD Safety",
+      "sourceURL": "https://www.tesla.com/fsd/safety",
+      "polygons": []
     },
     {
-      "id": "CA", "name": "Kanada", "isoCode": "CA", "status": "available",
-      "center": {"latitude": 56.1304, "longitude": -106.3468},
+      "id": "CA",
+      "name": "Kanada",
+      "isoCode": "CA",
+      "status": "available",
+      "center": {
+        "latitude": 56.1304,
+        "longitude": -106.3468
+      },
       "lastChanged": "2026-06-13",
       "note": "FSD (Supervised) ist in Kanada öffentlich verfügbar. Der Fahrer bleibt jederzeit verantwortlich.",
-      "sourceTitle": "Tesla – FSD Safety", "sourceURL": "https://www.tesla.com/fsd/safety", "polygons": []
+      "sourceTitle": "Tesla – FSD Safety",
+      "sourceURL": "https://www.tesla.com/fsd/safety",
+      "polygons": []
     },
     {
-      "id": "MX", "name": "Mexiko", "isoCode": "MX", "status": "available",
-      "center": {"latitude": 23.6345, "longitude": -102.5528},
+      "id": "MX",
+      "name": "Mexiko",
+      "isoCode": "MX",
+      "status": "available",
+      "center": {
+        "latitude": 23.6345,
+        "longitude": -102.5528
+      },
       "lastChanged": "2026-06-13",
       "note": "FSD (Supervised) ist in Mexiko öffentlich verfügbar. Regionale Einschränkungen und Fahrzeugvoraussetzungen gelten weiterhin.",
-      "sourceTitle": "Tesla – FSD Safety", "sourceURL": "https://www.tesla.com/fsd/safety", "polygons": []
+      "sourceTitle": "Tesla – FSD Safety",
+      "sourceURL": "https://www.tesla.com/fsd/safety",
+      "polygons": []
     },
     {
-      "id": "PR", "name": "Puerto Rico", "isoCode": "PR", "status": "available",
-      "center": {"latitude": 18.2208, "longitude": -66.5901},
+      "id": "PR",
+      "name": "Puerto Rico",
+      "isoCode": "PR",
+      "status": "available",
+      "center": {
+        "latitude": 18.2208,
+        "longitude": -66.5901
+      },
       "lastChanged": "2026-06-13",
       "note": "FSD (Supervised) ist in Puerto Rico öffentlich verfügbar. Der Fahrer muss das System dauerhaft überwachen.",
-      "sourceTitle": "Tesla – FSD Safety", "sourceURL": "https://www.tesla.com/fsd/safety", "polygons": []
+      "sourceTitle": "Tesla – FSD Safety",
+      "sourceURL": "https://www.tesla.com/fsd/safety",
+      "polygons": []
     },
     {
-      "id": "AU", "name": "Australien", "isoCode": "AU", "status": "available",
-      "center": {"latitude": -25.2744, "longitude": 133.7751},
+      "id": "AU",
+      "name": "Australien",
+      "isoCode": "AU",
+      "status": "available",
+      "center": {
+        "latitude": -25.2744,
+        "longitude": 133.7751
+      },
       "lastChanged": "2026-06-13",
       "note": "FSD (Supervised) ist in Australien öffentlich verfügbar. Verfügbarkeit und Funktionen können je nach Fahrzeug variieren.",
-      "sourceTitle": "Tesla – FSD Safety", "sourceURL": "https://www.tesla.com/fsd/safety", "polygons": []
+      "sourceTitle": "Tesla – FSD Safety",
+      "sourceURL": "https://www.tesla.com/fsd/safety",
+      "polygons": []
     },
     {
-      "id": "NZ", "name": "Neuseeland", "isoCode": "NZ", "status": "available",
-      "center": {"latitude": -40.9006, "longitude": 174.886},
+      "id": "NZ",
+      "name": "Neuseeland",
+      "isoCode": "NZ",
+      "status": "available",
+      "center": {
+        "latitude": -40.9006,
+        "longitude": 174.886
+      },
       "lastChanged": "2026-06-13",
       "note": "FSD (Supervised) ist in Neuseeland öffentlich verfügbar. Der Fahrer bleibt für die Fahraufgabe verantwortlich.",
-      "sourceTitle": "Tesla – FSD Safety", "sourceURL": "https://www.tesla.com/fsd/safety", "polygons": []
+      "sourceTitle": "Tesla – FSD Safety",
+      "sourceURL": "https://www.tesla.com/fsd/safety",
+      "polygons": []
     },
     {
-      "id": "KR", "name": "Südkorea", "isoCode": "KR", "status": "available",
-      "center": {"latitude": 35.9078, "longitude": 127.7669},
+      "id": "KR",
+      "name": "Südkorea",
+      "isoCode": "KR",
+      "status": "available",
+      "center": {
+        "latitude": 35.9078,
+        "longitude": 127.7669
+      },
       "lastChanged": "2026-06-13",
       "note": "FSD (Supervised) ist in Südkorea öffentlich verfügbar. Fahrzeug- und Softwarevoraussetzungen müssen erfüllt sein.",
-      "sourceTitle": "Tesla – FSD Safety", "sourceURL": "https://www.tesla.com/fsd/safety", "polygons": []
+      "sourceTitle": "Tesla – FSD Safety",
+      "sourceURL": "https://www.tesla.com/fsd/safety",
+      "polygons": []
     },
     {
       "id": "AL",
@@ -1182,6 +1238,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260615-8713794541",
+      "title": "Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators",
+      "date": "2026-06-15",
+      "source": "Electrek",
+      "summary": "Tesla presented self-published and inflated “Full Self-Driving” safety statistics directly to government regulators in Sweden and the Netherlands as it lobbied for European approval, according to correspondence obtained by Reuters through public records requests. The data includes a claim that FSD could have “saved 32,000 lives” — a figure that independent researchers say is based on the absurd assumption that every…",
+      "url": "https://electrek.co/2026/06/15/tesla-fsd-misleading-safety-data-european-regulators/",
+      "countryISO": "NL",
+      "sourceKind": "news"
+    },
     {
       "id": "2026-06-15-reuters-eu-safety-data",
       "title": "Reuters-Recherche hinterfragt Teslas FSD-Sicherheitsdaten für EU-Zulassung",
