@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-13T17:00:00Z",
+  "lastUpdated": "2026-06-15T15:10:00Z",
   "countries": [
     {
       "id": "US", "name": "USA", "isoCode": "US", "status": "available",
@@ -1182,6 +1182,18 @@
     }
   ],
   "news": [
+    {
+      "id": "2026-06-15-reuters-eu-safety-data",
+      "title": "Reuters-Recherche hinterfragt Teslas FSD-Sicherheitsdaten für EU-Zulassung",
+      "date": "2026-06-15",
+      "source": "Reuters",
+      "summary": "Reuters berichtet auf Basis interner Tesla-Daten, öffentlicher Unterlagen und Gesprächen mit Forschern über Zweifel an Sicherheitskennzahlen, die Tesla im europäischen Zulassungsprozess vorgelegt haben soll. Der Bericht dokumentiert Vorwürfe und offene Fragen; ein abschließender behördlicher Nachweis eines Verstoßes liegt darin nicht vor.",
+      "url": "https://www.channelnewsasia.com/business/tesla-overstated-fsd-safety-win-eu-approval-leaked-data-regulator-filings-show-6185826",
+      "countryISO": "NL",
+      "sourceKind": "news",
+      "verification": "confirmed",
+      "lastVerified": "2026-06-15"
+    },
     {
       "id": "auto-20260612-7712235844",
       "title": "Wie viele Menschen haben Zugang zu Tesla FSD?",
