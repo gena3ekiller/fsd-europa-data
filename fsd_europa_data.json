@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-15T21:22:28Z",
+  "lastUpdated": "2026-06-16T04:08:00Z",
   "countries": [
     {
       "id": "US",
@@ -1238,16 +1238,6 @@
     }
   ],
   "news": [
-    {
-      "id": "auto-20260615-8713794541",
-      "title": "Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators",
-      "date": "2026-06-15",
-      "source": "Electrek",
-      "summary": "Tesla presented self-published and inflated “Full Self-Driving” safety statistics directly to government regulators in Sweden and the Netherlands as it lobbied for European approval, according to correspondence obtained by Reuters through public records requests. The data includes a claim that FSD could have “saved 32,000 lives” — a figure that independent researchers say is based on the absurd assumption that every…",
-      "url": "https://electrek.co/2026/06/15/tesla-fsd-misleading-safety-data-european-regulators/",
-      "countryISO": "NL",
-      "sourceKind": "news"
-    },
     {
       "id": "2026-06-15-reuters-eu-safety-data",
       "title": "Reuters-Recherche hinterfragt Teslas FSD-Sicherheitsdaten für EU-Zulassung",
