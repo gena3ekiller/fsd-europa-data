@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-18T19:01:56Z",
+  "lastUpdated": "2026-06-18T20:39:21Z",
   "countries": [
     {
       "id": "US",
@@ -1238,6 +1238,26 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260618-8940276593",
+      "title": "Sweden tells EU to reject Tesla ‘FSD’ unless speeding is removed",
+      "date": "2026-06-18",
+      "source": "Electrek",
+      "summary": "Sweden’s transport authority has told the European Union it should vote against approving Tesla’s “Full Self-Driving (Supervised)” across the bloc unless the system’s ability to exceed posted speed limits is removed. The recommendation, in a previously unreported April 30 letter to the EU’s Technical Committee on Motor Vehicles (TCMV), lands just before the committee is due to take up the matter on June 30, ahead of…",
+      "url": "https://electrek.co/2026/06/18/sweden-tesla-fsd-speeding-eu-vote/",
+      "countryISO": "SE",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260618-5361590204",
+      "title": "Tesla faces Full Self-Driving pushback in EU over ‘speeding’",
+      "date": "2026-06-18",
+      "source": "Teslarati",
+      "summary": "A new report from Reuters claims that a transport authority in Sweden is pushing back against the approval of Tesla’s Full Self-Driving suite because it will travel over speed limits. The report says the Swedish Transport Administration (TRV) recommends the European Union votes against FSD’s approval. TRV believes it should not be approved until Tesla disables […]",
+      "url": "https://www.teslarati.com/tesla-faces-full-self-driving-pushback-eu-over-speeding/",
+      "countryISO": "SE",
+      "sourceKind": "news"
+    },
     {
       "id": "2026-06-15-reuters-eu-safety-data",
       "title": "Reuters-Recherche hinterfragt Teslas FSD-Sicherheitsdaten für EU-Zulassung",
