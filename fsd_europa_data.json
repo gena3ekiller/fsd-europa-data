@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-18T20:39:21Z",
+  "lastUpdated": "2026-06-19T05:25:41Z",
   "countries": [
     {
       "id": "US",
@@ -1238,6 +1238,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260618-9396295275",
+      "title": "Tesla Updates App to 4.58, Adding Charge Stats V2 and Android Live Notifications",
+      "date": "2026-06-18",
+      "source": "Not a Tesla App",
+      "summary": "Tesla app update 4.58.0 includes Charge Stats 2, Android Live Updates, Tesla Semi Top Down View.",
+      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.58.0/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260618-8940276593",
       "title": "Sweden tells EU to reject Tesla ‘FSD’ unless speeding is removed",
