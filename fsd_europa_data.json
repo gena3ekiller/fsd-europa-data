@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-19T05:25:41Z",
+  "lastUpdated": "2026-06-19T15:43:21Z",
   "countries": [
     {
       "id": "US",
@@ -1238,6 +1238,26 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260619-3106879701",
+      "title": "Tesla FSD v14.3.3 Down Under (Update 2026.16.6)",
+      "date": "2026-06-19",
+      "source": "Not a Tesla App",
+      "summary": "Tesla software update 2026.16.6 (FSD 14.3.3) includes FSD (Supervised) v14.3.3 Down Under, Full Self-Driving (Supervised) Down Under, Autopilot Naming Update, Speed Profiles, Arrival Options, UI Improvements, Brake Confirm.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.16.6/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260619-2860228747",
+      "title": "Inside the ETSC’s Campaign to Block FSD in Europe",
+      "date": "2026-06-19",
+      "source": "Not a Tesla App",
+      "summary": "Tesla's European FSD expansion faces a coordinated campaign from the ETSC, an auto-backed NGO attempting to stall unified regulatory approvals.…",
+      "url": "https://www.notateslaapp.com/news/4301/inside-the-etscs-campaign-to-block-fsd-in-europe",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260618-9396295275",
       "title": "Tesla Updates App to 4.58, Adding Charge Stats V2 and Android Live Notifications",
