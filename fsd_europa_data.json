@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-19T15:43:21Z",
+  "lastUpdated": "2026-06-20T19:57:07Z",
   "countries": [
     {
       "id": "US",
@@ -1238,6 +1238,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260620-1704740500",
+      "title": "Sweden Urges EU to Reject Tesla FSD Over Speeding",
+      "date": "2026-06-20",
+      "source": "Not a Tesla App",
+      "summary": "Tesla’s Full Self-Driving (Supervised) system has been gaining momentum across Europe lately, but a slight regulatory speed bump has just appeared…",
+      "url": "https://www.notateslaapp.com/news/4327/sweden-urges-eu-to-reject-tesla-fsd-over-speeding",
+      "countryISO": "SE",
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260619-3106879701",
       "title": "Tesla FSD v14.3.3 Down Under (Update 2026.16.6)",
