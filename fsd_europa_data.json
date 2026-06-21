@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-20T19:57:07Z",
+  "lastUpdated": "2026-06-21T15:00:44Z",
   "countries": [
     {
       "id": "US",
@@ -1239,64 +1239,16 @@
   ],
   "news": [
     {
-      "id": "auto-20260620-1704740500",
-      "title": "Sweden Urges EU to Reject Tesla FSD Over Speeding",
-      "date": "2026-06-20",
-      "source": "Not a Tesla App",
-      "summary": "Tesla’s Full Self-Driving (Supervised) system has been gaining momentum across Europe lately, but a slight regulatory speed bump has just appeared…",
+      "id": "2026-06-18-se-trv-speeding-tcmv",
+      "title": "Schweden empfiehlt EU-Ablehnung von FSD wegen Speeding-Funktion",
+      "date": "2026-06-18",
+      "source": "Reuters / Not a Tesla App",
+      "summary": "Reuters berichtet, dass die schwedische Verkehrsbehörde TRV dem EU-Gremium TCMV empfohlen hat, Teslas FSD (Supervised) nicht EU-weit zuzulassen, solange das System eine Überschreitung erkannter Tempolimits erlaubt. Die Empfehlung ist eine regulatorische Einwendung, aber keine endgültige EU-Entscheidung.",
       "url": "https://www.notateslaapp.com/news/4327/sweden-urges-eu-to-reject-tesla-fsd-over-speeding",
       "countryISO": "SE",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260619-3106879701",
-      "title": "Tesla FSD v14.3.3 Down Under (Update 2026.16.6)",
-      "date": "2026-06-19",
-      "source": "Not a Tesla App",
-      "summary": "Tesla software update 2026.16.6 (FSD 14.3.3) includes FSD (Supervised) v14.3.3 Down Under, Full Self-Driving (Supervised) Down Under, Autopilot Naming Update, Speed Profiles, Arrival Options, UI Improvements, Brake Confirm.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.16.6/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260619-2860228747",
-      "title": "Inside the ETSC’s Campaign to Block FSD in Europe",
-      "date": "2026-06-19",
-      "source": "Not a Tesla App",
-      "summary": "Tesla's European FSD expansion faces a coordinated campaign from the ETSC, an auto-backed NGO attempting to stall unified regulatory approvals.…",
-      "url": "https://www.notateslaapp.com/news/4301/inside-the-etscs-campaign-to-block-fsd-in-europe",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260618-9396295275",
-      "title": "Tesla Updates App to 4.58, Adding Charge Stats V2 and Android Live Notifications",
-      "date": "2026-06-18",
-      "source": "Not a Tesla App",
-      "summary": "Tesla app update 4.58.0 includes Charge Stats 2, Android Live Updates, Tesla Semi Top Down View.",
-      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.58.0/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260618-8940276593",
-      "title": "Sweden tells EU to reject Tesla ‘FSD’ unless speeding is removed",
-      "date": "2026-06-18",
-      "source": "Electrek",
-      "summary": "Sweden’s transport authority has told the European Union it should vote against approving Tesla’s “Full Self-Driving (Supervised)” across the bloc unless the system’s ability to exceed posted speed limits is removed. The recommendation, in a previously unreported April 30 letter to the EU’s Technical Committee on Motor Vehicles (TCMV), lands just before the committee is due to take up the matter on June 30, ahead of…",
-      "url": "https://electrek.co/2026/06/18/sweden-tesla-fsd-speeding-eu-vote/",
-      "countryISO": "SE",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260618-5361590204",
-      "title": "Tesla faces Full Self-Driving pushback in EU over ‘speeding’",
-      "date": "2026-06-18",
-      "source": "Teslarati",
-      "summary": "A new report from Reuters claims that a transport authority in Sweden is pushing back against the approval of Tesla’s Full Self-Driving suite because it will travel over speed limits. The report says the Swedish Transport Administration (TRV) recommends the European Union votes against FSD’s approval. TRV believes it should not be approved until Tesla disables […]",
-      "url": "https://www.teslarati.com/tesla-faces-full-self-driving-pushback-eu-over-speeding/",
-      "countryISO": "SE",
-      "sourceKind": "news"
+      "sourceKind": "news",
+      "verification": "confirmed",
+      "lastVerified": "2026-06-21"
     },
     {
       "id": "2026-06-15-reuters-eu-safety-data",
