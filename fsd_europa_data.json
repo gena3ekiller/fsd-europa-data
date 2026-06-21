@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-21T15:00:44Z",
+  "lastUpdated": "2026-06-21T15:24:54Z",
   "countries": [
     {
       "id": "US",
@@ -15,7 +15,8 @@
       "note": "FSD (Supervised) ist in den USA öffentlich verfügbar. Funktionsumfang und Verfügbarkeit hängen von Fahrzeug, Hardware, Softwarestand und Region ab.",
       "sourceTitle": "Tesla – FSD Safety",
       "sourceURL": "https://www.tesla.com/fsd/safety",
-      "polygons": []
+      "polygons": [],
+      "lastVerified": "2026-05-20"
     },
     {
       "id": "CA",
@@ -30,7 +31,8 @@
       "note": "FSD (Supervised) ist in Kanada öffentlich verfügbar. Der Fahrer bleibt jederzeit verantwortlich.",
       "sourceTitle": "Tesla – FSD Safety",
       "sourceURL": "https://www.tesla.com/fsd/safety",
-      "polygons": []
+      "polygons": [],
+      "lastVerified": "2026-05-20"
     },
     {
       "id": "MX",
@@ -45,7 +47,8 @@
       "note": "FSD (Supervised) ist in Mexiko öffentlich verfügbar. Regionale Einschränkungen und Fahrzeugvoraussetzungen gelten weiterhin.",
       "sourceTitle": "Tesla – FSD Safety",
       "sourceURL": "https://www.tesla.com/fsd/safety",
-      "polygons": []
+      "polygons": [],
+      "lastVerified": "2026-05-20"
     },
     {
       "id": "PR",
@@ -60,7 +63,8 @@
       "note": "FSD (Supervised) ist in Puerto Rico öffentlich verfügbar. Der Fahrer muss das System dauerhaft überwachen.",
       "sourceTitle": "Tesla – FSD Safety",
       "sourceURL": "https://www.tesla.com/fsd/safety",
-      "polygons": []
+      "polygons": [],
+      "lastVerified": "2026-05-20"
     },
     {
       "id": "AU",
@@ -75,7 +79,8 @@
       "note": "FSD (Supervised) ist in Australien öffentlich verfügbar. Verfügbarkeit und Funktionen können je nach Fahrzeug variieren.",
       "sourceTitle": "Tesla – FSD Safety",
       "sourceURL": "https://www.tesla.com/fsd/safety",
-      "polygons": []
+      "polygons": [],
+      "lastVerified": "2025-09-17"
     },
     {
       "id": "NZ",
@@ -90,7 +95,8 @@
       "note": "FSD (Supervised) ist in Neuseeland öffentlich verfügbar. Der Fahrer bleibt für die Fahraufgabe verantwortlich.",
       "sourceTitle": "Tesla – FSD Safety",
       "sourceURL": "https://www.tesla.com/fsd/safety",
-      "polygons": []
+      "polygons": [],
+      "lastVerified": "2025-09-17"
     },
     {
       "id": "KR",
@@ -105,7 +111,8 @@
       "note": "FSD (Supervised) ist in Südkorea öffentlich verfügbar. Fahrzeug- und Softwarevoraussetzungen müssen erfüllt sein.",
       "sourceTitle": "Tesla – FSD Safety",
       "sourceURL": "https://www.tesla.com/fsd/safety",
-      "polygons": []
+      "polygons": [],
+      "lastVerified": "2026-05-20"
     },
     {
       "id": "AL",
