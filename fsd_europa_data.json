@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-22T15:09:02Z",
+  "lastUpdated": "2026-06-22T19:00:21Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,18 @@
     }
   ],
   "news": [
+    {
+      "id": "2026-06-22-tesla-germany-fsd-ride-along",
+      "title": "Tesla bietet FSD-Supervised-Ride-Alongs in Deutschland an",
+      "date": "2026-06-22",
+      "source": "Tesla Events",
+      "summary": "Tesla listet offizielle Ride-Along-Termine für Full Self-Driving (Supervised) in Deutschland. Dabei können Interessierte FSD als Beifahrer erleben; die Eventseite ist keine öffentliche Zulassung oder Freigabe zur eigenen Nutzung in Deutschland.",
+      "url": "https://www.tesla.com/events/fsd-supervised-ride-along-de",
+      "countryISO": "DE",
+      "sourceKind": "official",
+      "verification": "official",
+      "lastVerified": "2026-06-22"
+    },
     {
       "id": "auto-20260619-9437428986",
       "title": "Tesla FSD v14.3.3 Down Under (Update 2026.16.6)",
