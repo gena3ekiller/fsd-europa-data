@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-21T20:03:16Z",
+  "lastUpdated": "2026-06-22T15:09:02Z",
   "countries": [
     {
       "id": "US",
@@ -1308,6 +1308,18 @@
       "url": "https://www.notateslaapp.com/news/4286/how-many-people-have-access-to-tesla-fsd",
       "countryISO": null,
       "sourceKind": "news"
+    },
+    {
+      "id": "2026-06-12-etsc-eu-ministers-fsd-questions",
+      "title": "ETSC fordert Fragen vor EU-weiter Anerkennung von Teslas FSD-Genehmigung",
+      "date": "2026-06-12",
+      "source": "ETSC",
+      "summary": "Der Europäische Verkehrssicherheitsrat ETSC hat EU-Verkehrsminister aufgefordert, offene Fragen zur niederländischen RDW-Genehmigung von Tesla FSD (Supervised) zu klären, bevor andere Mitgliedstaaten die Genehmigung anerkennen. Das ist eine sicherheitspolitische Einwendung, aber keine behördliche Ablehnung oder neue Zulassungsentscheidung.",
+      "url": "https://etsc.eu/etsc-urges-eu-transport-ministers-to-ask-questions-before-recognising-teslas-self-driving-car-approval/",
+      "countryISO": "EU",
+      "sourceKind": "official",
+      "verification": "confirmed",
+      "lastVerified": "2026-06-22"
     },
     {
       "id": "auto-20260611-5382873472",
