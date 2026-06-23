@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-22T19:00:21Z",
+  "lastUpdated": "2026-06-23T10:10:28Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,18 @@
     }
   ],
   "news": [
+    {
+      "id": "2026-06-23-dgt-spain-fsd-testing-275471km",
+      "title": "DGT listet 275.471 km Tesla-FSD-Tests in Spanien ohne schwere Vorfälle",
+      "date": "2026-06-23",
+      "source": "DGT Spanien",
+      "summary": "Die spanische Verkehrsbehörde DGT führt Tesla unter der ES-AV-Genehmigung FVA-03/2025 mit 30 automatisierten Pkw (DCAS) auf SAE-Level 2. Im letzten Bericht sind 275.471 km Testbetrieb auf öffentlichen Straßen und keine schweren Vorfälle ausgewiesen. Das ist ein offizieller Teststatus, aber keine Kundenzulassung von FSD (Supervised) in Spanien.",
+      "url": "https://www.dgt.es/muevete-con-seguridad/vehiculos-seguros/conduccion-automatizada/marco-pruebas-vehiculos-automatizados/",
+      "countryISO": "ES",
+      "sourceKind": "official",
+      "verification": "official",
+      "lastVerified": "2026-06-23"
+    },
     {
       "id": "2026-06-22-tesla-germany-fsd-ride-along",
       "title": "Tesla bietet FSD-Supervised-Ride-Alongs in Deutschland an",
