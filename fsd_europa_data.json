@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-23T10:10:28Z",
+  "lastUpdated": "2026-06-29T11:24:02Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260629-1543536349",
+      "title": "Tesla FSD V14 Lite (Update 2026.20.5.1) Release Notes",
+      "date": "2026-06-29",
+      "source": "Not a Tesla App",
+      "summary": "Tesla software update 2026.20.5.1 (FSD 14) includes FSD (Supervised) v14 Lite, Start Self-Driving from Park, Arrival Options, Speed Profiles, UI Improvements, Full Self-Driving (Supervised).",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.20.5.1/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "2026-06-23-dgt-spain-fsd-testing-275471km",
       "title": "DGT listet 275.471 km Tesla-FSD-Tests in Spanien ohne schwere Vorfälle",
