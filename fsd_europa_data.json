@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-29T11:24:02Z",
+  "lastUpdated": "2026-06-29T16:11:33Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,26 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260629-9515043919",
+      "title": "Tesla starts FSD v14 ‘Lite’ rollout to HW3 cars",
+      "date": "2026-06-29",
+      "source": "Electrek",
+      "summary": "Tesla has started rolling out FSD v14 “Lite” to its Hardware 3 (HW3) cars, the company’s AI chief Ashok Elluswamy confirmed today. The build, firmware version 2026.20.5.1, is going out first to early-access drivers. It’s the first major Full Self-Driving update for the roughly 4 million HW3 vehicles that had been frozen on FSD v12.6 since early 2025 — but it remains a supervised, hands-on Level 2 system.",
+      "url": "https://electrek.co/2026/06/29/tesla-fsd-v14-lite-hw3-rollout/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260629-7959504494",
+      "title": "Tesla Full Self-Driving v14 ‘Lite’ Release Notes: new capabilities and features",
+      "date": "2026-06-29",
+      "source": "Teslarati",
+      "summary": "Tesla released the Full Self-Driving v14 ‘Lite’ suite to owners of Hardware 3 or AI3 vehicles today, adding several new features to the vehicles that were once believed to be capable of unsupervised self-driving. Now, Tesla has released this modified suite to older Tesla vehicles, adding plenty of new features and capabilities. Here are the […]",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-lite-release-notes/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260629-1543536349",
       "title": "Tesla FSD V14 Lite (Update 2026.20.5.1) Release Notes",
