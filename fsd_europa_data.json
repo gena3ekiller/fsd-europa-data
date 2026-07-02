@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-06-29T16:11:33Z",
+  "lastUpdated": "2026-07-02T19:52:38Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260702-2786731300",
+      "title": "Tesla Updates App to 4.58.5: Adding App Sharing, FSD Authentication and More",
+      "date": "2026-07-02",
+      "source": "Not a Tesla App",
+      "summary": "Tesla app update 4.58.5 includes FSD Authentication, Share App With Vehicle, FSD Streaks, Coastal Blue Color.",
+      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.58.5/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260629-9515043919",
       "title": "Tesla starts FSD v14 ‘Lite’ rollout to HW3 cars",
