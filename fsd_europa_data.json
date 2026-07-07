@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-02T19:52:38Z",
+  "lastUpdated": "2026-07-07T20:15:09Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260707-6207068440",
+      "title": "Exclusive: Tesla Cybercab Includes More Powerful FSD Hardware",
+      "date": "2026-07-07",
+      "source": "Not a Tesla App",
+      "summary": "According to sources, production Cybercab units are running a more powerful version of Tesla’s FSD computer than what you currently get in a Model 3 or Model …",
+      "url": "https://www.notateslaapp.com/news/4409/exclusive-tesla-cybercab-includes-more-powerful-fsd-hardware",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260702-2786731300",
       "title": "Tesla Updates App to 4.58.5: Adding App Sharing, FSD Authentication and More",
