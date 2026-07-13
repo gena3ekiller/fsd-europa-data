@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-13T15:11:50Z",
+  "lastUpdated": "2026-07-13T19:49:39Z",
   "countries": [
     {
       "id": "US",
@@ -1252,6 +1252,16 @@
       "source": "Not a Tesla App",
       "summary": "Tesla software update 2026.20.6.6 (FSD 14.3.5) includes FSD (Supervised) v14.3.5, Actually Smart Summon, Full Self-Driving (Supervised), Camera Preview, Blind Spot Warning While Parked, Dashcam Clip Encryption, Parental Controls, \"Hey Grok\", Security Improvements.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260710-1447766381",
+      "title": "Tesla App Update 4.58.6 Adds Smart Charging, Smart Breakers and New Tesla Home Features",
+      "date": "2026-07-10",
+      "source": "Not a Tesla App",
+      "summary": "Tesla app update 4.58.6 includes New Tesla Home Features.",
+      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.58.6/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     },
