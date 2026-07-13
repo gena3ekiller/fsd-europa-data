@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-07T20:15:09Z",
+  "lastUpdated": "2026-07-13T15:11:50Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260713-8148724946",
+      "title": "Tesla Update FSD V14.3.5 (2026.20.6.6) Release Notes",
+      "date": "2026-07-13",
+      "source": "Not a Tesla App",
+      "summary": "Tesla software update 2026.20.6.6 (FSD 14.3.5) includes FSD (Supervised) v14.3.5, Actually Smart Summon, Full Self-Driving (Supervised), Camera Preview, Blind Spot Warning While Parked, Dashcam Clip Encryption, Parental Controls, \"Hey Grok\", Security Improvements.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260707-6207068440",
       "title": "Exclusive: Tesla Cybercab Includes More Powerful FSD Hardware",
