@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-14T03:34:15Z",
+  "lastUpdated": "2026-07-14T14:14:21Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260714-9758677686",
+      "title": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance",
+      "date": "2026-07-14",
+      "source": "Teslarati",
+      "summary": "Tesla rolled out Full Self-Driving (Supervised) v14.3.5 yesterday, and about fifty miles of driving on the new version has given me enough time to highlight what seems to be strong about the release and what is not. Additionally, Tesla has added a few new features with this specific update, which we’ll highlight as well. Tesla […]",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260713-8552673208",
       "title": "Tesla FSD Inches Closer to Regulatory Approval in Italy",
