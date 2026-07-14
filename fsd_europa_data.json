@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-13T19:49:39Z",
+  "lastUpdated": "2026-07-14T03:34:15Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260713-8552673208",
+      "title": "Tesla FSD Inches Closer to Regulatory Approval in Italy",
+      "date": "2026-07-13",
+      "source": "Not a Tesla App",
+      "summary": "The regulatory dominoes are starting to fall much faster in Europe for Tesla's FSD (Supervised) software, with Tesla officially applying for approval in Italy…",
+      "url": "https://www.notateslaapp.com/news/4430/tesla-fsd-inches-closer-to-regulatory-approval-in-italy",
+      "countryISO": "IT",
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260713-8148724946",
       "title": "Tesla Update FSD V14.3.5 (2026.20.6.6) Release Notes",
