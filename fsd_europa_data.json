@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-14T14:14:21Z",
+  "lastUpdated": "2026-07-20T14:33:22Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260720-1059123064",
+      "title": "Tesla Updates FSD V14 Lite (Update 2026.20.6.10) Release Notes",
+      "date": "2026-07-20",
+      "source": "Not a Tesla App",
+      "summary": "Tesla software update 2026.20.6.10 (FSD 14) includes FSD (Supervised) v14 Lite, Self-Driving App, Start Self-Driving from Park, Arrival Options, Speed Profiles, UI Improvements, Full Self-Driving (Supervised).",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.20.6.10/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260714-9758677686",
       "title": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance",
