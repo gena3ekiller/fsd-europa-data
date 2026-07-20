@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-20T14:33:22Z",
+  "lastUpdated": "2026-07-20T19:56:39Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260720-3003218802",
+      "title": "Tesla Starts Rolling Out New Version of FSD v14 Lite With New Features",
+      "date": "2026-07-20",
+      "source": "Not a Tesla App",
+      "summary": "Tesla is restarting its FSD software rollout for older vehicles with an updated Lite build that brings a wave of features from the main software branch…",
+      "url": "https://www.notateslaapp.com/news/4465/tesla-starts-rolling-out-new-version-of-fsd-v14-lite-with-new-features",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260720-1059123064",
       "title": "Tesla Updates FSD V14 Lite (Update 2026.20.6.10) Release Notes",
