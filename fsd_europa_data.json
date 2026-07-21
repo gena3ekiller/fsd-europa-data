@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-21T03:45:37Z",
+  "lastUpdated": "2026-07-21T19:51:16Z",
   "countries": [
     {
       "id": "US",
@@ -1245,6 +1245,16 @@
     }
   ],
   "news": [
+    {
+      "id": "auto-20260721-2261884050",
+      "title": "Tesla’s 2026 Summer Update: auto navigation, Grok phone calls, Caraoke scoring, and more",
+      "date": "2026-07-21",
+      "source": "Electrek",
+      "summary": "Tesla started rolling out its 2026 Summer Update, and the automaker published the full release notes on X. The headline additions: Grok can finally control more of the car, Caraoke now keeps score, navigation learns your routine, and several features move to the mobile app. Here’s every item in the release notes, with some context on each.",
+      "url": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
     {
       "id": "auto-20260720-3003218802",
       "title": "Tesla Starts Rolling Out New Version of FSD v14 Lite With New Features",
