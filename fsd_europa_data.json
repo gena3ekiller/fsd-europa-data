@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-20T19:56:39Z",
+  "lastUpdated": "2026-07-21T03:45:37Z",
   "countries": [
     {
       "id": "US",
@@ -1252,6 +1252,16 @@
       "source": "Not a Tesla App",
       "summary": "Tesla is restarting its FSD software rollout for older vehicles with an updated Lite build that brings a wave of features from the main software branch…",
       "url": "https://www.notateslaapp.com/news/4465/tesla-starts-rolling-out-new-version-of-fsd-v14-lite-with-new-features",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260720-1172081799",
+      "title": "Tesla VP: Updated Version of FSD V14 Lite Likely Going Wide",
+      "date": "2026-07-20",
+      "source": "Not a Tesla App",
+      "summary": "Owners of older Tesla vehicles with Hardware 3 (HW3/AI3) computers have a major reason to be excited about the latest Full Self-Driving (Supervised) update…",
+      "url": "https://www.notateslaapp.com/news/4466/tesla-vp-updated-version-of-fsd-v14-lite-likely-going-wide",
       "countryISO": null,
       "sourceKind": "news"
     },
