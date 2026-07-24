@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-21T19:51:16Z",
+  "lastUpdated": "2026-07-24T19:47:15Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,56 @@
   ],
   "news": [
     {
+      "id": "auto-20260723-3866596404",
+      "title": "Elon Musk is not happy about this Tesla Full Self-Driving approval delay",
+      "date": "2026-07-23",
+      "source": "Teslarati",
+      "summary": "Elon Musk clapped back at France’s decision to withhold the approval for Tesla’s Full Self-Driving (FSD) Supervised system, projecting a clear and blunt message to French Transport Minister Phillippe Tabarot, after he publicly rejected the technology in its current form. Tabarot outlines several concerns with Tesla Full Self-Driving in a detailed video statement, where he […]",
+      "url": "https://www.teslarati.com/elon-musk-claps-back-france-tesla-full-self-driving-approval-delay/",
+      "countryISO": "FR",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260722-9323885969",
+      "title": "France Says Tesla FSD Isn't Safe Enough, Requires Changes",
+      "date": "2026-07-22",
+      "source": "Not a Tesla App",
+      "summary": "France has officially decided not to approve FSD in its current form, claiming the system raises too many safety concerns to allow it on public roads today",
+      "url": "https://www.notateslaapp.com/news/4480/france-says-tesla-fsd-isnt-safe-enough-requires-changes",
+      "countryISO": "FR",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260722-8529420717",
+      "title": "Tesla Updates App to 4.59: Adds Robot Commands, Ability to Upload Wraps and Self-Driving Stats",
+      "date": "2026-07-22",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla app update 4.59.0.",
+      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.59.0/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260722-4003829647",
+      "title": "France won’t approve Tesla ‘FSD’ yet, wants EU-wide sign-off first",
+      "date": "2026-07-22",
+      "source": "Electrek",
+      "summary": "France’s Transport Minister, Philippe Tabarot, says the country won’t authorize Tesla’s “Full Self-Driving” (Supervised) “as it currently stands,” pointing to two safety problems: the system lets drivers speed, and it doesn’t keep them attentive enough in cities. But this isn’t France slamming the door on Tesla. It’s France refusing to rubber-stamp the Netherlands’ national approval and holding out for a proper…",
+      "url": "https://electrek.co/2026/07/22/france-tesla-fsd-approval-tabarot-speeding/",
+      "countryISO": "NL",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260721-6379216023",
+      "title": "Tesla Update FSD V14.3.6 & FSD 14 Lite (2026.20.6.11) Release Notes",
+      "date": "2026-07-21",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.20.6.11.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.20.6.11/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260721-2261884050",
       "title": "Tesla’s 2026 Summer Update: auto navigation, Grok phone calls, Caraoke scoring, and more",
       "date": "2026-07-21",
@@ -1604,16 +1654,6 @@
       "url": "https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/",
       "countryISO": "LT",
       "sourceKind": "news"
-    },
-    {
-      "id": "2026-04-10-nl-rdw-news",
-      "title": "RDW erteilt erste europäische FSD-Genehmigung nach UN R-171",
-      "date": "2026-04-10",
-      "source": "RDW / Electrek",
-      "summary": "18+ Monate Tests auf EU-Strassen. RDW bestätigt: System verbessert Verkehrssicherheit. Provisorisch – EU-Kommission hat 6 Monate Einspruchsfrist.",
-      "url": "https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands",
-      "countryISO": "NL",
-      "sourceKind": "official"
     }
   ],
   "videos": [
