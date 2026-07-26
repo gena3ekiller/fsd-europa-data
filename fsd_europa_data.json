@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-24T19:47:15Z",
+  "lastUpdated": "2026-07-26T19:35:02Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260726-539341030",
+      "title": "Tesla's Summer Update (2026.26) Release Notes",
+      "date": "2026-07-26",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.26.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.26/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260723-3866596404",
       "title": "Elon Musk is not happy about this Tesla Full Self-Driving approval delay",
       "date": "2026-07-23",
@@ -1643,16 +1653,6 @@
       "summary": "Estlands Verkehrsbehörde hat FSD nach Anerkennung der niederländischen Typgenehmigung freigegeben. Fahrer müssen jederzeit aufmerksam bleiben.",
       "url": "https://www.teslaoracle.com/2026/05/30/tesla-fsd-gets-approved-in-the-third-european-country/",
       "countryISO": "EE",
-      "sourceKind": "news"
-    },
-    {
-      "id": "2026-05-20-lt-fsd",
-      "title": "Litauen: Zweiter EU-Markt für FSD Supervised",
-      "date": "2026-05-20",
-      "source": "Electrek",
-      "summary": "Litauen erkannte die niederländische RDW-Zertifizierung an. Rollout startete noch am Genehmigungstag – teilweise bevor Tesla selbst davon wusste.",
-      "url": "https://electrek.co/2026/05/20/tesla-fsd-lithuania-second-european-country/",
-      "countryISO": "LT",
       "sourceKind": "news"
     }
   ],
