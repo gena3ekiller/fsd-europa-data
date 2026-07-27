@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-26T19:35:02Z",
+  "lastUpdated": "2026-07-27T19:55:05Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260727-347525520",
+      "title": "Tesla Full Self-Driving v14.3.6 review: a rare regression, but some bright spots",
+      "date": "2026-07-27",
+      "source": "Teslarati",
+      "summary": "Tesla released Full Self-Driving version 14.3.6 last week, and after what was potentially one of the best FSD releases in v14.3.5, there has been a bit of a regression. While there are some bright spots, the changes made to v14.3.6 seem to have backtracked some behaviors. Overall, it is hard to really complain about FSD […]",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-3-6-review-rare-regression-bright-spots/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260726-539341030",
       "title": "Tesla's Summer Update (2026.26) Release Notes",
       "date": "2026-07-26",
@@ -1644,16 +1654,6 @@
       "url": "https://etsc.eu/lithuania-and-estonia-authorise-tesla-fsd-with-belgium-and-greece-fast-tracking/",
       "countryISO": null,
       "sourceKind": "safety"
-    },
-    {
-      "id": "2026-05-29-ee-fsd",
-      "title": "Estland gibt FSD Supervised frei – dritter EU-Markt",
-      "date": "2026-05-29",
-      "source": "Reuters / Tesla Oracle",
-      "summary": "Estlands Verkehrsbehörde hat FSD nach Anerkennung der niederländischen Typgenehmigung freigegeben. Fahrer müssen jederzeit aufmerksam bleiben.",
-      "url": "https://www.teslaoracle.com/2026/05/30/tesla-fsd-gets-approved-in-the-third-european-country/",
-      "countryISO": "EE",
-      "sourceKind": "news"
     }
   ],
   "videos": [
