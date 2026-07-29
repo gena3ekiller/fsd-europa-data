@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-27T19:55:05Z",
+  "lastUpdated": "2026-07-29T19:44:03Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,26 @@
   ],
   "news": [
     {
+      "id": "auto-20260729-4487927563",
+      "title": "Tesla FSD Safety Stats From Europe: 5.2x Safer Than Humans",
+      "date": "2026-07-29",
+      "source": "Not a Tesla App",
+      "summary": "Tesla is backing up its European Full Self-Driving (Supervised) expansion with some impressive real-world driving data",
+      "url": "https://www.notateslaapp.com/news/4510/tesla-fsd-safety-stats-from-europe-52x-safer-than-humans",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260728-2706865576",
+      "title": "Tesla FSD v14.3.5 Down Under (Update 2026.20.10)",
+      "date": "2026-07-28",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.20.10.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.20.10/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260727-347525520",
       "title": "Tesla Full Self-Driving v14.3.6 review: a rare regression, but some bright spots",
       "date": "2026-07-27",
@@ -1634,26 +1654,6 @@
       "url": "https://www.notateslaapp.com/software-updates/version/2026.17.5/release-notes",
       "countryISO": null,
       "sourceKind": "news"
-    },
-    {
-      "id": "2026-06-09-branch-merge",
-      "title": "FSD 14.2.2.6 / 2026.17.5: Erster Branch-Merge für Europa – Spring-Features inklusive",
-      "date": "2026-06-06",
-      "source": "Tesla Oracle / Not a Tesla App",
-      "summary": "Tesla führt erstmals den FSD-Branch mit dem Spring-Update-Branch in Europa zusammen. EU-Fahrer erhalten Self-Driving App, Rücksitznavigation und 24h-Dashcam.",
-      "url": "https://www.teslaoracle.com/2026/06/09/tesla-fsd-gets-approved-in-denmark-europe-gets-fsd-v142-2-6-2026-17-5/",
-      "countryISO": null,
-      "sourceKind": "official"
-    },
-    {
-      "id": "2026-05-29-etsc-warning",
-      "title": "ETSC warnt: Nationale FSD-Freigaben ohne EU-weite Abstimmung riskant",
-      "date": "2026-05-29",
-      "source": "ETSC (Europäischer Verkehrssicherheitsrat)",
-      "summary": "Der europäische Verkehrssicherheitsrat mahnt zur Vorsicht und warnt vor Risiken durch Übervertrauen in überwachte Fahrassistenz-Systeme ohne harmonisierte EU-Regelung.",
-      "url": "https://etsc.eu/lithuania-and-estonia-authorise-tesla-fsd-with-belgium-and-greece-fast-tracking/",
-      "countryISO": null,
-      "sourceKind": "safety"
     }
   ],
   "videos": [
