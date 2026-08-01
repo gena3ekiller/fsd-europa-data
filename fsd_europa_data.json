@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-07-29T19:44:03Z",
+  "lastUpdated": "2026-08-01T19:34:25Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260801-9297978470",
+      "title": "Tesla FSD v14.3.7 (Update 2026.21.5) Release Notes",
+      "date": "2026-08-01",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.21.5.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.21.5/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260729-4487927563",
       "title": "Tesla FSD Safety Stats From Europe: 5.2x Safer Than Humans",
       "date": "2026-07-29",
@@ -1643,16 +1653,6 @@
       "summary": "Færdselsstyrelsen erteilte nach eigenständiger Prüfung grünes Licht. Zeitgleich rollte Tesla FSD v14.2.2.6 (2026.17.5) in den Niederlanden aus.",
       "url": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/",
       "countryISO": "DK",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260608-9208445507",
-      "title": "FSD 14.2.2.6 erreicht Europa mit Update 2026.17.5",
-      "date": "2026-06-08",
-      "source": "Not a Tesla App",
-      "summary": "Tesla verteilt FSD (Supervised) 14.2.2.6 mit Fahrzeugsoftware 2026.17.5 an unterstützte europäische Fahrzeuge. Für diese FSD-Unterversion wurden keine eigenen Funktionsänderungen veröffentlicht.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.17.5/release-notes",
-      "countryISO": null,
       "sourceKind": "news"
     }
   ],
