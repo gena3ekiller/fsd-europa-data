@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-08-01T19:34:25Z",
+  "lastUpdated": "2026-08-03T03:54:58Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260802-304988360",
+      "title": "Tesla Full Self-Driving v14.3.7 early review: FSD saved me from an accident",
+      "date": "2026-08-02",
+      "source": "Teslarati",
+      "summary": "Tesla released Full Self-Driving version 14.3.7 yesterday, and after about 90 miles of testing today, it is evident there are some definite fixes from version 14.3.6, which I wrote about last week and called a regression. Within the first 40 minutes of my drive on v14.3.7, it saved me from getting into an accident with […]",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260801-9297978470",
       "title": "Tesla FSD v14.3.7 (Update 2026.21.5) Release Notes",
       "date": "2026-08-01",
@@ -1642,16 +1652,6 @@
       "source": "Teslarati",
       "summary": "Mit der dänischen Freigabe ist FSD (Supervised) nach den Niederlanden, Litauen und Estland nun in einem vierten europäischen Land zugelassen. Der Rollout erfolgt weiterhin nur für unterstützte Fahrzeuge.",
       "url": "https://www.teslarati.com/tesla-full-self-driving-taking-over-europe-fourth-country-gets-fsd-approval/",
-      "countryISO": "DK",
-      "sourceKind": "news"
-    },
-    {
-      "id": "2026-06-09-dk-fsd",
-      "title": "Dänemark gibt FSD frei – zeitgleich startet FSD v14.2.2.6",
-      "date": "2026-06-09",
-      "source": "Electrek",
-      "summary": "Færdselsstyrelsen erteilte nach eigenständiger Prüfung grünes Licht. Zeitgleich rollte Tesla FSD v14.2.2.6 (2026.17.5) in den Niederlanden aus.",
-      "url": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/",
       "countryISO": "DK",
       "sourceKind": "news"
     }
