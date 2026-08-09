@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-08-07T19:15:20Z",
+  "lastUpdated": "2026-08-09T19:01:03Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260809-7016529237",
+      "title": "Tesla FSD V14.1 Lite (Update 2026.21.6) Release Notes",
+      "date": "2026-08-09",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.21.6.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.21.6/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260807-9738882709",
       "title": "Tesla Updates App to 4.59.5: Pet Mode Live Activity on Android, Tesla Assist With Photos and Continued Conversations",
       "date": "2026-08-07",
@@ -1643,16 +1653,6 @@
       "summary": "Flämische Ministerin De Ridder unterzeichnete die Freigabe. FSD ist jetzt in 13 Ländern weltweit verfügbar. Belgien beansprucht als fünften EU-Markt Platz 13 global.",
       "url": "https://www.notateslaapp.com/news/4279/teslas-european-fsd-rollout-speeds-up-with-belgium-approval",
       "countryISO": "BE",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260609-6405903520",
-      "title": "Tesla veröffentlicht erste FSD-Sicherheitsdaten aus den Niederlanden",
-      "date": "2026-06-09",
-      "source": "Not a Tesla App",
-      "summary": "Tesla hat eine erste regionale Auswertung zur Nutzung von FSD (Supervised) auf niederländischen Strassen veröffentlicht. Die Daten sollen zeigen, wie das System mit lokalen Verkehrsregeln und Strassenbedingungen umgeht.",
-      "url": "https://www.notateslaapp.com/news/4274/tesla-shares-fsd-safety-data-from-the-netherlands",
-      "countryISO": "NL",
       "sourceKind": "news"
     }
   ],
