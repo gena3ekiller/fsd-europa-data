@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-08-09T19:01:03Z",
+  "lastUpdated": "2026-08-24T18:59:33Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260824-4079652887",
+      "title": "Watch Tesla FSD v14 Lite drive over a giant log without stopping",
+      "date": "2026-08-24",
+      "source": "Electrek",
+      "summary": "A Tesla owner posted dashcam footage of his car driving straight over a log lying across the road while running Full Self-Driving (FSD) v14.1 Lite, without braking or slowing down. The clip has more than 800,000 views, and it adds to a growing list of problems we’ve documented with Tesla’s “Lite” version of FSD on older Hardware 3 cars.",
+      "url": "https://electrek.co/2026/08/24/tesla-fsd-v14-1-lite-drove-over-log/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260809-7016529237",
       "title": "Tesla FSD V14.1 Lite (Update 2026.21.6) Release Notes",
       "date": "2026-08-09",
@@ -1642,16 +1652,6 @@
       "source": "Teslarati",
       "summary": "Belgien hat FSD (Supervised) nach Dänemark als fünfter europäischer Markt freigegeben. Zuvor hatten bereits die Niederlande, Litauen und Estland die Nutzung ermöglicht.",
       "url": "https://www.teslarati.com/tesla-stuns-another-fsd-approval-in-europe-belgium/",
-      "countryISO": "BE",
-      "sourceKind": "news"
-    },
-    {
-      "id": "2026-06-10-be-fsd",
-      "title": "Belgien genehmigt FSD – fünftes europäisches Land innerhalb von 48h nach Dänemark",
-      "date": "2026-06-10",
-      "source": "Not a Tesla App / Basenor",
-      "summary": "Flämische Ministerin De Ridder unterzeichnete die Freigabe. FSD ist jetzt in 13 Ländern weltweit verfügbar. Belgien beansprucht als fünften EU-Markt Platz 13 global.",
-      "url": "https://www.notateslaapp.com/news/4279/teslas-european-fsd-rollout-speeds-up-with-belgium-approval",
       "countryISO": "BE",
       "sourceKind": "news"
     }
