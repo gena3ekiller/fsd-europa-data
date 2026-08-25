@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-08-24T18:59:33Z",
+  "lastUpdated": "2026-08-25T01:52:27Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260824-6412999426",
+      "title": "Tesla Begins Rolling Out Summer Update to FSD Vehicles in Europe",
+      "date": "2026-08-24",
+      "source": "Not a Tesla App",
+      "summary": "Tesla is starting to merge FSD and feature branches, bringing the 2026 Summer Update to vehicles on FSD.",
+      "url": "https://www.notateslaapp.com/news/4604/tesla-begins-rolling-out-summer-update-to-fsd-vehicles-in-europe",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260824-4079652887",
       "title": "Watch Tesla FSD v14 Lite drive over a giant log without stopping",
       "date": "2026-08-24",
@@ -1643,16 +1653,6 @@
       "summary": "Electrek kritisiert offizielle Tesla-Videos, in denen Fahrer während der Nutzung von FSD abgelenkt wirken oder Verkehrsverstösse zu sehen sind. Das steht im Spannungsverhältnis zur vorgeschriebenen dauerhaften Fahreraufsicht.",
       "url": "https://electrek.co/2026/06/11/tesla-promotes-fsd-misuse-official-videos-lawsuits/",
       "countryISO": "DK",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260610-8778466913",
-      "title": "Belgien wird fünfter europäischer Markt für FSD",
-      "date": "2026-06-10",
-      "source": "Teslarati",
-      "summary": "Belgien hat FSD (Supervised) nach Dänemark als fünfter europäischer Markt freigegeben. Zuvor hatten bereits die Niederlande, Litauen und Estland die Nutzung ermöglicht.",
-      "url": "https://www.teslarati.com/tesla-stuns-another-fsd-approval-in-europe-belgium/",
-      "countryISO": "BE",
       "sourceKind": "news"
     }
   ],
