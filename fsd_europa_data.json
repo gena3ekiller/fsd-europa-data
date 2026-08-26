@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-08-25T01:52:27Z",
+  "lastUpdated": "2026-08-26T01:58:29Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260826-2858594118",
+      "title": "Tesla FSD v14.3.8 in North America (Update 2026.26.6.5)",
+      "date": "2026-08-26",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.26.6.5.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.26.6.5/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260824-6412999426",
       "title": "Tesla Begins Rolling Out Summer Update to FSD Vehicles in Europe",
       "date": "2026-08-24",
@@ -1643,16 +1653,6 @@
       "summary": "Die Tesla-Software 2026.14.6.10 enthält FSD (Supervised) 14.3.4 und Actually Smart Summon. Die regionale Verfügbarkeit einzelner Funktionen kann abweichen.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.14.6.10/release-notes",
       "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260611-2187359922",
-      "title": "Kritik an Teslas Darstellung der Fahreraufsicht in FSD-Videos",
-      "date": "2026-06-11",
-      "source": "Electrek",
-      "summary": "Electrek kritisiert offizielle Tesla-Videos, in denen Fahrer während der Nutzung von FSD abgelenkt wirken oder Verkehrsverstösse zu sehen sind. Das steht im Spannungsverhältnis zur vorgeschriebenen dauerhaften Fahreraufsicht.",
-      "url": "https://electrek.co/2026/06/11/tesla-promotes-fsd-misuse-official-videos-lawsuits/",
-      "countryISO": "DK",
       "sourceKind": "news"
     }
   ],
