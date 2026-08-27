@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-08-26T20:02:55Z",
+  "lastUpdated": "2026-08-27T22:16:28Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260827-9060012344",
+      "title": "Tesla Full Self-Driving likes trains a bit too much",
+      "date": "2026-08-27",
+      "source": "Electrek",
+      "summary": "A Tesla running the latest version of “Full Self-Driving” failed to stop at an active railroad crossing this week and nearly drove straight into a passing train, according to the driver and as evidenced in dashcam footage. The kicker: it was running FSD v14.3.7, the newest build Tesla has released — and it’s at least the third time this year that Electrek has documented FSD trying to drive a Tesla into a train.",
+      "url": "https://electrek.co/2026/08/27/tesla-fsd-likes-trains-too-much/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260826-8763848153",
       "title": "Tesla Updates App to v4.60: Passkey Support, Powershare and Wallet Improvements",
       "date": "2026-08-26",
@@ -1642,18 +1652,6 @@
       "url": "https://www.notateslaapp.com/news/4286/how-many-people-have-access-to-tesla-fsd",
       "countryISO": null,
       "sourceKind": "news"
-    },
-    {
-      "id": "2026-06-12-etsc-eu-ministers-fsd-questions",
-      "title": "ETSC fordert Fragen vor EU-weiter Anerkennung von Teslas FSD-Genehmigung",
-      "date": "2026-06-12",
-      "source": "ETSC",
-      "summary": "Der Europäische Verkehrssicherheitsrat ETSC hat EU-Verkehrsminister aufgefordert, offene Fragen zur niederländischen RDW-Genehmigung von Tesla FSD (Supervised) zu klären, bevor andere Mitgliedstaaten die Genehmigung anerkennen. Das ist eine sicherheitspolitische Einwendung, aber keine behördliche Ablehnung oder neue Zulassungsentscheidung.",
-      "url": "https://etsc.eu/etsc-urges-eu-transport-ministers-to-ask-questions-before-recognising-teslas-self-driving-car-approval/",
-      "countryISO": "EU",
-      "sourceKind": "official",
-      "verification": "confirmed",
-      "lastVerified": "2026-06-22"
     }
   ],
   "videos": [
