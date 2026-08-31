@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-08-27T22:16:28Z",
+  "lastUpdated": "2026-08-31T22:51:22Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260831-4073708558",
+      "title": "Tesla is fixing Full Self-Driving’s pothole problem",
+      "date": "2026-08-31",
+      "source": "Teslarati",
+      "summary": "Tesla Full Self-Driving is set to get a major fix with pothole avoidance, a feature that CEO Elon Musk said recently was “coming soon.” The feature has been included within the FSD v14 release notes for some time as an upcoming improvement. Potholes come in all shapes and sizes, but one thing is universal about […]",
+      "url": "https://www.teslarati.com/tesla-fixing-full-self-driving-pothole-problem/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260827-9060012344",
       "title": "Tesla Full Self-Driving likes trains a bit too much",
       "date": "2026-08-27",
@@ -1642,16 +1652,6 @@
       "sourceKind": "news",
       "verification": "confirmed",
       "lastVerified": "2026-06-15"
-    },
-    {
-      "id": "auto-20260612-7712235844",
-      "title": "Wie viele Menschen haben Zugang zu Tesla FSD?",
-      "date": "2026-06-12",
-      "source": "Not a Tesla App",
-      "summary": "Durch die jüngsten europäischen Freigaben ist FSD (Supervised) laut der Auswertung inzwischen technisch für fast ein Viertel der Weltbevölkerung erreichbar. Die tatsächliche Nutzung hängt weiterhin von Land, Fahrzeug, Hardware und Freischaltung ab.",
-      "url": "https://www.notateslaapp.com/news/4286/how-many-people-have-access-to-tesla-fsd",
-      "countryISO": null,
-      "sourceKind": "news"
     }
   ],
   "videos": [
