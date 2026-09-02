@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-08-31T22:51:22Z",
+  "lastUpdated": "2026-09-02T04:35:14Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260901-1330635555",
+      "title": "Tesla Now Uses Grok Think Fast 2.0 With Summer Update",
+      "date": "2026-09-01",
+      "source": "Not a Tesla App",
+      "summary": "In-cabin voice interactions in Tesla vehicles are getting a speed and intelligence upgrade with the Summer 2026 Software Update (version 2026.26 and later)",
+      "url": "https://www.notateslaapp.com/news/4638/tesla-now-uses-grok-think-fast-20-with-summer-update",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260831-4073708558",
       "title": "Tesla is fixing Full Self-Driving’s pothole problem",
       "date": "2026-08-31",
@@ -1640,18 +1650,6 @@
       "sourceKind": "news",
       "verification": "confirmed",
       "lastVerified": "2026-06-21"
-    },
-    {
-      "id": "2026-06-15-reuters-eu-safety-data",
-      "title": "Reuters-Recherche hinterfragt Teslas FSD-Sicherheitsdaten für EU-Zulassung",
-      "date": "2026-06-15",
-      "source": "Reuters",
-      "summary": "Reuters berichtet auf Basis interner Tesla-Daten, öffentlicher Unterlagen und Gesprächen mit Forschern über Zweifel an Sicherheitskennzahlen, die Tesla im europäischen Zulassungsprozess vorgelegt haben soll. Der Bericht dokumentiert Vorwürfe und offene Fragen; ein abschließender behördlicher Nachweis eines Verstoßes liegt darin nicht vor.",
-      "url": "https://www.channelnewsasia.com/business/tesla-overstated-fsd-safety-win-eu-approval-leaked-data-regulator-filings-show-6185826",
-      "countryISO": "NL",
-      "sourceKind": "news",
-      "verification": "confirmed",
-      "lastVerified": "2026-06-15"
     }
   ],
   "videos": [
