@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-02T04:35:14Z",
+  "lastUpdated": "2026-09-04T16:22:11Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260904-5605628424",
+      "title": "Tesla Full Self-Driving can now take over manual driving to avoid a collision",
+      "date": "2026-09-04",
+      "source": "Electrek",
+      "summary": "Tesla is rolling out a new version of its Full Self-Driving (Supervised) software that can take control of your car to avoid a crash, even when you’re driving manually. The automaker announced the feature, part of FSD Supervised v14.3.9, in a post from its AI team early Friday. more…",
+      "url": "https://electrek.co/2026/09/04/tesla-fsd-active-safety-collision-avoidance/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260901-1330635555",
       "title": "Tesla Now Uses Grok Think Fast 2.0 With Summer Update",
       "date": "2026-09-01",
@@ -1638,18 +1648,6 @@
       "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.58.0/release-notes",
       "countryISO": null,
       "sourceKind": "news"
-    },
-    {
-      "id": "2026-06-18-se-trv-speeding-tcmv",
-      "title": "Schweden empfiehlt EU-Ablehnung von FSD wegen Speeding-Funktion",
-      "date": "2026-06-18",
-      "source": "Reuters / Not a Tesla App",
-      "summary": "Reuters berichtet, dass die schwedische Verkehrsbehörde TRV dem EU-Gremium TCMV empfohlen hat, Teslas FSD (Supervised) nicht EU-weit zuzulassen, solange das System eine Überschreitung erkannter Tempolimits erlaubt. Die Empfehlung ist eine regulatorische Einwendung, aber keine endgültige EU-Entscheidung.",
-      "url": "https://www.notateslaapp.com/news/4327/sweden-urges-eu-to-reject-tesla-fsd-over-speeding",
-      "countryISO": "SE",
-      "sourceKind": "news",
-      "verification": "confirmed",
-      "lastVerified": "2026-06-21"
     }
   ],
   "videos": [
