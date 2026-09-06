@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-04T16:22:11Z",
+  "lastUpdated": "2026-09-06T04:40:32Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260906-2768980400",
+      "title": "Tesla FSD v14.3.9 Release Notes (Update 2026.27.5)",
+      "date": "2026-09-06",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.27.5.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.27.5/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260904-5605628424",
       "title": "Tesla Full Self-Driving can now take over manual driving to avoid a collision",
       "date": "2026-09-04",
@@ -1636,16 +1646,6 @@
       "source": "Not a Tesla App",
       "summary": "Tesla's European FSD expansion faces a coordinated campaign from the ETSC, an auto-backed NGO attempting to stall unified regulatory approvals.…",
       "url": "https://www.notateslaapp.com/news/4301/inside-the-etscs-campaign-to-block-fsd-in-europe",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260618-7457500400",
-      "title": "Tesla Updates App to 4.58, Adding Charge Stats V2 and Android Live Notifications",
-      "date": "2026-06-18",
-      "source": "Not a Tesla App",
-      "summary": "Tesla app update 4.58.0 includes Charge Stats 2, Android Live Updates, Tesla Semi Top Down View.",
-      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.58.0/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
