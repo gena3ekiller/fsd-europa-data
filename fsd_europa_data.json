@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-06T04:40:32Z",
+  "lastUpdated": "2026-09-07T21:31:41Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,26 @@
   ],
   "news": [
     {
+      "id": "auto-20260907-8616445020",
+      "title": "Tesla Updates App to 4.60.5: Toggle Between Wheel Covers On/Off, Robotaxi Instead of Tesla Loaner",
+      "date": "2026-09-07",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla app update 4.60.5.",
+      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.60.5/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260907-6398073208",
+      "title": "Tesla FSD (Supervised) Approved in Slovenia, Launching Soon",
+      "date": "2026-09-07",
+      "source": "Not a Tesla App",
+      "summary": "Following a two-month pause in market approvals, a sixth European nation has officially given Full Self-Driving the green light to operate on public streets",
+      "url": "https://www.notateslaapp.com/news/4660/tesla-fsd-supervised-approved-in-slovenia-launching-soon",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260906-2768980400",
       "title": "Tesla FSD v14.3.9 Release Notes (Update 2026.27.5)",
       "date": "2026-09-06",
@@ -1628,26 +1648,6 @@
       "sourceKind": "official",
       "verification": "official",
       "lastVerified": "2026-06-22"
-    },
-    {
-      "id": "auto-20260619-9437428986",
-      "title": "Tesla FSD v14.3.3 Down Under (Update 2026.16.6)",
-      "date": "2026-06-19",
-      "source": "Not a Tesla App",
-      "summary": "Tesla software update 2026.16.6 (FSD 14.3.3) includes FSD (Supervised) v14.3.3 Down Under, Full Self-Driving (Supervised) Down Under, Autopilot Naming Update, Speed Profiles, Arrival Options, UI Improvements, Brake Confirm.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.16.6/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260619-3773095705",
-      "title": "Inside the ETSC’s Campaign to Block FSD in Europe",
-      "date": "2026-06-19",
-      "source": "Not a Tesla App",
-      "summary": "Tesla's European FSD expansion faces a coordinated campaign from the ETSC, an auto-backed NGO attempting to stall unified regulatory approvals.…",
-      "url": "https://www.notateslaapp.com/news/4301/inside-the-etscs-campaign-to-block-fsd-in-europe",
-      "countryISO": null,
-      "sourceKind": "news"
     }
   ],
   "videos": [
