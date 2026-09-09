@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-09T04:43:37Z",
+  "lastUpdated": "2026-09-09T16:39:11Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260909-6403346505",
+      "title": "Tesla is rolling out a new FSD version with a massive safety addition",
+      "date": "2026-09-09",
+      "source": "Teslarati",
+      "summary": "Tesla is rolling out a new version of its Full Self-Driving suite to some owners that comes with the massive addition of a safety feature. Tesla is rolling out Automatic Collision Evasion with the 2026.27.6 Software Update, which started rolling out to some vehicles last night. We received the update, along with Full Self-Driving v14.3.9, […]",
+      "url": "https://www.teslarati.com/tesla-rolling-new-fsd-version-massive-safety-addition/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260908-9192149959",
       "title": "Tesla FSD v14.2 Lite & FSD v14.3.9 Release Notes (Update 2026.27.6)",
       "date": "2026-09-08",
@@ -1634,18 +1644,6 @@
       "url": "https://www.notateslaapp.com/software-updates/version/2026.20.5.1/release-notes",
       "countryISO": null,
       "sourceKind": "news"
-    },
-    {
-      "id": "2026-06-23-dgt-spain-fsd-testing-275471km",
-      "title": "DGT listet 275.471 km Tesla-FSD-Tests in Spanien ohne schwere Vorfälle",
-      "date": "2026-06-23",
-      "source": "DGT Spanien",
-      "summary": "Die spanische Verkehrsbehörde DGT führt Tesla unter der ES-AV-Genehmigung FVA-03/2025 mit 30 automatisierten Pkw (DCAS) auf SAE-Level 2. Im letzten Bericht sind 275.471 km Testbetrieb auf öffentlichen Straßen und keine schweren Vorfälle ausgewiesen. Das ist ein offizieller Teststatus, aber keine Kundenzulassung von FSD (Supervised) in Spanien.",
-      "url": "https://www.dgt.es/muevete-con-seguridad/vehiculos-seguros/conduccion-automatizada/marco-pruebas-vehiculos-automatizados/",
-      "countryISO": "ES",
-      "sourceKind": "official",
-      "verification": "official",
-      "lastVerified": "2026-06-23"
     }
   ],
   "videos": [
