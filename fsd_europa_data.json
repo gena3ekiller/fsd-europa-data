@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-09T16:39:11Z",
+  "lastUpdated": "2026-09-09T20:56:20Z",
   "countries": [
     {
       "id": "US",
@@ -1256,6 +1256,16 @@
       "sourceKind": "news"
     },
     {
+      "id": "auto-20260909-3529824222",
+      "title": "Tesla Update 2026.32.3 Release Notes",
+      "date": "2026-09-09",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.32.3.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.32.3/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260908-9192149959",
       "title": "Tesla FSD v14.2 Lite & FSD v14.3.9 Release Notes (Update 2026.27.6)",
       "date": "2026-09-08",
@@ -1632,16 +1642,6 @@
       "source": "Teslarati",
       "summary": "Tesla released the Full Self-Driving v14 ‘Lite’ suite to owners of Hardware 3 or AI3 vehicles today, adding several new features to the vehicles that were once believed to be capable of unsupervised self-driving. Now, Tesla has released this modified suite to older Tesla vehicles, adding plenty of new features and capabilities. Here are the […]",
       "url": "https://www.teslarati.com/tesla-full-self-driving-v14-lite-release-notes/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260629-1543536349",
-      "title": "Tesla FSD V14 Lite (Update 2026.20.5.1) Release Notes",
-      "date": "2026-06-29",
-      "source": "Not a Tesla App",
-      "summary": "Tesla software update 2026.20.5.1 (FSD 14) includes FSD (Supervised) v14 Lite, Start Self-Driving from Park, Arrival Options, Speed Profiles, UI Improvements, Full Self-Driving (Supervised).",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.20.5.1/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
