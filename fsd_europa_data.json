@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-09T20:56:20Z",
+  "lastUpdated": "2026-09-12T15:32:35Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260912-9858751147",
+      "title": "Tesla plans big safety improvements for Full Self-Driving v15",
+      "date": "2026-09-12",
+      "source": "Teslarati",
+      "summary": "Tesla is planning to roll out some pretty significant safety and accident avoidance features with Full Self-Driving version 15, which will be the next major FSD deployment from the company. Tesla AI lead Ashok Elluswamy used a near-miss this week to preview what the company says is the next leap in Full Self-Driving. In response […]",
+      "url": "https://www.teslarati.com/tesla-plans-big-safety-improvements-full-self-driving-v15/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260909-6403346505",
       "title": "Tesla is rolling out a new FSD version with a massive safety addition",
       "date": "2026-09-09",
@@ -1632,16 +1642,6 @@
       "source": "Electrek",
       "summary": "Tesla has started rolling out FSD v14 “Lite” to its Hardware 3 (HW3) cars, the company’s AI chief Ashok Elluswamy confirmed today. The build, firmware version 2026.20.5.1, is going out first to early-access drivers. It’s the first major Full Self-Driving update for the roughly 4 million HW3 vehicles that had been frozen on FSD v12.6 since early 2025 — but it remains a supervised, hands-on Level 2 system.",
       "url": "https://electrek.co/2026/06/29/tesla-fsd-v14-lite-hw3-rollout/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260629-7959504494",
-      "title": "Tesla Full Self-Driving v14 ‘Lite’ Release Notes: new capabilities and features",
-      "date": "2026-06-29",
-      "source": "Teslarati",
-      "summary": "Tesla released the Full Self-Driving v14 ‘Lite’ suite to owners of Hardware 3 or AI3 vehicles today, adding several new features to the vehicles that were once believed to be capable of unsupervised self-driving. Now, Tesla has released this modified suite to older Tesla vehicles, adding plenty of new features and capabilities. Here are the […]",
-      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-lite-release-notes/",
       "countryISO": null,
       "sourceKind": "news"
     }
