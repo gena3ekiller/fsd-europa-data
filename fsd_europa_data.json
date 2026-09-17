@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-12T15:32:35Z",
+  "lastUpdated": "2026-09-17T17:00:33Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260917-9547054839",
+      "title": "Tesla FSD v14.3.9 Down Under (Update 2026.28.5)",
+      "date": "2026-09-17",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.28.5.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.28.5/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260912-9858751147",
       "title": "Tesla plans big safety improvements for Full Self-Driving v15",
       "date": "2026-09-12",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "Tesla app update 4.58.5 includes FSD Authentication, Share App With Vehicle, FSD Streaks, Coastal Blue Color.",
       "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.58.5/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260629-9515043919",
-      "title": "Tesla starts FSD v14 ‘Lite’ rollout to HW3 cars",
-      "date": "2026-06-29",
-      "source": "Electrek",
-      "summary": "Tesla has started rolling out FSD v14 “Lite” to its Hardware 3 (HW3) cars, the company’s AI chief Ashok Elluswamy confirmed today. The build, firmware version 2026.20.5.1, is going out first to early-access drivers. It’s the first major Full Self-Driving update for the roughly 4 million HW3 vehicles that had been frozen on FSD v12.6 since early 2025 — but it remains a supervised, hands-on Level 2 system.",
-      "url": "https://electrek.co/2026/06/29/tesla-fsd-v14-lite-hw3-rollout/",
       "countryISO": null,
       "sourceKind": "news"
     }
