@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-17T17:00:33Z",
+  "lastUpdated": "2026-09-19T15:53:48Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260919-941939307",
+      "title": "Tesla FSD v14.3.10 Release Notes (Update 2026.27.10)",
+      "date": "2026-09-19",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.27.10.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.27.10/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260917-9547054839",
       "title": "Tesla FSD v14.3.9 Down Under (Update 2026.28.5)",
       "date": "2026-09-17",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "According to sources, production Cybercab units are running a more powerful version of Tesla’s FSD computer than what you currently get in a Model 3 or Model …",
       "url": "https://www.notateslaapp.com/news/4409/exclusive-tesla-cybercab-includes-more-powerful-fsd-hardware",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260702-2786731300",
-      "title": "Tesla Updates App to 4.58.5: Adding App Sharing, FSD Authentication and More",
-      "date": "2026-07-02",
-      "source": "Not a Tesla App",
-      "summary": "Tesla app update 4.58.5 includes FSD Authentication, Share App With Vehicle, FSD Streaks, Coastal Blue Color.",
-      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.58.5/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
