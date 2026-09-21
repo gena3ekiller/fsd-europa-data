@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-19T15:53:48Z",
+  "lastUpdated": "2026-09-21T21:59:06Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,36 @@
   ],
   "news": [
     {
+      "id": "auto-20260921-8486180623",
+      "title": "Tesla FSD (Supervised) Approved for Launch in Czechia",
+      "date": "2026-09-21",
+      "source": "Not a Tesla App",
+      "summary": "The country has officially cleared FSD (Supervised) for use on public roads, opening the door for owners in Central Europe to finally experience the feature",
+      "url": "https://www.notateslaapp.com/news/4715/tesla-fsd-supervised-approved-for-launch-in-czechia",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260921-6028048955",
+      "title": "Tesla FSD V14.3.9 Triggers False Camera Service Alerts",
+      "date": "2026-09-21",
+      "source": "Not a Tesla App",
+      "summary": "After updating to version 14.3.9, drivers across the fleet are reporting frequent alerts warning of dirty front-facing FSD cameras and demanding service visits",
+      "url": "https://www.notateslaapp.com/news/4716/tesla-fsd-v1439-triggers-false-camera-service-alerts",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260921-5332968068",
+      "title": "Tesla Full Self-Driving expands to another European country",
+      "date": "2026-09-21",
+      "source": "Teslarati",
+      "summary": "Tesla’s Full Self-Driving (Supervised) is heading to Czechia after the Czech Ministry of Transport recognised the Dutch RDW’s provisional type approval, making the country the seventh EU member state to clear the system for public roads. Tesla Europe announced on 21 September 2026 that “FSD Supervised is now approved in Czechia” and that rollout “will […]",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-expands-another-european-country-czechia/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260919-941939307",
       "title": "Tesla FSD v14.3.10 Release Notes (Update 2026.27.10)",
       "date": "2026-09-19",
@@ -1613,36 +1643,6 @@
       "summary": "The regulatory dominoes are starting to fall much faster in Europe for Tesla's FSD (Supervised) software, with Tesla officially applying for approval in Italy…",
       "url": "https://www.notateslaapp.com/news/4430/tesla-fsd-inches-closer-to-regulatory-approval-in-italy",
       "countryISO": "IT",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260713-8148724946",
-      "title": "Tesla Update FSD V14.3.5 (2026.20.6.6) Release Notes",
-      "date": "2026-07-13",
-      "source": "Not a Tesla App",
-      "summary": "Tesla software update 2026.20.6.6 (FSD 14.3.5) includes FSD (Supervised) v14.3.5, Actually Smart Summon, Full Self-Driving (Supervised), Camera Preview, Blind Spot Warning While Parked, Dashcam Clip Encryption, Parental Controls, \"Hey Grok\", Security Improvements.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.20.6.6/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260710-1447766381",
-      "title": "Tesla App Update 4.58.6 Adds Smart Charging, Smart Breakers and New Tesla Home Features",
-      "date": "2026-07-10",
-      "source": "Not a Tesla App",
-      "summary": "Tesla app update 4.58.6 includes New Tesla Home Features.",
-      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.58.6/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260707-6207068440",
-      "title": "Exclusive: Tesla Cybercab Includes More Powerful FSD Hardware",
-      "date": "2026-07-07",
-      "source": "Not a Tesla App",
-      "summary": "According to sources, production Cybercab units are running a more powerful version of Tesla’s FSD computer than what you currently get in a Model 3 or Model …",
-      "url": "https://www.notateslaapp.com/news/4409/exclusive-tesla-cybercab-includes-more-powerful-fsd-hardware",
-      "countryISO": null,
       "sourceKind": "news"
     }
   ],
