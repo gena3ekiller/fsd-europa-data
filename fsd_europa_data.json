@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-22T21:20:05Z",
+  "lastUpdated": "2026-09-23T11:38:32Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260923-4120851309",
+      "title": "Tesla Updates FSD v14.3.10 and v14.2 Lite With Update 2026.27.11 (Release Notes)",
+      "date": "2026-09-23",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.27.11.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.27.11/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260922-1772657567",
       "title": "Tesla App Update 4.61 Hints at Camera Sharing for Support, Adds Passkey and Supercharger Site Maps",
       "date": "2026-09-22",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "Tesla software update 2026.20.6.10 (FSD 14) includes FSD (Supervised) v14 Lite, Self-Driving App, Start Self-Driving from Park, Arrival Options, Speed Profiles, UI Improvements, Full Self-Driving (Supervised).",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.20.6.10/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260714-9758677686",
-      "title": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance",
-      "date": "2026-07-14",
-      "source": "Teslarati",
-      "summary": "Tesla rolled out Full Self-Driving (Supervised) v14.3.5 yesterday, and about fifty miles of driving on the new version has given me enough time to highlight what seems to be strong about the release and what is not. Additionally, Tesla has added a few new features with this specific update, which we’ll highlight as well. Tesla […]",
-      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/",
       "countryISO": null,
       "sourceKind": "news"
     }
