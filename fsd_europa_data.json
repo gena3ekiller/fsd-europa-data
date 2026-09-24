@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-23T11:38:32Z",
+  "lastUpdated": "2026-09-24T21:31:32Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260924-8859317299",
+      "title": "Tesla ‘FSD’ sped in 55% of Brussels 30 km/h zones ahead of EU vote",
+      "date": "2026-09-24",
+      "source": "Electrek",
+      "summary": "Tesla’s “Full Self-Driving (Supervised)” broke the speed limit in 55% of the 30 km/h segments a Belgian road safety group tested in Brussels, averaging 44 km/h where the legal limit is 30 km/h. The results land less than two weeks before EU member states vote on approving FSD across the whole bloc. And speeding is exactly the issue Sweden and France have already flagged. more…",
+      "url": "https://electrek.co/2026/09/24/tesla-fsd-belgium-test-speeding-30-kmh-eu-vote/",
+      "countryISO": "FR",
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260923-4120851309",
       "title": "Tesla Updates FSD v14.3.10 and v14.2 Lite With Update 2026.27.11 (Release Notes)",
       "date": "2026-09-23",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "Owners of older Tesla vehicles with Hardware 3 (HW3/AI3) computers have a major reason to be excited about the latest Full Self-Driving (Supervised) update…",
       "url": "https://www.notateslaapp.com/news/4466/tesla-vp-updated-version-of-fsd-v14-lite-likely-going-wide",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260720-1059123064",
-      "title": "Tesla Updates FSD V14 Lite (Update 2026.20.6.10) Release Notes",
-      "date": "2026-07-20",
-      "source": "Not a Tesla App",
-      "summary": "Tesla software update 2026.20.6.10 (FSD 14) includes FSD (Supervised) v14 Lite, Self-Driving App, Start Self-Driving from Park, Arrival Options, Speed Profiles, UI Improvements, Full Self-Driving (Supervised).",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.20.6.10/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
