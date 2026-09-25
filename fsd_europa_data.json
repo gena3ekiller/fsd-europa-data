@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-24T21:31:32Z",
+  "lastUpdated": "2026-09-25T21:35:42Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,26 @@
   ],
   "news": [
     {
+      "id": "auto-20260925-5108300326",
+      "title": "Tesla Full Self-Driving release in the EU gets delayed",
+      "date": "2026-09-25",
+      "source": "Teslarati",
+      "summary": "Tesla Full Self-Driving’s release in Europe is set to be delayed by at least a few months. The European Union will not vote on Tesla’s Full Self-Driving (Supervised) on October 6. The draft agenda for the 119th meeting of the Technical Committee on Motor Vehicles lists only a 25-minute “continuation of discussions” on the Netherlands’ […]",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-release-eu-gets-delayed/",
+      "countryISO": "NL",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260925-4544996844",
+      "title": "EU delays Tesla ‘Full Self-Driving’ vote to December at the earliest",
+      "date": "2026-09-25",
+      "source": "Electrek",
+      "summary": "The EU won’t vote on Tesla’s “Full Self-Driving (Supervised)” on October 6. The draft agenda for the Technical Committee on Motor Vehicles (TCMV) meeting lists only a 25-minute “continuation of discussions” on the Dutch request to extend its FSD approval EU-wide. The committee doesn’t meet again until December, so that’s now the earliest a Tesla FSD EU vote can happen. And Tesla had been pointing to October 6. more…",
+      "url": "https://electrek.co/2026/09/25/eu-delays-tesla-fsd-vote-december-tcmv-agenda/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260924-8859317299",
       "title": "Tesla ‘FSD’ sped in 55% of Brussels 30 km/h zones ahead of EU vote",
       "date": "2026-09-24",
@@ -1622,26 +1642,6 @@
       "source": "Electrek",
       "summary": "Tesla started rolling out its 2026 Summer Update, and the automaker published the full release notes on X. The headline additions: Grok can finally control more of the car, Caraoke now keeps score, navigation learns your routine, and several features move to the mobile app. Here’s every item in the release notes, with some context on each.",
       "url": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260720-3003218802",
-      "title": "Tesla Starts Rolling Out New Version of FSD v14 Lite With New Features",
-      "date": "2026-07-20",
-      "source": "Not a Tesla App",
-      "summary": "Tesla is restarting its FSD software rollout for older vehicles with an updated Lite build that brings a wave of features from the main software branch…",
-      "url": "https://www.notateslaapp.com/news/4465/tesla-starts-rolling-out-new-version-of-fsd-v14-lite-with-new-features",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260720-1172081799",
-      "title": "Tesla VP: Updated Version of FSD V14 Lite Likely Going Wide",
-      "date": "2026-07-20",
-      "source": "Not a Tesla App",
-      "summary": "Owners of older Tesla vehicles with Hardware 3 (HW3/AI3) computers have a major reason to be excited about the latest Full Self-Driving (Supervised) update…",
-      "url": "https://www.notateslaapp.com/news/4466/tesla-vp-updated-version-of-fsd-v14-lite-likely-going-wide",
       "countryISO": null,
       "sourceKind": "news"
     }
