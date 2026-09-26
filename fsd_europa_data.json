@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-25T21:35:42Z",
+  "lastUpdated": "2026-09-26T21:11:17Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20260926-9032796865",
+      "title": "Tesla in Talks for FSD Approval in Ireland as EU Delays Vote",
+      "date": "2026-09-26",
+      "source": "Not a Tesla App",
+      "summary": "Tesla’s push to bring Full Self-Driving (Supervised) to European roads is moving forward, even if Brussels continues to drag its feet",
+      "url": "https://www.notateslaapp.com/news/4742/tesla-in-talks-for-fsd-approval-in-ireland-as-eu-delays-vote",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260925-5108300326",
       "title": "Tesla Full Self-Driving release in the EU gets delayed",
       "date": "2026-09-25",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla update 2026.20.6.11.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.20.6.11/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260721-2261884050",
-      "title": "Tesla’s 2026 Summer Update: auto navigation, Grok phone calls, Caraoke scoring, and more",
-      "date": "2026-07-21",
-      "source": "Electrek",
-      "summary": "Tesla started rolling out its 2026 Summer Update, and the automaker published the full release notes on X. The headline additions: Grok can finally control more of the car, Caraoke now keeps score, navigation learns your routine, and several features move to the mobile app. Here’s every item in the release notes, with some context on each.",
-      "url": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
       "countryISO": null,
       "sourceKind": "news"
     }
