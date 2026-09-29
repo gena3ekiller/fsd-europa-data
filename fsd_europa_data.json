@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-26T21:11:17Z",
+  "lastUpdated": "2026-09-29T22:16:01Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,26 @@
   ],
   "news": [
     {
+      "id": "auto-20260929-6699999440",
+      "title": "Tesla Wins Approval to Launch FSD (Supervised) in Croatia",
+      "date": "2026-09-29",
+      "source": "Not a Tesla App",
+      "summary": "The regulatory dominoes across Europe continue to tumble in Tesla’s favor, with Croatia becoming the eighth EU member nation to approve FSD for public use",
+      "url": "https://www.notateslaapp.com/news/4747/tesla-wins-approval-to-launch-fsd-supervised-in-croatia",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20260929-3347391458",
+      "title": "Germany Confirms December EU Vote on Tesla FSD Approval",
+      "date": "2026-09-29",
+      "source": "Not a Tesla App",
+      "summary": "Europe’s biggest automotive powerhouse has officially clarified where it stands on Tesla's FSD software ahead of an EU-wide vote now set for December",
+      "url": "https://www.notateslaapp.com/news/4749/germany-says-it-is-open-to-tesla-fsd-approval-confirms-eu-wide-vote-in-december",
+      "countryISO": "DE",
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260926-9032796865",
       "title": "Tesla in Talks for FSD Approval in Ireland as EU Delays Vote",
       "date": "2026-09-26",
@@ -1622,26 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla app update 4.59.0.",
       "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.59.0/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260722-4003829647",
-      "title": "France won’t approve Tesla ‘FSD’ yet, wants EU-wide sign-off first",
-      "date": "2026-07-22",
-      "source": "Electrek",
-      "summary": "France’s Transport Minister, Philippe Tabarot, says the country won’t authorize Tesla’s “Full Self-Driving” (Supervised) “as it currently stands,” pointing to two safety problems: the system lets drivers speed, and it doesn’t keep them attentive enough in cities. But this isn’t France slamming the door on Tesla. It’s France refusing to rubber-stamp the Netherlands’ national approval and holding out for a proper…",
-      "url": "https://electrek.co/2026/07/22/france-tesla-fsd-approval-tabarot-speeding/",
-      "countryISO": "NL",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260721-6379216023",
-      "title": "Tesla Update FSD V14.3.6 & FSD 14 Lite (2026.20.6.11) Release Notes",
-      "date": "2026-07-21",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla update 2026.20.6.11.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.20.6.11/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
