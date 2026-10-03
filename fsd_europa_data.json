@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-09-30T12:36:06Z",
+  "lastUpdated": "2026-10-03T21:16:39Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261003-5490010766",
+      "title": "Tesla just made its headlights even better through a software update",
+      "date": "2026-10-03",
+      "source": "Teslarati",
+      "summary": "Tesla just upgraded its headlights through a software update, making them even better without any physical or hardware upgrade. Tesla’s latest software update is quietly improving nighttime driving for a small number of owners. Version 2026.38 includes a new capability called Dynamic Headlight Leveling. The feature automatically adjusts the aim of the low beams in […]",
+      "url": "https://www.teslarati.com/tesla-headlights-even-better-through-software-update/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20260930-1763343913",
       "title": "Tesla Update 2026.38 Release Notes",
       "date": "2026-09-30",
@@ -1632,16 +1642,6 @@
       "source": "Teslarati",
       "summary": "Elon Musk clapped back at France’s decision to withhold the approval for Tesla’s Full Self-Driving (FSD) Supervised system, projecting a clear and blunt message to French Transport Minister Phillippe Tabarot, after he publicly rejected the technology in its current form. Tabarot outlines several concerns with Tesla Full Self-Driving in a detailed video statement, where he […]",
       "url": "https://www.teslarati.com/elon-musk-claps-back-france-tesla-full-self-driving-approval-delay/",
-      "countryISO": "FR",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260722-9323885969",
-      "title": "France Says Tesla FSD Isn't Safe Enough, Requires Changes",
-      "date": "2026-07-22",
-      "source": "Not a Tesla App",
-      "summary": "France has officially decided not to approve FSD in its current form, claiming the system raises too many safety concerns to allow it on public roads today",
-      "url": "https://www.notateslaapp.com/news/4480/france-says-tesla-fsd-isnt-safe-enough-requires-changes",
       "countryISO": "FR",
       "sourceKind": "news"
     }
