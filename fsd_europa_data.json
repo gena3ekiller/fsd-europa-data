@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-03T21:16:39Z",
+  "lastUpdated": "2026-10-06T18:22:51Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261006-3832686290",
+      "title": "Tesla App Update 4.61.5: Home Charging Quotes, Improvements to Charging Cards",
+      "date": "2026-10-06",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla app update 4.61.5.",
+      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.61.5/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261003-5490010766",
       "title": "Tesla just made its headlights even better through a software update",
       "date": "2026-10-03",
@@ -1633,16 +1643,6 @@
       "summary": "We take a look at the release notes and what's new in Tesla update 2026.26.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.26/release-notes",
       "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260723-3866596404",
-      "title": "Elon Musk is not happy about this Tesla Full Self-Driving approval delay",
-      "date": "2026-07-23",
-      "source": "Teslarati",
-      "summary": "Elon Musk clapped back at France’s decision to withhold the approval for Tesla’s Full Self-Driving (FSD) Supervised system, projecting a clear and blunt message to French Transport Minister Phillippe Tabarot, after he publicly rejected the technology in its current form. Tabarot outlines several concerns with Tesla Full Self-Driving in a detailed video statement, where he […]",
-      "url": "https://www.teslarati.com/elon-musk-claps-back-france-tesla-full-self-driving-approval-delay/",
-      "countryISO": "FR",
       "sourceKind": "news"
     }
   ],
