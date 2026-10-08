@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-07T06:01:44Z",
+  "lastUpdated": "2026-10-08T23:21:45Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,26 @@
   ],
   "news": [
     {
+      "id": "auto-20261008-800920012",
+      "title": "Tesla leaned on Dutch regulator to ease its FSD review, emails show",
+      "date": "2026-10-08",
+      "source": "Electrek",
+      "summary": "Tesla spent months pushing the Dutch vehicle regulator RDW to scale back its review of “Full Self-Driving (Supervised),” including disputing a €365,000 bill, according to emails obtained by Reuters. RDW later approved the system and is now asking the EU to do the same. That Dutch approval is the foundation of Tesla’s entire FSD push in Europe. Eight EU countries now allow the system, and a bloc-wide vote could come…",
+      "url": "https://electrek.co/2026/10/08/tesla-fsd-europe-rdw-pressure-reuters/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20261008-1073867736",
+      "title": "Tesla Renames FSD to ‘Tesla Assisted Driving’ in Europe",
+      "date": "2026-10-08",
+      "source": "Not a Tesla App",
+      "summary": "Tesla now calls FSD (Supervised) ‘Tesla Assisted Driving’ in Europe, meeting one of Germany’s conditions for backing EU-wide approval in an upcoming vote",
+      "url": "https://www.notateslaapp.com/news/4794/tesla-renames-fsd-to-tesla-assisted-driving-in-europe",
+      "countryISO": "DE",
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261007-8971503466",
       "title": "Tesla Updates FSD v14.3.11 Release Notes (Update 2026.33.5)",
       "date": "2026-10-07",
@@ -1622,26 +1642,6 @@
       "source": "Teslarati",
       "summary": "Tesla released Full Self-Driving version 14.3.7 yesterday, and after about 90 miles of testing today, it is evident there are some definite fixes from version 14.3.6, which I wrote about last week and called a regression. Within the first 40 minutes of my drive on v14.3.7, it saved me from getting into an accident with […]",
       "url": "https://www.teslarati.com/tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260801-9297978470",
-      "title": "Tesla FSD v14.3.7 (Update 2026.21.5) Release Notes",
-      "date": "2026-08-01",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla update 2026.21.5.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.21.5/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260729-4487927563",
-      "title": "Tesla FSD Safety Stats From Europe: 5.2x Safer Than Humans",
-      "date": "2026-07-29",
-      "source": "Not a Tesla App",
-      "summary": "Tesla is backing up its European Full Self-Driving (Supervised) expansion with some impressive real-world driving data",
-      "url": "https://www.notateslaapp.com/news/4510/tesla-fsd-safety-stats-from-europe-52x-safer-than-humans",
       "countryISO": null,
       "sourceKind": "news"
     }
