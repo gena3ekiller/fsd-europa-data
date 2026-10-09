@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-08T23:21:45Z",
+  "lastUpdated": "2026-10-09T22:39:07Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261009-1770413509",
+      "title": "Tesla drops ‘Full Self-Driving’ name in Europe after Germany pushback",
+      "date": "2026-10-09",
+      "source": "Electrek",
+      "summary": "Tesla’s driver-assistance package is now called “Tesla Assisted Driving” in Europe. The company’s German website no longer mentions “Full Self-Driving,” and the old address now redirects to a new “Tesla Assisted Driving” page. The rename follows Germany’s Transport Ministry calling the FSD name misleading, and it’s part of a deal that has Berlin backing Tesla’s push for EU-wide approval. more…",
+      "url": "https://electrek.co/2026/10/09/tesla-fsd-renamed-tesla-assisted-driving-europe/",
+      "countryISO": "DE",
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261008-800920012",
       "title": "Tesla leaned on Dutch regulator to ease its FSD review, emails show",
       "date": "2026-10-08",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "Tesla is ramping up efforts to get its Full Self-Driving (Supervised) software into the hands of European drivers",
       "url": "https://www.notateslaapp.com/news/4533/tesla-sends-out-free-2-month-fsd-trials-in-europe",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260802-304988360",
-      "title": "Tesla Full Self-Driving v14.3.7 early review: FSD saved me from an accident",
-      "date": "2026-08-02",
-      "source": "Teslarati",
-      "summary": "Tesla released Full Self-Driving version 14.3.7 yesterday, and after about 90 miles of testing today, it is evident there are some definite fixes from version 14.3.6, which I wrote about last week and called a regression. Within the first 40 minutes of my drive on v14.3.7, it saved me from getting into an accident with […]",
-      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-3-7-early-review-fsd-saved-me-accident/",
       "countryISO": null,
       "sourceKind": "news"
     }
