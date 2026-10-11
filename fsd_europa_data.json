@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-11T05:48:36Z",
+  "lastUpdated": "2026-10-11T21:58:43Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,26 @@
   ],
   "news": [
     {
+      "id": "auto-20261011-5271100004",
+      "title": "Tesla Updates App to 4.61.6: Adds Ability to Speak With Spooky Voice Through Car, Adds Sentry Mode Filter",
+      "date": "2026-10-11",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla app update 4.61.6.",
+      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.61.6/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20261010-2882287700",
+      "title": "Tesla FSD v14.3.12 With Halloween Mode Release Notes (Update 2026.38.5)",
+      "date": "2026-10-10",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.38.5.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261010-1589154601",
       "title": "Tesla Officially Renames Original Summon to ‘Dumb Summon’",
       "date": "2026-10-10",
@@ -1622,26 +1642,6 @@
       "source": "Electrek",
       "summary": "A Tesla owner posted dashcam footage of his car driving straight over a log lying across the road while running Full Self-Driving (FSD) v14.1 Lite, without braking or slowing down. The clip has more than 800,000 views, and it adds to a growing list of problems we’ve documented with Tesla’s “Lite” version of FSD on older Hardware 3 cars.",
       "url": "https://electrek.co/2026/08/24/tesla-fsd-v14-1-lite-drove-over-log/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260809-7016529237",
-      "title": "Tesla FSD V14.1 Lite (Update 2026.21.6) Release Notes",
-      "date": "2026-08-09",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla update 2026.21.6.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.21.6/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260807-9738882709",
-      "title": "Tesla Updates App to 4.59.5: Pet Mode Live Activity on Android, Tesla Assist With Photos and Continued Conversations",
-      "date": "2026-08-07",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla app update 4.59.5.",
-      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.59.5/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
