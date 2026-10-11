@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-09T22:39:07Z",
+  "lastUpdated": "2026-10-11T05:48:36Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261010-1589154601",
+      "title": "Tesla Officially Renames Original Summon to ‘Dumb Summon’",
+      "date": "2026-10-10",
+      "source": "Not a Tesla App",
+      "summary": "Tesla now officially calls its original Summon ‘Dumb Summon’ in Europe, as Enhanced Autopilot becomes Tesla Assisted Driving Basic at €99/month",
+      "url": "https://www.notateslaapp.com/news/4806/tesla-officially-renames-original-summon-feature",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261009-1770413509",
       "title": "Tesla drops ‘Full Self-Driving’ name in Europe after Germany pushback",
       "date": "2026-10-09",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla app update 4.59.5.",
       "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.59.5/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260804-7705333645",
-      "title": "Tesla Sends Out Free 2-Month FSD Trials in Europe",
-      "date": "2026-08-04",
-      "source": "Not a Tesla App",
-      "summary": "Tesla is ramping up efforts to get its Full Self-Driving (Supervised) software into the hands of European drivers",
-      "url": "https://www.notateslaapp.com/news/4533/tesla-sends-out-free-2-month-fsd-trials-in-europe",
       "countryISO": null,
       "sourceKind": "news"
     }
