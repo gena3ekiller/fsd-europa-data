@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-11T21:58:43Z",
+  "lastUpdated": "2026-10-16T21:09:47Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261016-1780491451",
+      "title": "Slovakia Becomes 9th European Country to Approve Tesla FSD",
+      "date": "2026-10-16",
+      "source": "Not a Tesla App",
+      "summary": "Tesla Europe says FSD is now approved in Slovakia with a rollout coming soon, bringing the number of approving European countries to nine.",
+      "url": "https://www.notateslaapp.com/news/4838/slovakia-becomes-9th-european-country-to-approve-tesla-fsd",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261011-5271100004",
       "title": "Tesla Updates App to 4.61.6: Adds Ability to Speak With Spooky Voice Through Car, Adds Sentry Mode Filter",
       "date": "2026-10-11",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "Tesla is starting to merge FSD and feature branches, bringing the 2026 Summer Update to vehicles on FSD.",
       "url": "https://www.notateslaapp.com/news/4604/tesla-begins-rolling-out-summer-update-to-fsd-vehicles-in-europe",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260824-4079652887",
-      "title": "Watch Tesla FSD v14 Lite drive over a giant log without stopping",
-      "date": "2026-08-24",
-      "source": "Electrek",
-      "summary": "A Tesla owner posted dashcam footage of his car driving straight over a log lying across the road while running Full Self-Driving (FSD) v14.1 Lite, without braking or slowing down. The clip has more than 800,000 views, and it adds to a growing list of problems we’ve documented with Tesla’s “Lite” version of FSD on older Hardware 3 cars.",
-      "url": "https://electrek.co/2026/08/24/tesla-fsd-v14-1-lite-drove-over-log/",
       "countryISO": null,
       "sourceKind": "news"
     }
