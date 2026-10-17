@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-16T21:09:47Z",
+  "lastUpdated": "2026-10-17T15:36:34Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261017-5988339546",
+      "title": "Why the New Tesla Roadster Won’t Get Full FSD",
+      "date": "2026-10-17",
+      "source": "Not a Tesla App",
+      "summary": "The new Tesla Roadster has the cameras for FSD, but its design and expected low sales mean owners will only get a limited version of the software",
+      "url": "https://www.notateslaapp.com/news/4842/why-the-new-tesla-roadster-wont-get-full-fsd",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261016-1780491451",
       "title": "Slovakia Becomes 9th European Country to Approve Tesla FSD",
       "date": "2026-10-16",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla update 2026.26.6.5.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.26.6.5/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260824-6412999426",
-      "title": "Tesla Begins Rolling Out Summer Update to FSD Vehicles in Europe",
-      "date": "2026-08-24",
-      "source": "Not a Tesla App",
-      "summary": "Tesla is starting to merge FSD and feature branches, bringing the 2026 Summer Update to vehicles on FSD.",
-      "url": "https://www.notateslaapp.com/news/4604/tesla-begins-rolling-out-summer-update-to-fsd-vehicles-in-europe",
       "countryISO": null,
       "sourceKind": "news"
     }
