@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-22T17:11:31Z",
+  "lastUpdated": "2026-10-22T21:36:51Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261022-4284362617",
+      "title": "Tesla is building its own maps to fix Navigation issues",
+      "date": "2026-10-22",
+      "source": "Teslarati",
+      "summary": "Tesla revealed plans to develop its own maps internally to fix Navigation issues and give owners more control over their routing. On the company’s Q3 2026 Earnings Call, a question was asked about FSD Navigation issues, particularly speed limit recognition, parking, and routing. These are issues that surface from version to version and seem to […]",
+      "url": "https://www.teslarati.com/tesla-building-its-own-maps-fix-navigation-issues/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261021-6337659766",
       "title": "Tesla FSD V14.3.12 Down Under Release Notes (Update 2026.38.5.5)",
       "date": "2026-10-21",
@@ -1632,16 +1642,6 @@
       "source": "Teslarati",
       "summary": "Tesla Full Self-Driving is set to get a major fix with pothole avoidance, a feature that CEO Elon Musk said recently was “coming soon.” The feature has been included within the FSD v14 release notes for some time as an upcoming improvement. Potholes come in all shapes and sizes, but one thing is universal about […]",
       "url": "https://www.teslarati.com/tesla-fixing-full-self-driving-pothole-problem/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260827-9060012344",
-      "title": "Tesla Full Self-Driving likes trains a bit too much",
-      "date": "2026-08-27",
-      "source": "Electrek",
-      "summary": "A Tesla running the latest version of “Full Self-Driving” failed to stop at an active railroad crossing this week and nearly drove straight into a passing train, according to the driver and as evidenced in dashcam footage. The kicker: it was running FSD v14.3.7, the newest build Tesla has released — and it’s at least the third time this year that Electrek has documented FSD trying to drive a Tesla into a train.",
-      "url": "https://electrek.co/2026/08/27/tesla-fsd-likes-trains-too-much/",
       "countryISO": null,
       "sourceKind": "news"
     }
