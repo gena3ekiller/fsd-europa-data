@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-20T17:08:11Z",
+  "lastUpdated": "2026-10-22T17:11:31Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261021-6337659766",
+      "title": "Tesla FSD V14.3.12 Down Under Release Notes (Update 2026.38.5.5)",
+      "date": "2026-10-21",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.38.5.5.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5.5/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261020-9714794396",
       "title": "Tesla FSD v14.3.13 and FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
       "date": "2026-10-20",
@@ -1632,16 +1642,6 @@
       "source": "Electrek",
       "summary": "A Tesla running the latest version of “Full Self-Driving” failed to stop at an active railroad crossing this week and nearly drove straight into a passing train, according to the driver and as evidenced in dashcam footage. The kicker: it was running FSD v14.3.7, the newest build Tesla has released — and it’s at least the third time this year that Electrek has documented FSD trying to drive a Tesla into a train.",
       "url": "https://electrek.co/2026/08/27/tesla-fsd-likes-trains-too-much/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260826-8763848153",
-      "title": "Tesla Updates App to v4.60: Passkey Support, Powershare and Wallet Improvements",
-      "date": "2026-08-26",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla app update 4.60.0.",
-      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.60.0/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
