@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-22T21:36:51Z",
+  "lastUpdated": "2026-10-23T17:08:21Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,26 @@
   ],
   "news": [
     {
+      "id": "auto-20261023-4684309630",
+      "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
+      "date": "2026-10-23",
+      "source": "Electrek",
+      "summary": "Rivian wants to rebuild the roads its customers drive as 3D test worlds for its self-driving system, and it just bought a 15-person UK startup called Third Dimension to do it, as first reported by TechCrunch . The startup was founded in 2024 by a former Tesla Autopilot simulation engineer and a veteran of Wayve’s neural simulator team. Rivian didn’t say what it paid. more…",
+      "url": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20261023-3485038042",
+      "title": "Tesla App Update 4.62: iPad Support, FSD Referral Rewards, X Money Support and More",
+      "date": "2026-10-23",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla app update 4.62.0.",
+      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.0/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261022-4284362617",
       "title": "Tesla is building its own maps to fix Navigation issues",
       "date": "2026-10-22",
@@ -1622,26 +1642,6 @@
       "source": "Electrek",
       "summary": "Tesla is rolling out a new version of its Full Self-Driving (Supervised) software that can take control of your car to avoid a crash, even when you’re driving manually. The automaker announced the feature, part of FSD Supervised v14.3.9, in a post from its AI team early Friday. more…",
       "url": "https://electrek.co/2026/09/04/tesla-fsd-active-safety-collision-avoidance/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260901-1330635555",
-      "title": "Tesla Now Uses Grok Think Fast 2.0 With Summer Update",
-      "date": "2026-09-01",
-      "source": "Not a Tesla App",
-      "summary": "In-cabin voice interactions in Tesla vehicles are getting a speed and intelligence upgrade with the Summer 2026 Software Update (version 2026.26 and later)",
-      "url": "https://www.notateslaapp.com/news/4638/tesla-now-uses-grok-think-fast-20-with-summer-update",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260831-4073708558",
-      "title": "Tesla is fixing Full Self-Driving’s pothole problem",
-      "date": "2026-08-31",
-      "source": "Teslarati",
-      "summary": "Tesla Full Self-Driving is set to get a major fix with pothole avoidance, a feature that CEO Elon Musk said recently was “coming soon.” The feature has been included within the FSD v14 release notes for some time as an upcoming improvement. Potholes come in all shapes and sizes, but one thing is universal about […]",
-      "url": "https://www.teslarati.com/tesla-fixing-full-self-driving-pothole-problem/",
       "countryISO": null,
       "sourceKind": "news"
     }
