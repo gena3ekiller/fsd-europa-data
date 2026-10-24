@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-23T17:08:21Z",
+  "lastUpdated": "2026-10-24T20:51:08Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261024-9323931870",
+      "title": "Tesla FSD v14.3.13 & FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
+      "date": "2026-10-24",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.38.5.11.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.38.5.11/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261023-4684309630",
       "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
       "date": "2026-10-23",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla update 2026.27.5.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.27.5/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260904-5605628424",
-      "title": "Tesla Full Self-Driving can now take over manual driving to avoid a collision",
-      "date": "2026-09-04",
-      "source": "Electrek",
-      "summary": "Tesla is rolling out a new version of its Full Self-Driving (Supervised) software that can take control of your car to avoid a crash, even when you’re driving manually. The automaker announced the feature, part of FSD Supervised v14.3.9, in a post from its AI team early Friday. more…",
-      "url": "https://electrek.co/2026/09/04/tesla-fsd-active-safety-collision-avoidance/",
       "countryISO": null,
       "sourceKind": "news"
     }
