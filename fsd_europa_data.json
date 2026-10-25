@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-24T20:51:08Z",
+  "lastUpdated": "2026-10-25T04:42:32Z",
   "countries": [
     {
       "id": "US",
@@ -1256,6 +1256,16 @@
       "sourceKind": "news"
     },
     {
+      "id": "auto-20261024-1041919575",
+      "title": "Tesla Updates App Again, Introduces Fixes to iPad, iPhone Duo and Android Foldables",
+      "date": "2026-10-24",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla app update 4.62.3.",
+      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.3/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261023-4684309630",
       "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
       "date": "2026-10-23",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "Following a two-month pause in market approvals, a sixth European nation has officially given Full Self-Driving the green light to operate on public streets",
       "url": "https://www.notateslaapp.com/news/4660/tesla-fsd-supervised-approved-in-slovenia-launching-soon",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260906-2768980400",
-      "title": "Tesla FSD v14.3.9 Release Notes (Update 2026.27.5)",
-      "date": "2026-09-06",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla update 2026.27.5.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.27.5/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
