@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-25T04:42:32Z",
+  "lastUpdated": "2026-10-26T22:40:34Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261026-6200670253",
+      "title": "Latvia Becomes 10th EU Country to Approve Tesla FSD",
+      "date": "2026-10-26",
+      "source": "Not a Tesla App",
+      "summary": "Tesla Europe says FSD is approved in Latvia with a rollout coming soon, making it the 10th EU country and 18th market worldwide to approve it.",
+      "url": "https://www.notateslaapp.com/news/4902/latvia-becomes-10th-eu-country-to-approve-tesla-fsd",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261024-9323931870",
       "title": "Tesla FSD v14.3.13 & FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
       "date": "2026-10-24",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla app update 4.60.5.",
       "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.60.5/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260907-6398073208",
-      "title": "Tesla FSD (Supervised) Approved in Slovenia, Launching Soon",
-      "date": "2026-09-07",
-      "source": "Not a Tesla App",
-      "summary": "Following a two-month pause in market approvals, a sixth European nation has officially given Full Self-Driving the green light to operate on public streets",
-      "url": "https://www.notateslaapp.com/news/4660/tesla-fsd-supervised-approved-in-slovenia-launching-soon",
       "countryISO": null,
       "sourceKind": "news"
     }
