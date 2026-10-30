@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-27T18:01:34Z",
+  "lastUpdated": "2026-10-30T22:21:19Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261030-6486158168",
+      "title": "Italy Backs EU-Wide Tesla FSD Approval After Salvini Speaks With Elon Musk",
+      "date": "2026-10-30",
+      "source": "Not a Tesla App",
+      "summary": "Italy backs EU-wide Tesla FSD approval after Salvini’s conversation with Musk. See the approved markets, hardware requirements and next steps.",
+      "url": "https://www.notateslaapp.com/news/4921/italy-backs-eu-wide-tesla-fsd-approval-after-salvini-speaks-with-elon-musk",
+      "countryISO": "IT",
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261027-4936346156",
       "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
       "date": "2026-10-27",
@@ -1632,16 +1642,6 @@
       "source": "Teslarati",
       "summary": "Tesla is rolling out a new version of its Full Self-Driving suite to some owners that comes with the massive addition of a safety feature. Tesla is rolling out Automatic Collision Evasion with the 2026.27.6 Software Update, which started rolling out to some vehicles last night. We received the update, along with Full Self-Driving v14.3.9, […]",
       "url": "https://www.teslarati.com/tesla-rolling-new-fsd-version-massive-safety-addition/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260909-3529824222",
-      "title": "Tesla Update 2026.32.3 Release Notes",
-      "date": "2026-09-09",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla update 2026.32.3.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.32.3/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
