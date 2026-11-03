@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-10-30T22:21:19Z",
+  "lastUpdated": "2026-11-03T23:24:13Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,36 @@
   ],
   "news": [
     {
+      "id": "auto-20261103-9528954483",
+      "title": "Tesla Full Self-Driving gets hit with some adjustments in Europe",
+      "date": "2026-11-03",
+      "source": "Teslarati",
+      "summary": "Tesla Full Self-Driving, which is now referred to in Europe as “Tesla Assisted Driving” (TAD), is getting hit with a handful of new changes at the hands of the Netherlands’ vehicle authority, the RDW (Rijksdienst voor het Wegverkeer). On 3 November, the RDW announced that it has assessed and approved a set of changes to […]",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-gets-hit-with-some-adjustments-europe/",
+      "countryISO": "NL",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20261103-4168996648",
+      "title": "Tesla cuts FSD’s speed margin from 50% to 10% over the limit in Europe",
+      "date": "2026-11-03",
+      "source": "Electrek",
+      "summary": "Tesla’s driver-assistance system in Europe can no longer be set to drive 50% over the speed limit. The Netherlands’ RDW, which approved the system in April, confirmed today that it signed off on an update capping the speed margin at 10% and officially renaming “FSD Supervised” to Tesla Assisted Driving. The changes land weeks before EU member states could vote on approving the system across the bloc, and they match…",
+      "url": "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/",
+      "countryISO": "DE",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20261103-1925802094",
+      "title": "Tesla FSD Gets Reduced Speed Offset & More Changes in Europe",
+      "date": "2026-11-03",
+      "source": "Not a Tesla App",
+      "summary": "The Dutch RDW approved a new name for Full Self-Driving, cutting its max speed offset from +50% to +10%, and more changes ahead of December’s EU vote",
+      "url": "https://www.notateslaapp.com/news/4938/tesla-fsd-gets-reduced-speed-offset-more-changes-in-europe",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261030-6486158168",
       "title": "Italy Backs EU-Wide Tesla FSD Approval After Salvini Speaks With Elon Musk",
       "date": "2026-10-30",
@@ -1612,36 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla update 2026.27.10.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.27.10/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260917-9547054839",
-      "title": "Tesla FSD v14.3.9 Down Under (Update 2026.28.5)",
-      "date": "2026-09-17",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla update 2026.28.5.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.28.5/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260912-9858751147",
-      "title": "Tesla plans big safety improvements for Full Self-Driving v15",
-      "date": "2026-09-12",
-      "source": "Teslarati",
-      "summary": "Tesla is planning to roll out some pretty significant safety and accident avoidance features with Full Self-Driving version 15, which will be the next major FSD deployment from the company. Tesla AI lead Ashok Elluswamy used a near-miss this week to preview what the company says is the next leap in Full Self-Driving. In response […]",
-      "url": "https://www.teslarati.com/tesla-plans-big-safety-improvements-full-self-driving-v15/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260909-6403346505",
-      "title": "Tesla is rolling out a new FSD version with a massive safety addition",
-      "date": "2026-09-09",
-      "source": "Teslarati",
-      "summary": "Tesla is rolling out a new version of its Full Self-Driving suite to some owners that comes with the massive addition of a safety feature. Tesla is rolling out Automatic Collision Evasion with the 2026.27.6 Software Update, which started rolling out to some vehicles last night. We received the update, along with Full Self-Driving v14.3.9, […]",
-      "url": "https://www.teslarati.com/tesla-rolling-new-fsd-version-massive-safety-addition/",
       "countryISO": null,
       "sourceKind": "news"
     }
