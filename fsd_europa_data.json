@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-03T23:24:13Z",
+  "lastUpdated": "2026-11-11T06:23:25Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261110-147091791",
+      "title": "Tesla App 4.62.5 Update Adds Ability to Remove Vehicle Keys and More",
+      "date": "2026-11-10",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla app update 4.62.5.",
+      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.5/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261103-9528954483",
       "title": "Tesla Full Self-Driving gets hit with some adjustments in Europe",
       "date": "2026-11-03",
@@ -1632,16 +1642,6 @@
       "source": "Teslarati",
       "summary": "Tesla’s Full Self-Driving (Supervised) is heading to Czechia after the Czech Ministry of Transport recognised the Dutch RDW’s provisional type approval, making the country the seventh EU member state to clear the system for public roads. Tesla Europe announced on 21 September 2026 that “FSD Supervised is now approved in Czechia” and that rollout “will […]",
       "url": "https://www.teslarati.com/tesla-full-self-driving-expands-another-european-country-czechia/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260919-941939307",
-      "title": "Tesla FSD v14.3.10 Release Notes (Update 2026.27.10)",
-      "date": "2026-09-19",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla update 2026.27.10.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.27.10/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
