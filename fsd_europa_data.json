@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-11T06:23:25Z",
+  "lastUpdated": "2026-11-11T19:36:49Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261111-5168091434",
+      "title": "Tesla FSD Approved in Finland, Rolling Out Soon",
+      "date": "2026-11-11",
+      "source": "Not a Tesla App",
+      "summary": "Finland’s Traficom recognized the Dutch approval for Tesla Assisted Driving so owners can get used to it before winter, bringing FSD to 19 countries worldwide",
+      "url": "https://www.notateslaapp.com/news/4986/tesla-fsd-approved-in-finland-rolling-out-soon",
+      "countryISO": "FI",
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261110-147091791",
       "title": "Tesla App 4.62.5 Update Adds Ability to Remove Vehicle Keys and More",
       "date": "2026-11-10",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "After updating to version 14.3.9, drivers across the fleet are reporting frequent alerts warning of dirty front-facing FSD cameras and demanding service visits",
       "url": "https://www.notateslaapp.com/news/4716/tesla-fsd-v1439-triggers-false-camera-service-alerts",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260921-5332968068",
-      "title": "Tesla Full Self-Driving expands to another European country",
-      "date": "2026-09-21",
-      "source": "Teslarati",
-      "summary": "Tesla’s Full Self-Driving (Supervised) is heading to Czechia after the Czech Ministry of Transport recognised the Dutch RDW’s provisional type approval, making the country the seventh EU member state to clear the system for public roads. Tesla Europe announced on 21 September 2026 that “FSD Supervised is now approved in Czechia” and that rollout “will […]",
-      "url": "https://www.teslarati.com/tesla-full-self-driving-expands-another-european-country-czechia/",
       "countryISO": null,
       "sourceKind": "news"
     }
