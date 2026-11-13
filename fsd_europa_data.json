@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-11T19:36:49Z",
+  "lastUpdated": "2026-11-13T06:47:24Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261112-9608328175",
+      "title": "Tesla Update 2026.39.100 Quietly Reduces FSD/TAD Max Speed in Europe",
+      "date": "2026-11-12",
+      "source": "Not a Tesla App",
+      "summary": "Update 2026.39.100 renames FSD to Tesla Assisted Driving in Europe and quietly cuts the max Speed Offset from +50% to +10%, resetting it each drive",
+      "url": "https://www.notateslaapp.com/news/4998/tesla-update-202639100-quietly-reduces-fsdtad-max-speed-in-europe",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261111-5168091434",
       "title": "Tesla FSD Approved in Finland, Rolling Out Soon",
       "date": "2026-11-11",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "The country has officially cleared FSD (Supervised) for use on public roads, opening the door for owners in Central Europe to finally experience the feature",
       "url": "https://www.notateslaapp.com/news/4715/tesla-fsd-supervised-approved-for-launch-in-czechia",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260921-6028048955",
-      "title": "Tesla FSD V14.3.9 Triggers False Camera Service Alerts",
-      "date": "2026-09-21",
-      "source": "Not a Tesla App",
-      "summary": "After updating to version 14.3.9, drivers across the fleet are reporting frequent alerts warning of dirty front-facing FSD cameras and demanding service visits",
-      "url": "https://www.notateslaapp.com/news/4716/tesla-fsd-v1439-triggers-false-camera-service-alerts",
       "countryISO": null,
       "sourceKind": "news"
     }
