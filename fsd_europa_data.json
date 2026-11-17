@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-13T06:47:24Z",
+  "lastUpdated": "2026-11-17T20:56:10Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261117-9492970306",
+      "title": "Tesla Update 2026.44.1 Release Notes",
+      "date": "2026-11-17",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.44.1.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261112-9608328175",
       "title": "Tesla Update 2026.39.100 Quietly Reduces FSD/TAD Max Speed in Europe",
       "date": "2026-11-12",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla app update 4.61.0.",
       "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.61.0/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260921-8486180623",
-      "title": "Tesla FSD (Supervised) Approved for Launch in Czechia",
-      "date": "2026-09-21",
-      "source": "Not a Tesla App",
-      "summary": "The country has officially cleared FSD (Supervised) for use on public roads, opening the door for owners in Central Europe to finally experience the feature",
-      "url": "https://www.notateslaapp.com/news/4715/tesla-fsd-supervised-approved-for-launch-in-czechia",
       "countryISO": null,
       "sourceKind": "news"
     }
