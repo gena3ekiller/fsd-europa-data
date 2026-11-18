@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-17T20:56:10Z",
+  "lastUpdated": "2026-11-18T20:32:37Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261118-6897736378",
+      "title": "Tesla toughens FSD driver monitoring in Europe while loosening it in the US",
+      "date": "2026-11-18",
+      "source": "Electrek",
+      "summary": "Tesla is rolling out stricter driver monitoring for its “Full Self-Driving” system in Europe, with earlier warnings, a full strike for drivers who look away during a manoeuvre, and a hands-on-wheel requirement above 130 km/h (81 mph). In the US, Tesla has spent the last year going the other way. Its CEO told owners they can text and drive on FSD, and recent US builds were tuned to nag drivers less. more…",
+      "url": "https://electrek.co/2026/11/18/tesla-fsd-driver-monitoring-europe-stricter-than-us/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261117-9492970306",
       "title": "Tesla Update 2026.44.1 Release Notes",
       "date": "2026-11-17",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla update 2026.27.11.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.27.11/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260922-1772657567",
-      "title": "Tesla App Update 4.61 Hints at Camera Sharing for Support, Adds Passkey and Supercharger Site Maps",
-      "date": "2026-09-22",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla app update 4.61.0.",
-      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.61.0/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
