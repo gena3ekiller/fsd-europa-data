@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-19T20:38:35Z",
+  "lastUpdated": "2026-11-20T20:22:18Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,26 @@
   ],
   "news": [
     {
+      "id": "auto-20261120-761973493",
+      "title": "Tesla Assisted Driving (TAD) lands approval in Italy, its 12th EU country",
+      "date": "2026-11-20",
+      "source": "Teslarati",
+      "summary": "Tesla Assisted Driving (TAD), the European equivalent of the Full Self-Driving suite in the U.S., has officially landed approval to operate in Italy, the 12th European Union country to allow the suite. Italy marks a huge accomplishment for Tesla’s approval processes in Europe, as it marks the first truly major European country to give an […]",
+      "url": "https://www.teslarati.com/tesla-assisted-driving-tad-lands-approval-italy-12th-eu-country/",
+      "countryISO": "IT",
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20261120-4491026799",
+      "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
+      "date": "2026-11-20",
+      "source": "Electrek",
+      "summary": "Italy’s transport ministry has granted provisional approval to Tesla Assisted Driving, the name Tesla now uses for “Full Self-Driving (Supervised)” in Europe. Italy becomes the 12th European country to allow the system, and the first of the EU’s big markets. It also didn’t wait for Brussels. The EU committee that decides on bloc-wide recognition isn’t expected to vote until December at the earliest. more…",
+      "url": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
+      "countryISO": "IT",
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261119-3097199555",
       "title": "Tesla Updates App to 4.63: Thanksgiving Badge, Supercharger Voting and Google Maps Integration, Precondition Battery and More",
       "date": "2026-11-19",
@@ -1623,26 +1643,6 @@
       "summary": "Tesla Full Self-Driving’s release in Europe is set to be delayed by at least a few months. The European Union will not vote on Tesla’s Full Self-Driving (Supervised) on October 6. The draft agenda for the 119th meeting of the Technical Committee on Motor Vehicles lists only a 25-minute “continuation of discussions” on the Netherlands’ […]",
       "url": "https://www.teslarati.com/tesla-full-self-driving-release-eu-gets-delayed/",
       "countryISO": "NL",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260925-4544996844",
-      "title": "EU delays Tesla ‘Full Self-Driving’ vote to December at the earliest",
-      "date": "2026-09-25",
-      "source": "Electrek",
-      "summary": "The EU won’t vote on Tesla’s “Full Self-Driving (Supervised)” on October 6. The draft agenda for the Technical Committee on Motor Vehicles (TCMV) meeting lists only a 25-minute “continuation of discussions” on the Dutch request to extend its FSD approval EU-wide. The committee doesn’t meet again until December, so that’s now the earliest a Tesla FSD EU vote can happen. And Tesla had been pointing to October 6. more…",
-      "url": "https://electrek.co/2026/09/25/eu-delays-tesla-fsd-vote-december-tcmv-agenda/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260924-8859317299",
-      "title": "Tesla ‘FSD’ sped in 55% of Brussels 30 km/h zones ahead of EU vote",
-      "date": "2026-09-24",
-      "source": "Electrek",
-      "summary": "Tesla’s “Full Self-Driving (Supervised)” broke the speed limit in 55% of the 30 km/h segments a Belgian road safety group tested in Brussels, averaging 44 km/h where the legal limit is 30 km/h. The results land less than two weeks before EU member states vote on approving FSD across the whole bloc. And speeding is exactly the issue Sweden and France have already flagged. more…",
-      "url": "https://electrek.co/2026/09/24/tesla-fsd-belgium-test-speeding-30-kmh-eu-vote/",
-      "countryISO": "FR",
       "sourceKind": "news"
     }
   ],
