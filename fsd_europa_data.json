@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-20T20:22:18Z",
+  "lastUpdated": "2026-11-21T19:16:58Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261121-4238811459",
+      "title": "Tesla Full Self-Driving v15 gets release date from Elon Musk",
+      "date": "2026-11-21",
+      "source": "Teslarati",
+      "summary": "Tesla Full Self-Driving v15 has received an official release date from CEO Elon Musk, who says the newest and most capable version of the suite will go wide in December with the 2026 Holiday Update. That means the first iterations of the suite could actually come sooner, as the Early Access Program is the initial […]",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v15-gets-release-date-elon-musk/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261120-761973493",
       "title": "Tesla Assisted Driving (TAD) lands approval in Italy, its 12th EU country",
       "date": "2026-11-20",
@@ -1633,16 +1643,6 @@
       "summary": "Tesla’s push to bring Full Self-Driving (Supervised) to European roads is moving forward, even if Brussels continues to drag its feet",
       "url": "https://www.notateslaapp.com/news/4742/tesla-in-talks-for-fsd-approval-in-ireland-as-eu-delays-vote",
       "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260925-5108300326",
-      "title": "Tesla Full Self-Driving release in the EU gets delayed",
-      "date": "2026-09-25",
-      "source": "Teslarati",
-      "summary": "Tesla Full Self-Driving’s release in Europe is set to be delayed by at least a few months. The European Union will not vote on Tesla’s Full Self-Driving (Supervised) on October 6. The draft agenda for the 119th meeting of the Technical Committee on Motor Vehicles lists only a 25-minute “continuation of discussions” on the Netherlands’ […]",
-      "url": "https://www.teslarati.com/tesla-full-self-driving-release-eu-gets-delayed/",
-      "countryISO": "NL",
       "sourceKind": "news"
     }
   ],
