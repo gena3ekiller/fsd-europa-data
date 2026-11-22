@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-21T19:16:58Z",
+  "lastUpdated": "2026-11-22T06:49:44Z",
   "countries": [
     {
       "id": "US",
@@ -1256,6 +1256,16 @@
       "sourceKind": "news"
     },
     {
+      "id": "auto-20261121-3940471641",
+      "title": "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements",
+      "date": "2026-11-21",
+      "source": "Teslarati",
+      "summary": "Tesla has announced that Full Self-Driving version 15 is now rolling out, after CEO Elon Musk said earlier today that the wide rollout would occur in December. Now, Tesla is rolling out to Early Access Program (EAP) members v15’s first builds, and there are a lot of new improvements. Tesla explicitly stated that safety improvements […]",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v15-rollout-begins-full-release-notes-improvements/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261120-761973493",
       "title": "Tesla Assisted Driving (TAD) lands approval in Italy, its 12th EU country",
       "date": "2026-11-20",
@@ -1633,16 +1643,6 @@
       "summary": "Europe’s biggest automotive powerhouse has officially clarified where it stands on Tesla's FSD software ahead of an EU-wide vote now set for December",
       "url": "https://www.notateslaapp.com/news/4749/germany-says-it-is-open-to-tesla-fsd-approval-confirms-eu-wide-vote-in-december",
       "countryISO": "DE",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260926-9032796865",
-      "title": "Tesla in Talks for FSD Approval in Ireland as EU Delays Vote",
-      "date": "2026-09-26",
-      "source": "Not a Tesla App",
-      "summary": "Tesla’s push to bring Full Self-Driving (Supervised) to European roads is moving forward, even if Brussels continues to drag its feet",
-      "url": "https://www.notateslaapp.com/news/4742/tesla-in-talks-for-fsd-approval-in-ireland-as-eu-delays-vote",
-      "countryISO": null,
       "sourceKind": "news"
     }
   ],
