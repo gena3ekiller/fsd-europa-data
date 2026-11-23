@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-22T19:41:47Z",
+  "lastUpdated": "2026-11-23T07:40:33Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261122-133048570",
+      "title": "Tesla Full Self-Driving v15: Reality View review, new features explained",
+      "date": "2026-11-22",
+      "source": "Teslarati",
+      "summary": "Tesla has officially started rolling out the Full Self-Driving version 15 update, and we were lucky enough to get it in the first wave on Saturday night. It comes with a lot of new features, but the biggest is Tesla Reality View, a real-time AI video generation of the outside world that uses less compute […]",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261121-8023488560",
       "title": "Tesla FSD v15 Release Notes",
       "date": "2026-11-21",
@@ -1632,16 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla update 2026.38.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.38/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260929-6699999440",
-      "title": "Tesla Wins Approval to Launch FSD (Supervised) in Croatia",
-      "date": "2026-09-29",
-      "source": "Not a Tesla App",
-      "summary": "The regulatory dominoes across Europe continue to tumble in Tesla’s favor, with Croatia becoming the eighth EU member nation to approve FSD for public use",
-      "url": "https://www.notateslaapp.com/news/4747/tesla-wins-approval-to-launch-fsd-supervised-in-croatia",
       "countryISO": null,
       "sourceKind": "news"
     }
