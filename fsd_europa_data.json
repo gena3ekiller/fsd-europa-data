@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-23T07:40:33Z",
+  "lastUpdated": "2026-11-23T23:54:31Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261123-8874749682",
+      "title": "Tesla FSD v15’s ‘Reality View’ has one complaint and Musk has the solution",
+      "date": "2026-11-23",
+      "source": "Teslarati",
+      "summary": "Tesla Full Self-Driving version 15’s biggest feature, “Reality View,” has one complaint, but in typical fashion, CEO Elon Musk already announced a solution. Upon the release of the v15 Full Self-Driving suite on Saturday, one of the first impressions of the new Reality View feature is that there is a bit of input lag on […]",
+      "url": "https://www.teslarati.com/tesla-fsd-v15s-reality-drive-one-complaint-musk-solution/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261122-133048570",
       "title": "Tesla Full Self-Driving v15: Reality View review, new features explained",
       "date": "2026-11-22",
@@ -1632,16 +1642,6 @@
       "source": "Teslarati",
       "summary": "Tesla just upgraded its headlights through a software update, making them even better without any physical or hardware upgrade. Tesla’s latest software update is quietly improving nighttime driving for a small number of owners. Version 2026.38 includes a new capability called Dynamic Headlight Leveling. The feature automatically adjusts the aim of the low beams in […]",
       "url": "https://www.teslarati.com/tesla-headlights-even-better-through-software-update/",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20260930-1763343913",
-      "title": "Tesla Update 2026.38 Release Notes",
-      "date": "2026-09-30",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla update 2026.38.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.38/release-notes",
       "countryISO": null,
       "sourceKind": "news"
     }
