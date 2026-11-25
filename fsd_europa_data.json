@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-23T23:54:31Z",
+  "lastUpdated": "2026-11-25T21:42:38Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,26 @@
   ],
   "news": [
     {
+      "id": "auto-20261125-55267655",
+      "title": "EU pushes back Tesla ‘Full Self-Driving’ vote meeting again, now set for December 15",
+      "date": "2026-11-25",
+      "source": "Electrek",
+      "summary": "The EU committee that could approve Tesla’s “Full Self-Driving,” now sold in Europe as Tesla Assisted Driving, across the whole bloc won’t meet on December 1 as planned. The meeting is now December 15. A European Commission spokesperson confirmed the new date to Reuters. The Technical Committee on Motor Vehicles (TCMV) has already discussed Tesla’s file at two meetings without putting it to a vote. more…",
+      "url": "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
+      "id": "auto-20261125-2724230967",
+      "title": "Europe Delays Tesla FSD Approval Vote, Again",
+      "date": "2026-11-25",
+      "source": "Not a Tesla App",
+      "summary": "The EU’s vote on Tesla Assisted Driving is now set for December 15. A rejection could undo approvals in 12 countries and disappoint countless owners",
+      "url": "https://www.notateslaapp.com/news/5080/europe-delays-tesla-fsd-approval-vote-again",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261123-8874749682",
       "title": "Tesla FSD v15’s ‘Reality View’ has one complaint and Musk has the solution",
       "date": "2026-11-23",
@@ -1622,26 +1642,6 @@
       "source": "Not a Tesla App",
       "summary": "We take a look at the release notes and what's new in Tesla update 2026.38.3.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.38.3/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20261006-3832686290",
-      "title": "Tesla App Update 4.61.5: Home Charging Quotes, Improvements to Charging Cards",
-      "date": "2026-10-06",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla app update 4.61.5.",
-      "url": "https://www.notateslaapp.com/tesla-app-updates/version/4.61.5/release-notes",
-      "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20261003-5490010766",
-      "title": "Tesla just made its headlights even better through a software update",
-      "date": "2026-10-03",
-      "source": "Teslarati",
-      "summary": "Tesla just upgraded its headlights through a software update, making them even better without any physical or hardware upgrade. Tesla’s latest software update is quietly improving nighttime driving for a small number of owners. Version 2026.38 includes a new capability called Dynamic Headlight Leveling. The feature automatically adjusts the aim of the low beams in […]",
-      "url": "https://www.teslarati.com/tesla-headlights-even-better-through-software-update/",
       "countryISO": null,
       "sourceKind": "news"
     }
