@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-25T21:42:38Z",
+  "lastUpdated": "2026-11-26T21:33:02Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261126-3053848226",
+      "title": "Tesla Update 2026.44.3.1 Release Notes",
+      "date": "2026-11-26",
+      "source": "Not a Tesla App",
+      "summary": "We take a look at the release notes and what's new in Tesla update 2026.44.3.1.",
+      "url": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261125-55267655",
       "title": "EU pushes back Tesla ‘Full Self-Driving’ vote meeting again, now set for December 15",
       "date": "2026-11-25",
@@ -1633,16 +1643,6 @@
       "summary": "Germany to back EU approval of Full Self-Driving if it's renamed Tesla Assisted Driving and limits speeding to 10%, ahead of a December vote",
       "url": "https://www.notateslaapp.com/news/4778/germany-will-support-fsd-in-eu-vote-if-tesla-renames-it",
       "countryISO": "DE",
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20261006-5052451764",
-      "title": "Tesla Halloween Mode Release Notes (Update 2026.38.3)",
-      "date": "2026-10-06",
-      "source": "Not a Tesla App",
-      "summary": "We take a look at the release notes and what's new in Tesla update 2026.38.3.",
-      "url": "https://www.notateslaapp.com/software-updates/version/2026.38.3/release-notes",
-      "countryISO": null,
       "sourceKind": "news"
     }
   ],
