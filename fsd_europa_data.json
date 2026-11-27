@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "lastUpdated": "2026-11-26T21:33:02Z",
+  "lastUpdated": "2026-11-27T21:18:09Z",
   "countries": [
     {
       "id": "US",
@@ -1246,6 +1246,16 @@
   ],
   "news": [
     {
+      "id": "auto-20261127-9743059685",
+      "title": "EU Shares Agenda for Tesla FSD Meeting With Possible Vote",
+      "date": "2026-11-27",
+      "source": "Not a Tesla App",
+      "summary": "The EU will discuss Tesla Assisted Driving on December 15, and a vote on EU-wide approval is possible but not guaranteed.",
+      "url": "https://www.notateslaapp.com/news/5098/eu-shares-agenda-for-tesla-fsd-meeting-with-possible-vote",
+      "countryISO": null,
+      "sourceKind": "news"
+    },
+    {
       "id": "auto-20261126-3053848226",
       "title": "Tesla Update 2026.44.3.1 Release Notes",
       "date": "2026-11-26",
@@ -1633,16 +1643,6 @@
       "summary": "We take a look at the release notes and what's new in Tesla update 2026.33.5.",
       "url": "https://www.notateslaapp.com/software-updates/version/2026.33.5/release-notes",
       "countryISO": null,
-      "sourceKind": "news"
-    },
-    {
-      "id": "auto-20261006-6232200877",
-      "title": "Germany Will Support FSD in EU Vote If Tesla Renames It",
-      "date": "2026-10-06",
-      "source": "Not a Tesla App",
-      "summary": "Germany to back EU approval of Full Self-Driving if it's renamed Tesla Assisted Driving and limits speeding to 10%, ahead of a December vote",
-      "url": "https://www.notateslaapp.com/news/4778/germany-will-support-fsd-in-eu-vote-if-tesla-renames-it",
-      "countryISO": "DE",
       "sourceKind": "news"
     }
   ],
